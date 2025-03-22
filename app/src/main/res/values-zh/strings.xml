@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">联系人</string>
+
+    <string name="incoming_call">来电</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">语音通话</string>
+    <string name="connected_apps">已连接的应用</string>
+    <string name="answer">应答</string>
+    <string name="more">更多</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+
+    <string name="whoops">哎呀！</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">网络连接缓慢或没有网络连接。请检查您的网络连接。</string>
+    <string name="retry">重试</string>
+    <string name="go_to_settings">转到设置</string>
+    <string name="dismiss">关闭</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">抱歉，由于维护，服务不可用，请稍后重试。谢谢！</string>
+    <string name="app_under_maintenance">应用程序正在维护中</string>
+    <string name="showing_ad_please_wait">显示广告，请稍候…</string>
+    <string name="showing_ad_please_wait_desc">此警告是为了防止您意外点击\n广告</string>
+    <string name="ad">广告</string>
+    <string name="continue_to_app">继续使用应用程序</string>
+    <string name="accept_and_continue"><![CDATA[接受并继续]]></string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">您确定吗!!!\n您想退出应用程序吗？</string>
+    <string name="press_here_to_exit">点击此处退出</string>
+    <string name="an_update_has_just_been_downloaded">更新刚刚下载。</string>
+
+    <string name="you_leaving">您正在离开…</string>
+    <string name="loading_ad">加载广告，请稍候…</string>
+
+
+    <string name="toast_message_sent">消息已发送</string>
+    <string name="toast_number_not_delete">号码未删除！出现错误</string>
+    <string name="toast_no_email_clients">未安装电子邮件客户端。</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[电话拨号器和联系人]]></string>
+    <string name="privacy_get_started">开始使用</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">欢迎使用\n联系人</string>
+    <string name="allow_permission_desription">允许拨打电话和修改联系人的权限</string>
+    <string name="allow_contact">联系人</string>
+    <string name="title_contact_description">允许此应用程序在来电者屏幕中读取和写入联系人。</string>
+    <string name="title_phone">电话状态</string>
+    <string name="title_phone_description">帮助我们识别来电和拨出电话的状态。</string>
+    <string name="title_call_log">通话记录</string>
+    <string name="title_call_log_description">允许应用程序读取和写入用户的通话记录数据。</string>
+    <string name="title_overlay_permissiom">覆盖权限</string>
+    <string name="title_overlay_description">要使用免费通话后功能，我们必须请求覆盖权限。</string>
+    <string name="allow_permission">允许权限</string>
+
+    <string name="dialog_perm_title">需要权限</string>
+    <string name="dialog_perm_desc">此应用需要权限才能使用此功能。您可以在应用设置中授予他们权限。</string>
+    <string name="dialog_perm_go_to_setting">转到设置</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">设置为默认</string>
+    <string name="set_as_default_description"><![CDATA[点击以下按钮将联系人设置为默认来电显示和垃圾邮件应用]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">收藏</string>
+    <string name="home_recent">最近</string>
+    <string name="home_contacts">联系人</string>
+    <string name="home_search_here">在此处搜索</string>
+    <string name="home_other">其他</string>
+    <string name="home_block_contacts">阻止联系人</string>
+    <string name="home_settings">设置</string>
+    <string name="home_rate">评分</string>
+    <string name="home_share">分享</string>
+    <string name="home_feedback">反馈</string>
+    <string name="home_privacy_policy">隐私政策</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">常规</string>
+    <string name="make_default"><![CDATA[将联系人设置为默认来电显示和垃圾邮件应用]]></string>
+    <string name="show_caller_dialog">显示通话后来电显示</string>
+    <string name="show_quick_decline_messages">快速拒绝消息</string>
+    <string name="show_dial_pad_sound">拨号盘声音</string>
+    <string name="show_led_flash">LED 闪光</string>
+    <string name="setting_dark_theme">深色主题</string>
+    <string name="toast_flash_not_supported">您的设备不支持 LED 闪光</string>
+
+    <string name="setting_edit_contact">编辑联系人</string>
+    <string name="default_account">新联系人的默认帐户</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">拨出电话</string>
+    <string name="declined_call">拒绝呼叫</string>
+    <string name="block_call">阻止呼叫</string>
+    <string name="missed_Call">未接来电</string>
+    <string name="incoming">来电</string>
+    <string name="block">阻止</string>
+    <string name="unblock">解除阻止</string>
+
+    <string name="recent_call">呼叫</string>
+    <string name="video_call">视频呼叫</string>
+    <string name="recent_info">信息</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">添加到联系人</string>
+
+    <!--  Contact info  -->
+    <string name="call">呼叫</string>
+    <string name="message">消息</string>
+    <string name="video">视频</string>
+    <string name="info_contact_info">联系人信息</string>
+    <string name="info_contact_history">联系人历史记录</string>
+    <string name="info_see_all">查看全部</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">阻止号码</string>
+    <string name="block_call_from_unknown">阻止来自未知号码的呼叫</string>
+    <string name="block_add_phone_hint">添加电话号码</string>
+    <string name="block_enter_valid_number">请输入有效号码</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">通话记录</string>
+    <string name="history_no_data">未找到数据</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">同步联系人</string>
+    <string name="popup_clear_history">清除历史记录</string>
+    <string name="popup_speed_dial_numbers">快速拨号号码</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">快速响应</string>
+    <string name="quick_response_add">添加</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">过滤呼叫</string>
+    <string name="filter_all_calls">所有呼叫</string>
+    <string name="filter_missed_calls">未接来电</string>
+    <string name="filter_incoming_calls">来电</string>
+    <string name="filter_outgoing_calls">拨出电话</string>
+    <string name="filter_reset">重置</string>
+    <string name="filter_apply">应用</string>
+    <string name="filter_sim_all">全模拟</string>
+    <string name="filter_sim_one">模拟1</string>
+    <string name="filter_sim_two">模拟2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">添加快速响应</string>
+    <string name="dialog_quick_response_edit">编辑快速响应</string>
+    <string name="dialog_quick_response_hint">消息</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">快速拨号</string>
+    <string name="speed_dial_desc">将联系人分配给快速拨号号码。</string>
+    <string name="speed_dial_not_assign">不分配</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">管理呼叫</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">姓名前缀</string>
+    <string name="first_name_hint">名字</string>
+    <string name="middle_name_hint">中间名</string>
+    <string name="surname_hint">姓氏</string>
+    <string name="name_suffix_hint">姓名后缀</string>
+
+    <string name="company_name_hint">公司名称</string>
+    <string name="department_hint">部门</string>
+    <string name="title_hint">职称</string>
+
+    <string name="phone_number_hint">电话号码</string>
+    <string name="email_hint">电子邮件</string>
+    <string name="significant_date_hint">重要日期</string>
+    <string name="website_hint">网站</string>
+    <string name="notes_hint">备注</string>
+    <string name="label_hint">标签</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">关于</string>
+    <string name="accept">接受</string>
+    <string name="accounts">帐户</string>
+    <string name="add_contact">创建新联系人</string>
+    <string name="add_email">添加电子邮件</string>
+    <string name="add_phone_number">添加电话号码</string>
+    <string name="add_picture">添加图片</string>
+    <string name="addcall">添加呼叫</string>
+    <string name="all_contacts_0">所有联系人 0</string>
+    <string name="always_use_this_sim">始终使用此 SIM</string>
+
+
+    <string name="block_contact">阻止联系人</string>
+    <!--    <string name="block_contact_desc">您将不再收到来自此联系人的任何电话或消息。</string>-->
+    <string name="block_contact_desc">您确定要阻止此号码吗？</string>
+    <string name="toast_block_contact">联系人已成功阻止</string>
+
+    <string name="default_app_desc">要使用通讯录中的所有可用功能，您需要将通讯录应用程序设置为默认手机应用程序。</string>
+    <string name="block_contect_default_app">要阻止联系人，您需要将联系人设置为默认手机应用</string>
+    <string name="block_error_message">您尚未阻止此联系人。请在此联系人中添加第一个电话号码。</string>
+    <string name="block_not_supported">此设备不支持屏蔽号码功能。</string>
+    <string name="calendar">日历</string>
+    <string name="call_ended">通话结束</string>
+    <string name="call_ending">通话结束</string>
+    <string name="call_on_hold">通话保持</string>
+    <string name="call_swap">滑动通话</string>
+    <string name="can_call_you_later">我可以稍后给您打电话吗？</string>
+    <string name="can_not_talk_right_now">抱歉，我现在不能说话</string>
+    <string name="change_photo">更改照片</string>
+
+
+    <string name="conference_manage">电话会议</string>
+    <string name="confirm_message_of_delete">您确定要删除此联系人吗？</string>
+
+    <string name="contact_label">标签</string>
+    <string name="contact_name">联系人姓名</string>
+    <string name="contacts">联系人</string>
+    <string name="create_contact">创建联系人</string>
+    <string name="decline">拒绝</string>
+
+
+    <string name="add">添加</string>
+    <string name="update">更新</string>
+    <string name="delete">删除</string>
+    <string name="share">分享</string>
+    <string name="set_ringtone">设置铃声</string>
+
+
+    <string name="delete_contact_message">您确定要删除此号码吗？</string>
+
+    <string name="edit_contact">编辑联系人</string>
+    <string name="fields_empty">至少需要 1 个字段！</string>
+
+
+    <string name="more_fields">更多字段</string>
+    <string name="name_format">名称格式</string>
+
+
+    <string name="duration">持续时间</string>
+    <string name="email">电子邮件</string>
+    <string name="email_validation">请先添加电子邮件！</string>
+    <string name="event">重要日期</string>
+
+
+    <string name="gmail_not_install">未安装 Gmail</string>
+    <string name="first_name_first">先输入名字</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">历史记录</string>
+    <string name="i_am_on_my_way">我正在路上</string>
+
+
+    <string name="hold">保持</string>
+    <string name="hold_call">保持通话</string>
+    <string name="dialing">拨号…</string>
+    <string name="is_calling">正在呼叫…</string>
+    <string name="keypad">键盘</string>
+    <string name="merge">合并</string>
+
+
+    <string name="lbl_find">查找联系人并允许权限</string>
+
+
+    <string name="message_delete_history">您确定要清除所有历史记录吗？</string>
+    <string name="messages">消息</string>
+
+
+    <string name="no_app_found">未找到用于拨打电话的应用</string>
+    <string name="no_app_found_hendle_this_event">未找到处理此事件的应用！</string>
+    <string name="no_block_contact">未屏蔽联系人</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">未找到收藏联系人！</string>
+    <string name="no_recent_found">未找到最近联系人！</string>
+    <string name="no_contacts_found">未找到联系人！</string>
+
+    <string name="no_title">无标题</string>
+    <string name="notes">备注</string>
+    <string name="number_blocked_msg">已成功屏蔽号码</string>
+    <string name="number_unblocked_msg">已成功解除屏蔽号码</string>
+    <string name="number_not">未找到号码</string>
+    <string name="number_of_calls_with">通话</string>
+    <string name="older">较旧</string>
+    <string name="ongoing_call">拨出电话</string>
+
+
+    <string name="permission_set_as_default">您是否希望将此应用设置为默认电话应用？您可以在应用设置中授予它们。</string>
+    <string name="phone">电话</string>
+    <string name="phone_validation">请先添加电话号码！</string>
+
+    <string name="private_number">私人号码</string>
+
+    <string name="remind_me_about">提醒我</string>
+    <string name="remove_photo">删除照片</string>
+    <string name="resume_call">恢复通话</string>
+    <string name="save">保存</string>
+    <string name="save_to">保存到</string>
+    <string name="search_contacts">搜索联系人</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="select">选择</string>
+    <string name="select_sim">选择 SIM</string>
+    <string name="selected_account">您选择的帐户</string>
+    <string name="selected_contact">0 已选择</string>
+    <string name="selected_photo">选择照片</string>
+    <string name="send_a_message">发送消息</string>
+    <string name="send_mail">发送邮件</string>
+
+    <string name="settings">设置</string>
+
+    <string name="share_via">通过以下方式共享</string>
+    <string name="share_your_expirence">分享您的体验</string>
+
+    <string name="sim_not_available">SIM 网络不可用.....!</string>
+    <string name="sortby">排序依据</string>
+    <string name="speaker">扬声器</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">今天</string>
+    <string name="string_yesterday">昨天</string>
+
+    <string name="surname">姓氏</string>
+    <string name="surname_first">姓氏优先</string>
+    <string name="take_new_photo">拍摄新照片</string>
+    <string name="text">文本</string>
+    <string name="this_month">本月</string>
+    <string name="title">标题</string>
+    <string name="title_anniversary">周年纪念</string>
+    <string name="title_birthday">生日</string>
+    <string name="title_cancel">取消</string>
+    <string name="title_go_to_setting">转到设置</string>
+    <string name="title_help_to_identify">帮助其他人识别此号码</string>
+    <string name="title_home">主页</string>
+    <string name="title_home_fax">家庭传真</string>
+    <string name="title_lang">语言</string>
+    <string name="title_main">主要</string>
+    <string name="title_mobile">手机</string>
+    <string name="title_mute">静音</string>
+    <string name="title_no_lable">无标签</string>
+    <string name="title_other">其他</string>
+    <string name="title_pager">寻呼机</string>
+    <string name="title_private_number">私人号码</string>
+    <string name="title_save">保存</string>
+    <string name="title_sim_not_register">未注册网络</string>
+    <string name="title_summary">摘要</string>
+    <string name="title_today">今天</string>
+    <string name="title_work">工作</string>
+    <string name="title_work_fax">工作传真</string>
+    <string name="turn_microphone_off">关闭麦克风</string>
+    <string name="turn_microphone_on">打开麦克风</string>
+    <string name="turn_speaker_off">关闭扬声器</string>
+    <string name="turn_speaker_on">打开扬声器</string>
+    <string name="unknown">未知</string>
+    <string name="unknown_caller">未知呼叫者</string>
+    <string name="unknown_error_occurred">发生未知错误</string>
+
+    <string name="web">网络</string>
+    <string name="website">网站</string>
+    <string name="write_personal_message">写个人信息</string>
+
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+
+    <string name="no_ringtone_found">未找到铃声！铃声设置成功</string>
+    <string name="ringtone_set_successfully">请输入名字</string>
+
+    <string name="toast_please_enter_firstname">请输入姓氏</string>
+    <string name="toast_please_enter_surname">请输入有效的电话号码</string>
+    <string name="toast_please_enter_valid_phone_no">请输入有效的电子邮件</string>
+    <string name="toast_please_enter_valid_email">现在无法通话…</string>
+
+    <string name="can_t_talk_right_now">我稍后再给您打电话。</string>
+    <string name="i_ll_call_you_later">我正在路上。</string>
+    <string name="i_m_on_the_way">我在路上。</string>
+    <string name="can_t_talk_now_call_me_later">现在不能说话。稍后给我打电话。</string>
+    <string name="toast_number_already_blocked">号码已被屏蔽</string>
+    <string name="no_app_found_to_handle_this_action">找不到处理此操作的应用程序</string>
+    <string name="choose_sim_for_make_call">选择SIM卡拨打电话</string>
+    <string name="contacts_with_phone_numbers">与电话号码的联系人</string>
+    <string name="welcome_to_contacts">欢迎来到联系方式</string>
+
+    <string name="premium_purchase_successful">购买成功</string>
+
+</resources> 
+

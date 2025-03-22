@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:width="@dimen/_12sdp" android:gravity="center">
+
+        <shape android:shape="rectangle">
+            <solid android:color="@color/bg_contact_scroll" />
+            <corners android:radius="@dimen/_6sdp" />
+        </shape>
+
+    </item>
+
+<!--    <item>-->
+<!--        <rotate android:fromDegrees="90"-->
+<!--            android:toDegrees="90"  >-->
+<!--            <shape android:shape="line">-->
+<!--                <stroke android:color="@color/text_gray" android:width="@dimen/_1sdp" android:dashGap="@dimen/_10sdp" android:dashWidth="@dimen/_1sdp" />-->
+<!--            </shape>-->
+<!--        </rotate>-->
+<!--    </item>-->
+
+</layer-list>

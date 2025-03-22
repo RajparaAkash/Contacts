@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">رابطے</string>
+
+    <string name="incoming_call">آنے والی کال</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">وائس کال</string>
+    <string name="connected_apps">منسلک ایپس</string>
+    <string name="answer">جواب</string>
+    <string name="more">مزید</string>
+    <string name="today">آج</string>
+    <string name="yesterday"> کل</string>
+
+    <string name="whoops">افوہ!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">سست یا انٹرنیٹ کنیکشن نہیں ہے۔ براہ کرم اپنا انٹرنیٹ کنکشن چیک کریں۔</string>
+    <string name="retry">دوبارہ کوشش کریں۔</string>
+    <string name="go_to_settings">ترتیبات پر جائیں۔</string>
+    <string name="dismiss">برطرف کرنا</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">معذرت، دیکھ بھال کی وجہ سے سروس دستیاب نہیں ہے، براہ کرم کچھ دیر بعد کوشش کریں یا دوبارہ کوشش کریں۔ شکریہ!</string>
+    <string name="app_under_maintenance">دیکھ بھال کے تحت ایپ</string>
+    <string name="showing_ad_please_wait">اشتہار دکھا رہا ہے، براہ کرم انتظار کریں…</string>
+    <string name="showing_ad_please_wait_desc">یہ وارننگ آپ کے لیے ہے کہ غلطی سے اشتہار پر کلک نہ کریں۔</string>
+    <string name="ad">AD</string>
+    <string name="continue_to_app">ایپ پر جاری رکھیں</string>
+    <string name="accept_and_continue"><![CDATA[قبول کریں اور جاری رکھیں]]></string>
+    <string name="privacy_policy">رازداری کی پالیسی</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">کیا آپ کو یقین ہے !!!\nآپ ایپ سے باہر نکلنا چاہتے ہیں؟</string>
+    <string name="press_here_to_exit">باہر نکلنے کے لیے یہاں دبائیں۔</string>
+    <string name="an_update_has_just_been_downloaded">ایک اپ ڈیٹ ابھی ڈاؤن لوڈ کیا گیا ہے۔</string>
+
+    <string name="you_leaving">تم جا رہے ہو…</string>
+    <string name="loading_ad">اشتہار لوڈ ہو رہا ہے، براہ کرم انتظار کریں…</string>
+
+
+    <string name="toast_message_sent">پیغام چلا گیا</string>
+    <string name="toast_number_not_delete">نمبر حذف نہیں! کچھ غلط ہو گیا</string>
+    <string name="toast_no_email_clients">کوئی ای میل کلائنٹس انسٹال نہیں ہیں۔</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[فون ڈائلر اور رابطے]]></string>
+    <string name="privacy_get_started">شروع کرنے کے</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">روابط\nمیں خوش آمدید</string>
+    <string name="allow_permission_desription">کال کرنے اور رابطوں میں ترمیم کرنے کی اجازت دیں۔</string>
+    <string name="allow_contact">رابطہ کریں۔</string>
+    <string name="title_contact_description">اس ایپ کو کالر اسکرین میں رابطہ پڑھنے اور لکھنے کی اجازت دیں۔</string>
+    <string name="title_phone">فون کی حیثیت</string>
+    <string name="title_phone_description">آنے والی اور جانے والی کال کی حیثیت کی شناخت کرنے میں ہماری مدد کریں۔</string>
+    <string name="title_call_log">کال لاگز</string>
+    <string name="title_call_log_description">ایک ایپلیکیشن کو صارف کے کال لاگ ڈیٹا کو پڑھنے اور لکھنے کی اجازت دیتا ہے۔</string>
+    <string name="title_overlay_permissiom">اوورلے کی اجازت</string>
+    <string name="title_overlay_description">کال کے بعد کی مفت خصوصیت استعمال کرنے کے لیے، ہمیں اوورلے کی اجازت طلب کرنی چاہیے۔</string>
+    <string name="allow_permission">اجازت دیں۔</string>
+
+    <string name="dialog_perm_title">اجازتوں کی ضرورت ہے۔</string>
+    <string name="dialog_perm_desc">اس ایپ کو اس فیچر کو استعمال کرنے کے لیے اجازت درکار ہے۔ آپ انہیں ایپ کی ترتیبات میں دے سکتے ہیں۔</string>
+    <string name="dialog_perm_go_to_setting">ترتیبات پر جائیں۔</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">ڈیفالٹ کے طور پر مقرر</string>
+    <string name="set_as_default_description"><![CDATA[نیچے بٹن پر کلک کرکے اپنی ڈیفالٹ کالر آئی ڈی اور اسپام ایپ کے طور پر رابطہ کریں]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">پسندیدہ</string>
+    <string name="home_recent">حالیہ</string>
+    <string name="home_contacts">رابطے</string>
+    <string name="home_search_here">یہاں تلاش کریں۔</string>
+    <string name="home_other">دیگر</string>
+    <string name="home_block_contacts">روابط کو مسدود کریں۔</string>
+    <string name="home_settings">ترتیبات</string>
+    <string name="home_rate">شرح</string>
+    <string name="home_share">بانٹیں</string>
+    <string name="home_feedback">تاثرات</string>
+    <string name="home_privacy_policy">رازداری کی پالیسی</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">جنرل</string>
+    <string name="make_default"><![CDATA[رابطہ کو بطور ڈیفالٹ کالر آئی ڈی اور اسپام ایپ سیٹ کریں]]></string>
+    <string name="show_caller_dialog">کال کے بعد کالر ID دکھائیں۔</string>
+    <string name="show_quick_decline_messages">فوری رد کرنے والے پیغامات</string>
+    <string name="show_dial_pad_sound">ڈائل پیڈ ساؤنڈ</string>
+    <string name="show_led_flash">لیڈ فلیش</string>
+    <string name="setting_dark_theme">ڈارک تھیم</string>
+    <string name="toast_flash_not_supported">آپ کا آلہ لیڈ فلیش کو سپورٹ نہیں کرتا ہے۔</string>
+
+    <string name="setting_edit_contact">رابطہ میں ترمیم کریں۔</string>
+    <string name="default_account">نئے رابطوں کے لیے ڈیفالٹ اکاؤنٹ</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">کی گئی کالز</string>
+    <string name="declined_call">کال مسترد کر دی گئی۔</string>
+    <string name="block_call">بلاک کال</string>
+    <string name="missed_Call">مسڈ کال</string>
+    <string name="incoming">آنے والی کال</string>
+    <string name="block">بلاک</string>
+    <string name="unblock">غیر مسدود کریں۔</string>
+
+    <string name="recent_call">کال کریں۔</string>
+    <string name="video_call">ویڈیو کال</string>
+    <string name="recent_info">معلومات</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">رابطوں میں شامل کریں۔</string>
+
+    <!--  Contact info  -->
+    <string name="call">کال کریں۔</string>
+    <string name="message">پیغام</string>
+    <string name="video">ویڈیو</string>
+    <string name="info_contact_info">رابطہ کی معلومات</string>
+    <string name="info_contact_history">رابطے کی سرگزشت</string>
+    <string name="info_see_all">تمام دیکھیں</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">بلاک نمبرز</string>
+    <string name="block_call_from_unknown">نامعلوم نمبروں سے کالیں بلاک کریں۔</string>
+    <string name="block_add_phone_hint">فون نمبر شامل کریں۔</string>
+    <string name="block_enter_valid_number">براہ کرم درست نمبر درج کریں۔</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">کال کی تاریخ</string>
+    <string name="history_no_data">کوئی ڈیٹا نہیں ملا</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">رابطہ کو مطابقت پذیر بنائیں</string>
+    <string name="popup_clear_history">ماضی مٹا دو</string>
+    <string name="popup_speed_dial_numbers">سپیڈ ڈائل نمبرز</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">فوری رد عمل</string>
+    <string name="quick_response_add">شامل کریں۔</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">فلٹر کال</string>
+    <string name="filter_all_calls">تمام کالز</string>
+    <string name="filter_missed_calls">مسڈ کالز</string>
+    <string name="filter_incoming_calls">آنے والی کالز</string>
+    <string name="filter_outgoing_calls">کی جانے والی کالز</string>
+    <string name="filter_reset">دوبارہ ترتیب دیں۔</string>
+    <string name="filter_apply">درخواست دیں</string>
+    <string name="filter_sim_all">تمام سم</string>
+    <string name="filter_sim_one">سم 1</string>
+    <string name="filter_sim_two">سم 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">فوری جواب شامل کریں۔</string>
+    <string name="dialog_quick_response_edit">فوری جواب میں ترمیم کریں۔</string>
+    <string name="dialog_quick_response_hint">پیغام</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">رفتار ڈائل</string>
+    <string name="speed_dial_desc">سپیڈ ڈائل نمبر کو رابطہ تفویض کریں۔</string>
+    <string name="speed_dial_not_assign">تفویض نہیں</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">کالز کا نظم کریں۔</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">نام کا سابقہ</string>
+    <string name="first_name_hint">پہلا نام</string>
+    <string name="middle_name_hint">درمیانی نام</string>
+    <string name="surname_hint">کنیت</string>
+    <string name="name_suffix_hint">نام کا لاحقہ</string>
+
+    <string name="company_name_hint">کمپنی کا نام</string>
+    <string name="department_hint">شعبہ</string>
+    <string name="title_hint">عنوان</string>
+
+    <string name="phone_number_hint">فون نمبر</string>
+    <string name="email_hint">ای میل</string>
+    <string name="significant_date_hint">اہم تاریخ</string>
+    <string name="website_hint">ویب سائٹ</string>
+    <string name="notes_hint">نوٹس</string>
+    <string name="label_hint">لیبل</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">کے بارے میں</string>
+    <string name="accept">قبول کریں۔</string>
+    <string name="accounts">اکاؤنٹس</string>
+    <string name="add_contact">نیا رابطہ بنائیں</string>
+    <string name="add_email">ای میل شامل کریں۔</string>
+    <string name="add_phone_number">فون نمبر شامل کریں۔</string>
+    <string name="add_picture">تصویر شامل کریں۔</string>
+    <string name="addcall">کال شامل کریں۔</string>
+    <string name="all_contacts_0">تمام رابطے 0</string>
+    <string name="always_use_this_sim">اس سم کو ہمیشہ استعمال کریں۔</string>
+
+
+    <string name="block_contact">رابطہ کو مسدود کریں۔</string>
+    <!--    <string name="block_contact_desc">اب آپ کو اس رابطے سے کوئی کال یا پیغام موصول نہیں ہوگا۔</string>-->
+    <string name="block_contact_desc">کیا آپ واقعی اس نمبر کو بلاک کرنا چاہتے ہیں؟</string>
+    <string name="toast_block_contact">رابطہ کامیابی سے مسدود ہو گیا۔</string>
+
+    <string name="default_app_desc">رابطوں میں دستیاب تمام خصوصیات کو استعمال کرنے کے لیے، آپ کو اسے رابطہ ایپ کو اپنی ڈیفالٹ فون ایپ کے طور پر بنانا ہوگا۔</string>
+    <string name="block_contect_default_app">رابطہ کو مسدود کرنے کے لیے آپ کو رابطہ کو اپنی ڈیفالٹ فون ایپ کے طور پر بنانا ہوگا۔</string>
+    <string name="block_error_message">آپ نے اس رابطے کو مسدود نہیں کیا ہے۔ براہ کرم اس رابطہ میں پہلا فون نمبر شامل کریں۔</string>
+    <string name="block_not_supported">بلاک نمبر فیچر اس ڈیوائس میں سپورٹ نہیں ہے۔</string>
+    <string name="calendar">کیلنڈر</string>
+    <string name="call_ended">کال ختم ہو گئی۔</string>
+    <string name="call_ending">کال ختم</string>
+    <string name="call_on_hold">ہولڈ پر کال کریں۔</string>
+    <string name="call_swap">کال سوائپ کریں۔</string>
+    <string name="can_call_you_later">کیا میں آپ کو بعد میں کال کر سکتا ہوں؟</string>
+    <string name="can_not_talk_right_now">معذرت، میں ابھی بات نہیں کر سکتا</string>
+    <string name="change_photo">تصویر تبدیل کریں</string>
+
+
+    <string name="conference_manage">کانفرنس کال</string>
+    <string name="confirm_message_of_delete">کیا آپ واقعی اس رابطے کو حذف کرنا چاہتے ہیں؟</string>
+
+    <string name="contact_label">لیبل</string>
+    <string name="contact_name">رابطے کا نام</string>
+    <string name="contacts">رابطے</string>
+    <string name="create_contact">رابطہ بنائیں</string>
+    <string name="decline">رد کرنا</string>
+
+
+    <string name="add">شامل کریں۔</string>
+    <string name="update">اپ ڈیٹ</string>
+    <string name="delete">حذف کریں۔</string>
+    <string name="share">بانٹیں</string>
+    <string name="set_ringtone">رنگ ٹون سیٹ کریں۔</string>
+
+
+    <string name="delete_contact_message">کیا آپ واقعی اس نمبر کو حذف کرنا چاہتے ہیں؟</string>
+
+    <string name="edit_contact">رابطے میں ترمیم کریں۔</string>
+    <string name="fields_empty">کم از کم 1 فیلڈ درکار ہے!</string>
+
+
+    <string name="more_fields">مزید فیلڈز</string>
+    <string name="name_format">نام کی شکل</string>
+
+
+    <string name="duration">دورانیہ</string>
+    <string name="email">ای میل</string>
+    <string name="email_validation">براہ کرم پہلے ای میل شامل کریں!</string>
+    <string name="event">اہم تاریخ</string>
+
+
+    <string name="gmail_not_install">جی میل انسٹال نہیں ہے۔</string>
+    <string name="first_name_first">پہلا نام</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">تاریخ</string>
+    <string name="i_am_on_my_way">میں راستے میں ہوں</string>
+
+
+    <string name="hold">پکڑو</string>
+    <string name="hold_call">کال پکڑو</string>
+    <string name="dialing">ڈائل ہو رہا ہے…</string>
+    <string name="is_calling">کال کر رہا ہے…</string>
+    <string name="keypad">کی پیڈ</string>
+    <string name="merge">ضم</string>
+
+
+    <string name="lbl_find">رابطہ تلاش کریں اور اجازت دیں۔</string>
+
+
+    <string name="message_delete_history">کیا آپ واقعی تمام سرگزشت صاف کرنا چاہتے ہیں؟</string>
+    <string name="messages">پیغامات</string>
+
+
+    <string name="no_app_found">کال کرنے کے لیے کوئی ایپ نہیں ملی</string>
+    <string name="no_app_found_hendle_this_event">اس ایونٹ کو سنبھالنے کے لیے کوئی ایپ نہیں ملی!</string>
+    <string name="no_block_contact">کوئی رابطہ بلاک نہیں۔</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">کوئی پسندیدہ رابطہ نہیں ملا!</string>
+    <string name="no_recent_found">کوئی حالیہ نہیں ملا!</string>
+    <string name="no_contacts_found">کوئی رابطہ نہیں ملا!</string>
+
+    <string name="no_title">بلا عنوان</string>
+    <string name="notes">نوٹس</string>
+    <string name="number_blocked_msg">نمبر کامیابی سے بلاک کر دیا گیا۔</string>
+    <string name="number_unblocked_msg">نمبر کامیابی کے ساتھ غیر مسدود کر دیا گیا۔</string>
+    <string name="number_not">نمبر نہیں ملا</string>
+    <string name="number_of_calls_with">کے ساتھ کال کرتا ہے۔</string>
+    <string name="older">پرانا</string>
+    <string name="ongoing_call">کی گئی کالز</string>
+
+
+    <string name="permission_set_as_default">کیا آپ اس ایپ کو ڈیفالٹ فون ایپ کے طور پر سیٹ کرنے کے لیے پسند کرتے ہیں؟ آپ انہیں ایپ کی ترتیبات میں دے سکتے ہیں۔</string>
+    <string name="phone">فون</string>
+    <string name="phone_validation">براہ کرم پہلے فون نمبر شامل کریں!</string>
+
+    <string name="private_number">پرائیویٹ نمبرز</string>
+
+    <string name="remind_me_about">کے بارے میں مجھے یاد دلائیں۔</string>
+    <string name="remove_photo">تصویر ہٹا دیں۔</string>
+    <string name="resume_call">کال دوبارہ شروع کریں۔</string>
+    <string name="save">محفوظ کریں۔</string>
+    <string name="save_to">محفوظ کریں</string>
+    <string name="search_contacts">رابطہ تلاش کریں۔</string>
+    <string name="search_menu_title">تلاش کریں۔</string>
+    <string name="select">منتخب کریں۔</string>
+    <string name="select_sim">سم منتخب کریں۔</string>
+    <string name="selected_account">آپ کا منتخب کردہ اکاؤنٹ</string>
+    <string name="selected_contact">0 منتخب کیا گیا۔</string>
+    <string name="selected_photo">تصویر منتخب کریں۔</string>
+    <string name="send_a_message">پیغام بھیجو</string>
+    <string name="send_mail">میل بھیجیں۔</string>
+
+    <string name="settings">ترتیبات</string>
+
+    <string name="share_via">کے ذریعے شیئر کریں۔</string>
+    <string name="share_your_expirence">اپنا تجربہ شیئر کریں۔</string>
+
+    <string name="sim_not_available">سم نیٹ ورک دستیاب نہیں.....!</string>
+    <string name="sortby">ترتیب دیں</string>
+    <string name="speaker">اسپیکر</string>
+    <string name="string_special_character">[^a-z0-9]</string>
+    <string name="string_today">آج</string>
+    <string name="string_yesterday">کل</string>
+
+    <string name="surname">کنیت</string>
+    <string name="surname_first">سب سے پہلے کنیت</string>
+    <string name="take_new_photo">نئی تصویر لیں۔</string>
+    <string name="text">متن</string>
+    <string name="this_month">اس مہینے</string>
+    <string name="title">عنوان</string>
+    <string name="title_anniversary">سالگرہ</string>
+    <string name="title_birthday">سالگرہ</string>
+    <string name="title_cancel">منسوخ کریں۔</string>
+    <string name="title_go_to_setting">ترتیبات پر جائیں۔</string>
+    <string name="title_help_to_identify">اس نمبر کی شناخت میں دوسروں کی مدد کریں۔</string>
+    <string name="title_home">گھر</string>
+    <string name="title_home_fax">ہوم فیکس</string>
+    <string name="title_lang">زبان</string>
+    <string name="title_main">مرکزی</string>
+    <string name="title_mobile">موبائل</string>
+    <string name="title_mute">خاموش</string>
+    <string name="title_no_lable">کوئی لیبل نہیں۔</string>
+    <string name="title_other">دیگر</string>
+    <string name="title_pager">پیجر</string>
+    <string name="title_private_number">پرائیویٹ نمبر</string>
+    <string name="title_save">محفوظ کریں۔</string>
+    <string name="title_sim_not_register">رجسٹرڈ نیٹ ورک نہیں۔</string>
+    <string name="title_summary">خلاصہ</string>
+    <string name="title_today">آج</string>
+    <string name="title_work">کام</string>
+    <string name="title_work_fax">کام کا فیکس</string>
+    <string name="turn_microphone_off">مائکروفون بند کر دیں۔</string>
+    <string name="turn_microphone_on">مائیکروفون آن کریں۔</string>
+    <string name="turn_speaker_off">سپیکر بند کر دیں۔</string>
+    <string name="turn_speaker_on">اسپیکر آن کریں۔</string>
+    <string name="unknown">نامعلوم</string>
+    <string name="unknown_caller">نامعلوم کالر</string>
+    <string name="unknown_error_occurred">نامعلوم خرابی پیش آگئی</string>
+
+    <string name="web">ویب</string>
+    <string name="website">ویب سائٹ</string>
+    <string name="write_personal_message">ذاتی پیغام لکھیں۔</string>
+
+    <string name="yes">جی ہاں</string>
+    <string name="no">نہیں</string>
+    <string name="cancel">منسوخ کریں۔</string>
+    <string name="ok">ٹھیک ہے</string>
+
+    <string name="no_ringtone_found">رنگ ٹون نہیں ملا!</string>
+    <string name="ringtone_set_successfully">رنگ ٹون کامیابی سے سیٹ ہو گیا۔</string>
+
+    <string name="toast_please_enter_firstname">براہ کرم پہلا نام درج کریں۔</string>
+    <string name="toast_please_enter_surname">براہ کرم کنیت درج کریں۔</string>
+    <string name="toast_please_enter_valid_phone_no">براہ کرم درست فون نمبر درج کریں۔</string>
+    <string name="toast_please_enter_valid_email">براہ کرم درست ای میل درج کریں۔</string>
+
+    <string name="can_t_talk_right_now">ابھی بات نہیں ہو سکتی…</string>
+    <string name="i_ll_call_you_later">میں آپ کو بعد میں کال کروں گا۔</string>
+    <string name="i_m_on_the_way">میں راستے میں ہوں۔</string>
+    <string name="can_t_talk_now_call_me_later">اب بات نہیں کر سکتے۔ مجھے بعد میں کال کرنا۔</string>
+    <string name="toast_number_already_blocked">نمبر پہلے ہی مسدود ہے۔</string>
+    <string name="no_app_found_to_handle_this_action">اس کارروائی کو سنبھالنے کے لیے کوئی ایپ نہیں ملی</string>
+    <string name="choose_sim_for_make_call">کال کرنے کے لیے سم کا انتخاب کریں۔</string>
+    <string name="contacts_with_phone_numbers">فون نمبرز کے ساتھ رابطے</string>
+    <string name="welcome_to_contacts">رابطوں میں خوش آمدید</string>
+
+    <string name="premium_purchase_successful">خریداری کامیاب</string>
+
+</resources> 
+

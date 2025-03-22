@@ -1,0 +1,117 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+}
+
+android {
+    namespace 'com.contacts.phonecontact.phonebook.dialer'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.contacts.phonecontact.phonebook.dialer"
+        minSdk 24
+        targetSdk 34
+        versionCode 15
+        versionName "2.4"
+        resConfigs "en", "ar", "bn", "de", "es", "fa", "fr", "gu", "ha", "hi", "in", "it", "ja", "jv", "ko", "mr", "nl", "pa", "pl", "pt", "ru", "sv", "sw", "ta", "te", "th", "tr", "ur", "vi", "zh"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    buildFeatures {
+        viewBinding = true
+        buildConfig = true
+    }
+
+    bundle {
+        language {
+            enableSplit = false
+        }
+    }
+
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation "androidx.multidex:multidex:2.0.1"
+
+    implementation 'androidx.work:work-runtime:2.8.1'
+
+    implementation 'com.intuit.sdp:sdp-android:1.1.1'
+    implementation 'com.intuit.ssp:ssp-android:1.1.1'
+
+    implementation 'com.karumi:dexter:6.2.3'
+
+    implementation 'com.github.bumptech.glide:glide:4.16.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.16.0'
+
+    implementation 'com.airbnb.android:lottie:6.6.2'
+
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    implementation 'net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:3.0.0-RC2'
+
+    implementation 'com.alexvasilkov:gesture-views:2.8.3'
+
+    implementation "androidx.room:room-runtime:2.6.1"
+    annotationProcessor "androidx.room:room-compiler:2.6.1"
+
+    implementation 'io.michaelrocks:libphonenumber-android:8.13.35'
+
+    implementation "org.greenrobot:eventbus:3.3.1"
+
+    implementation 'org.jsoup:jsoup:1.13.1'
+
+
+    implementation 'com.github.myinnos:AlphabetIndex-Fast-Scroll-RecyclerView:1.0.95'
+
+    implementation 'com.google.code.gson:gson:2.10.1'
+
+    implementation 'com.google.android.gms:play-services-ads:22.0.0'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    implementation 'androidx.lifecycle:lifecycle-runtime:2.3.1'
+    implementation 'androidx.lifecycle:lifecycle-process:2.3.1'
+    //noinspection LifecycleAnnotationProcessorWithJava8
+    annotationProcessor 'androidx.lifecycle:lifecycle-compiler:2.3.1'
+
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0'
+
+
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+
+
+    implementation(platform("com.google.firebase:firebase-bom:33.8.0"))
+    implementation("com.google.firebase:firebase-crashlytics")
+    implementation("com.google.firebase:firebase-analytics")
+    implementation("com.google.firebase:firebase-database")
+
+    implementation 'com.google.android.play:review:2.0.2'
+    implementation 'com.google.android.play:app-update:2.1.0'
+
+    implementation "com.android.billingclient:billing:6.2.0"
+
+}

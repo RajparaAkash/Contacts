@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Контакты</string>
+
+    <string name="incoming_call">Входящий звонок</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">Голосовой звонок</string>
+    <string name="connected_apps">Подключенные приложения</string>
+    <string name="answer">Ответить</string>
+    <string name="more">Еще</string>
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+
+    <string name="whoops">Упс!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">Медленное или отсутствует подключение к Интернету. Пожалуйста, проверьте ваше интернет-соединение.</string>
+    <string name="retry">Повторить попытку</string>
+    <string name="go_to_settings">Перейдите в настройки</string>
+    <string name="dismiss">Увольнять</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">К сожалению, услуга недоступна из-за технического обслуживания. Попробуйте через некоторое время или повторите попытку. Спасибо !</string>
+    <string name="app_under_maintenance">Приложение на обслуживании</string>
+    <string name="showing_ad_please_wait">Показывается реклама, пожалуйста, подождите…</string>
+    <string name="showing_ad_please_wait_desc">Это предупреждение предназначено для того, чтобы вы случайно не нажали\nadvertisement.</string>
+    <string name="ad">ОБЪЯВЛЕНИЕ</string>
+    <string name="continue_to_app">Перейти к приложению</string>
+    <string name="accept_and_continue"><![CDATA[Принять и продолжить]]></string>
+    <string name="privacy_policy">политика конфиденциальности</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">Вы уверены !!!\nВы хотите выйти из приложения?</string>
+    <string name="press_here_to_exit">Нажмите здесь, чтобы выйти</string>
+    <string name="an_update_has_just_been_downloaded">Обновление только что было скачано.</string>
+
+    <string name="you_leaving">Ты уходишь…</string>
+    <string name="loading_ad">Загрузка объявления, пожалуйста, подождите…</string>
+
+
+    <string name="toast_message_sent">Сообщение отправлено</string>
+    <string name="toast_number_not_delete">Номер не удалять! что-то пошло не так</string>
+    <string name="toast_no_email_clients">Почтовые клиенты не установлены.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[Телефонный номер и контакты]]></string>
+    <string name="privacy_get_started">Начать</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">Добро пожаловать в\nКонтакты</string>
+    <string name="allow_permission_desription">Разрешить разрешение на звонки и изменение контактов</string>
+    <string name="allow_contact">Контакт</string>
+    <string name="title_contact_description">Разрешить этому приложению читать и записывать контакты на экране звонящего.</string>
+    <string name="title_phone">Статус телефона</string>
+    <string name="title_phone_description">Помогите нам определить статус входящего и исходящего вызова.</string>
+    <string name="title_call_log">Журналы вызовов</string>
+    <string name="title_call_log_description">Позволяет приложению читать и записывать данные журнала вызовов пользователя.</string>
+    <string name="title_overlay_permissiom">Разрешение наложения</string>
+    <string name="title_overlay_description">Чтобы использовать бесплатную функцию послевызова, мы должны запросить разрешение на наложение.</string>
+    <string name="allow_permission">Разрешить разрешение</string>
+
+    <string name="dialog_perm_title">Нужны разрешения</string>
+    <string name="dialog_perm_desc">Этому приложению требуется разрешение на использование этой функции. Вы можете предоставить их в настройках приложения.</string>
+    <string name="dialog_perm_go_to_setting">ПЕРЕЙДИТЕ В НАСТРОЙКИ</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">Установить по умолчанию</string>
+    <string name="set_as_default_description"><![CDATA[Сделайте контакт приложением Caller Id & Spam по умолчанию, нажав кнопку ниже]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">Любимый</string>
+    <string name="home_recent">Недавний</string>
+    <string name="home_contacts">Контакты</string>
+    <string name="home_search_here">Поищи здесь</string>
+    <string name="home_other">Другой</string>
+    <string name="home_block_contacts">Блокировать контакты</string>
+    <string name="home_settings">Настройки</string>
+    <string name="home_rate">Ставка</string>
+    <string name="home_share">Делиться</string>
+    <string name="home_feedback">Обратная связь</string>
+    <string name="home_privacy_policy">Политика конфиденциальности</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">Общий</string>
+    <string name="make_default"><![CDATA[Установить контакт как приложение CallerId и спам по умолчанию]]></string>
+    <string name="show_caller_dialog">Показать идентификатор вызывающего абонента после вызова</string>
+    <string name="show_quick_decline_messages">Сообщения о быстром отклонении</string>
+    <string name="show_dial_pad_sound">Звук панели набора номера</string>
+    <string name="show_led_flash">Светодиодная вспышка</string>
+    <string name="setting_dark_theme">Темная тема</string>
+    <string name="toast_flash_not_supported">Ваше устройство не поддерживает светодиодную вспышку</string>
+
+    <string name="setting_edit_contact">Изменить контакт</string>
+    <string name="default_account">Учетная запись по умолчанию для новых контактов</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">Исходящий вызов</string>
+    <string name="declined_call">Отклоненный вызов</string>
+    <string name="block_call">Заблокированный вызов</string>
+    <string name="missed_Call">Пропущенный звонок</string>
+    <string name="incoming">Входящий звонок</string>
+    <string name="block">Блокировать</string>
+    <string name="unblock">Разблокировать</string>
+
+    <string name="recent_call">Вызов</string>
+    <string name="video_call">Видеозвонок</string>
+    <string name="recent_info">Информация</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">Добавить в контакты</string>
+
+    <!--  Contact info  -->
+    <string name="call">Вызов</string>
+    <string name="message">Сообщение</string>
+    <string name="video">видео</string>
+    <string name="info_contact_info">Контактная информация</string>
+    <string name="info_contact_history">История контактов</string>
+    <string name="info_see_all">Увидеть все</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">Блокировать номера</string>
+    <string name="block_call_from_unknown">Блокировать звонки с неизвестных номеров</string>
+    <string name="block_add_phone_hint">Добавьте номер телефона</string>
+    <string name="block_enter_valid_number">Пожалуйста, введите действительный номер</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">История звонков</string>
+    <string name="history_no_data">Данные не найдены</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">Синхронизировать контакт</string>
+    <string name="popup_clear_history">Чистая история</string>
+    <string name="popup_speed_dial_numbers">Номера быстрого набора</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">Быстрый ответ</string>
+    <string name="quick_response_add">Добавлять</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">Фильтровать вызов</string>
+    <string name="filter_all_calls">Все звонки</string>
+    <string name="filter_missed_calls">Пропущенные звонки</string>
+    <string name="filter_incoming_calls">Входящие звонки</string>
+    <string name="filter_outgoing_calls">Исходящие звонки</string>
+    <string name="filter_reset">Перезагрузить</string>
+    <string name="filter_apply">Применять</string>
+    <string name="filter_sim_all">Все Сим</string>
+    <string name="filter_sim_one">Сим 1</string>
+    <string name="filter_sim_two">Сим 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">Добавить быстрый ответ</string>
+    <string name="dialog_quick_response_edit">Изменить быстрый ответ</string>
+    <string name="dialog_quick_response_hint">Сообщение</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">Быстрый набор</string>
+    <string name="speed_dial_desc">Назначьте контакту номер быстрого набора.</string>
+    <string name="speed_dial_not_assign">Не назначать</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">Управление звонками</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">Префикс имени</string>
+    <string name="first_name_hint">Имя</string>
+    <string name="middle_name_hint">Второе имя</string>
+    <string name="surname_hint">Фамилия</string>
+    <string name="name_suffix_hint">Суффикс</string>
+
+    <string name="company_name_hint">Название компании</string>
+    <string name="department_hint">Отделение</string>
+    <string name="title_hint">Заголовок</string>
+
+    <string name="phone_number_hint">Номер телефона</string>
+    <string name="email_hint">Электронная почта</string>
+    <string name="significant_date_hint">Знаменательная дата</string>
+    <string name="website_hint">Веб-сайт</string>
+    <string name="notes_hint">Примечания</string>
+    <string name="label_hint">Этикетка</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">О</string>
+    <string name="accept">Принимать</string>
+    <string name="accounts">Счета</string>
+    <string name="add_contact">Создать новый контакт</string>
+    <string name="add_email">Добавить адрес электронной почты</string>
+    <string name="add_phone_number">Добавьте номер телефона</string>
+    <string name="add_picture">Добавить изображение</string>
+    <string name="addcall">Добавить звонок</string>
+    <string name="all_contacts_0">Все контакты 0</string>
+    <string name="always_use_this_sim">Всегда используйте эту сим-карту</string>
+
+
+    <string name="block_contact">Блокируй контакт</string>
+    <!--    <string name="block_contact_desc">Вы больше не будете получать звонки и сообщения от этого контакта.</string>-->
+    <string name="block_contact_desc">Вы уверены, что хотите заблокировать этот номер?</string>
+    <string name="toast_block_contact">Контакт успешно заблокирован</string>
+
+    <string name="default_app_desc">Чтобы использовать все функции, доступные в контактах, вам необходимо сделать это приложение контактов приложением для телефона по умолчанию.</string>
+    <string name="block_contect_default_app">Чтобы заблокировать контакт, вам необходимо сделать контакт приложением для телефона по умолчанию.</string>
+    <string name="block_error_message">Вы не заблокировали этот контакт. Пожалуйста, добавьте первый номер телефона в этот контакт.</string>
+    <string name="block_not_supported">Функция блокировки номера не поддерживается на этом устройстве.</string>
+    <string name="calendar">Календарь</string>
+    <string name="call_ended">Звонок окончен</string>
+    <string name="call_ending">завершение вызова</string>
+    <string name="call_on_hold">Звонок на удержании</string>
+    <string name="call_swap">Проведите вызов</string>
+    <string name="can_call_you_later">Может я позвоню тебе позже?</string>
+    <string name="can_not_talk_right_now">Извините, я не могу сейчас говорить</string>
+    <string name="change_photo">Измени фотографию</string>
+
+
+    <string name="conference_manage">Групповой звонок</string>
+    <string name="confirm_message_of_delete">Вы уверены, что хотите удалить этот контакт?</string>
+
+    <string name="contact_label">Этикетка</string>
+    <string name="contact_name">Контактное лицо</string>
+    <string name="contacts">Контакты</string>
+    <string name="create_contact">Создать контакт</string>
+    <string name="decline">Отклонить</string>
+
+
+    <string name="add">Добавлять</string>
+    <string name="update">Обновлять</string>
+    <string name="delete">Удалить</string>
+    <string name="share">Делиться</string>
+    <string name="set_ringtone">Установить рингтон</string>
+
+
+    <string name="delete_contact_message">Вы уверены, что хотите удалить этот номер?</string>
+
+    <string name="edit_contact">Изменить контакт</string>
+    <string name="fields_empty">Требуется минимум 1 поле!</string>
+
+
+    <string name="more_fields">Больше полей</string>
+    <string name="name_format">Формат имени</string>
+
+
+    <string name="duration">Продолжительность</string>
+    <string name="email">Электронная почта</string>
+    <string name="email_validation">Пожалуйста, сначала добавьте адрес электронной почты!</string>
+    <string name="event">Знаменательная дата</string>
+
+
+    <string name="gmail_not_install">Не установлен Gmail</string>
+    <string name="first_name_first">Имя сначала</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">История</string>
+    <string name="i_am_on_my_way">я уже в пути</string>
+
+
+    <string name="hold">Держать</string>
+    <string name="hold_call">Удержание вызова</string>
+    <string name="dialing">Набор номера…</string>
+    <string name="is_calling">Звонит…</string>
+    <string name="keypad">Клавиатура</string>
+    <string name="merge">Объединить</string>
+
+
+    <string name="lbl_find">Найдите контакт и разрешите разрешение</string>
+
+
+    <string name="message_delete_history">Вы уверены, что хотите очистить всю историю?</string>
+    <string name="messages">Сообщения</string>
+
+
+    <string name="no_app_found">Приложение для звонка не найдено</string>
+    <string name="no_app_found_hendle_this_event">Не найдено приложение для обработки этого события!</string>
+    <string name="no_block_contact">Нет блокировки контакта</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">Любимый контакт не найден!</string>
+    <string name="no_recent_found">Недавних не найдено!</string>
+    <string name="no_contacts_found">Контакт не найден!</string>
+
+    <string name="no_title">Без заголовка</string>
+    <string name="notes">Примечания</string>
+    <string name="number_blocked_msg">Номер заблокирован успешно</string>
+    <string name="number_unblocked_msg">Номер успешно разблокирован</string>
+    <string name="number_not">Номер не найден</string>
+    <string name="number_of_calls_with">звонки с</string>
+    <string name="older">Старшая</string>
+    <string name="ongoing_call">исходящий вызов</string>
+
+
+    <string name="permission_set_as_default">Хотите, чтобы это приложение было установлено в качестве приложения для телефона по умолчанию? Вы можете предоставить их в настройках приложения.</string>
+    <string name="phone">Телефон</string>
+    <string name="phone_validation">Пожалуйста, сначала добавьте номер телефона!</string>
+
+    <string name="private_number">Частные номера</string>
+
+    <string name="remind_me_about">Напомни мне о</string>
+    <string name="remove_photo">Удалить фото</string>
+    <string name="resume_call">Возобновить звонок</string>
+    <string name="save">Сохранять</string>
+    <string name="save_to">Сохранить</string>
+    <string name="search_contacts">Поиск контакта</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="select">Выбирать</string>
+    <string name="select_sim">Выберите сим-карту</string>
+    <string name="selected_account">Выбранный вами аккаунт</string>
+    <string name="selected_contact">0 выбрано</string>
+    <string name="selected_photo">Выбрать фото</string>
+    <string name="send_a_message">Отправить сообщение</string>
+    <string name="send_mail">Отправить письмо</string>
+
+    <string name="settings">Настройки</string>
+
+    <string name="share_via">Отправить по</string>
+    <string name="share_your_expirence">Поделитесь своим опытом</string>
+
+    <string name="sim_not_available">Сим-сеть недоступна.....!</string>
+    <string name="sortby">Сортировать по</string>
+    <string name="speaker">Оратор</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">Сегодня</string>
+    <string name="string_yesterday">Вчера</string>
+
+    <string name="surname">Фамилия</string>
+    <string name="surname_first">Фамилия сначала</string>
+    <string name="take_new_photo">Сделать новое фото</string>
+    <string name="text">Текст</string>
+    <string name="this_month">этот месяц</string>
+    <string name="title">Заголовок</string>
+    <string name="title_anniversary">Годовщина</string>
+    <string name="title_birthday">День рождения</string>
+    <string name="title_cancel">Отмена</string>
+    <string name="title_go_to_setting">ПЕРЕЙДИТЕ В НАСТРОЙКИ</string>
+    <string name="title_help_to_identify">Помогите другим определить этот номер</string>
+    <string name="title_home">Дом</string>
+    <string name="title_home_fax">Домашний факс</string>
+    <string name="title_lang">Язык</string>
+    <string name="title_main">Основной</string>
+    <string name="title_mobile">мобильный</string>
+    <string name="title_mute">Немой</string>
+    <string name="title_no_lable">Без марки</string>
+    <string name="title_other">Другой</string>
+    <string name="title_pager">Пейджер</string>
+    <string name="title_private_number">Личный номер</string>
+    <string name="title_save">Сохранять</string>
+    <string name="title_sim_not_register">Не зарегистрированная сеть</string>
+    <string name="title_summary">Краткое содержание</string>
+    <string name="title_today">Сегодня</string>
+    <string name="title_work">Работа</string>
+    <string name="title_work_fax">Рабочий факс</string>
+    <string name="turn_microphone_off">Выключить микрофон</string>
+    <string name="turn_microphone_on">Включите микрофон</string>
+    <string name="turn_speaker_off">Выключить динамик</string>
+    <string name="turn_speaker_on">Включите динамик</string>
+    <string name="unknown">Неизвестный</string>
+    <string name="unknown_caller">Неизвестный абонент</string>
+    <string name="unknown_error_occurred">Произошла неизвестная ошибка</string>
+
+    <string name="web">Интернет</string>
+    <string name="website">Веб-сайт</string>
+    <string name="write_personal_message">Написать личное сообщение</string>
+
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">Хорошо</string>
+
+    <string name="no_ringtone_found">Рингтон не найден!</string>
+    <string name="ringtone_set_successfully">Рингтон успешно установлен</string>
+
+    <string name="toast_please_enter_firstname">Пожалуйста, введите имя</string>
+    <string name="toast_please_enter_surname">Пожалуйста, введите фамилию</string>
+    <string name="toast_please_enter_valid_phone_no">Пожалуйста введите правильный номер телефона</string>
+    <string name="toast_please_enter_valid_email">Пожалуйста, введите действительный адрес электронной почты</string>
+
+    <string name="can_t_talk_right_now">Не могу сейчас говорить…</string>
+    <string name="i_ll_call_you_later">Я позвоню тебе позже.</string>
+    <string name="i_m_on_the_way">Я нахожусь на пути.</string>
+    <string name="can_t_talk_now_call_me_later">Не могу сейчас говорить. Позвони мне позже.</string>
+    <string name="toast_number_already_blocked">Номер уже заблокирован</string>
+    <string name="no_app_found_to_handle_this_action">Не найдено приложение для выполнения этого действия</string>
+    <string name="choose_sim_for_make_call">Выберите SIM-карту для звонка</string>
+    <string name="contacts_with_phone_numbers">контакты с номерами телефонов</string>
+    <string name="welcome_to_contacts">Добро пожаловать в Контакты</string>
+
+    <string name="premium_purchase_successful">Покупка прошла успешно</string>
+
+</resources> 
+

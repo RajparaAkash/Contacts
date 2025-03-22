@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontakter</string>
+
+    <string name="incoming_call">Inkommande samtal</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">Röstsamtal</string>
+    <string name="connected_apps">Anslutna appar</string>
+    <string name="answer">Svar</string>
+    <string name="more">Mer</string>
+    <string name="today">Idag</string>
+    <string name="yesterday">Igår</string>
+
+    <string name="whoops">Hoppsan!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">Långsam eller ingen internetanslutning. Kontrollera din internetanslutning.</string>
+    <string name="retry">Försök igen</string>
+    <string name="go_to_settings">Gå till Inställningar</string>
+    <string name="dismiss">Avfärda</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">Tyvärr, tjänsten är inte tillgänglig på grund av underhåll. Försök efter en tid eller försök igen. Tack !</string>
+    <string name="app_under_maintenance">App under underhåll</string>
+    <string name="showing_ad_please_wait">Visar annons, vänligen vänta…</string>
+    <string name="showing_ad_please_wait_desc">Denna varning är till för att du inte av misstag ska klicka på\annons</string>
+    <string name="ad">AD</string>
+    <string name="continue_to_app">Fortsätt till appen</string>
+    <string name="accept_and_continue"><![CDATA[Acceptera och fortsätt]]></string>
+    <string name="privacy_policy">Integritetspolicy</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">Är du säker !!!\nVill du avsluta appen?</string>
+    <string name="press_here_to_exit">Tryck här för att avsluta</string>
+    <string name="an_update_has_just_been_downloaded">En uppdatering har precis laddats ner.</string>
+
+    <string name="you_leaving">Du lämnar…</string>
+    <string name="loading_ad">Laddar annons, vänligen vänta…</string>
+
+
+    <string name="toast_message_sent">Meddelande skickat</string>
+    <string name="toast_number_not_delete">Nummer raderas inte! något gick fel</string>
+    <string name="toast_no_email_clients">Det finns inga e-postklienter installerade.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[Phone Dialer & Contacts]]></string>
+    <string name="privacy_get_started">Komma igång</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">Välkommen till\nkontakter</string>
+    <string name="allow_permission_desription">Tillåt behörighet för att ringa samtal och ändrade kontakter</string>
+    <string name="allow_contact">Kontakt</string>
+    <string name="title_contact_description">Tillåt den här appen att läsa och skriva kontakt på uppringningsskärmen.</string>
+    <string name="title_phone">Telefonstatus</string>
+    <string name="title_phone_description">Hjälp oss att identifiera inkommande och utgående samtalsstatus.</string>
+    <string name="title_call_log">Samtalsloggar</string>
+    <string name="title_call_log_description">Tillåter en app att läsa och skriva användarens samtalsloggdata.</string>
+    <string name="title_overlay_permissiom">Överlagringsbehörighet</string>
+    <string name="title_overlay_description">För att använda den kostnadsfria eftersamtalfunktionen måste vi be om tillåtelse för överlagring.</string>
+    <string name="allow_permission">Tillåt tillstånd</string>
+
+    <string name="dialog_perm_title">Behöver behörigheter</string>
+    <string name="dialog_perm_desc">Den här appen behöver tillstånd för att använda den här funktionen. Du kan bevilja dem i appinställningarna.</string>
+    <string name="dialog_perm_go_to_setting">GÅ TILL INSTÄLLNINGAR</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">Ange som standard</string>
+    <string name="set_as_default_description"><![CDATA[Ta kontakt som din standardapp för nummerpresentation och skräppost genom att klicka på knappen nedan]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">Favorit</string>
+    <string name="home_recent">Nyligen</string>
+    <string name="home_contacts">Kontakter</string>
+    <string name="home_search_here">Sök här</string>
+    <string name="home_other">Övrig</string>
+    <string name="home_block_contacts">Blockera kontakter</string>
+    <string name="home_settings">inställningar</string>
+    <string name="home_rate">Betygsätta</string>
+    <string name="home_share">Dela med sig</string>
+    <string name="home_feedback">Respons</string>
+    <string name="home_privacy_policy">Integritetspolicy</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">Allmän</string>
+    <string name="make_default"><![CDATA[Ange kontakt som standard CallerId & Spam-app]]></string>
+    <string name="show_caller_dialog">Visa nummerpresentation efter samtal</string>
+    <string name="show_quick_decline_messages">Snabba avvisande meddelanden</string>
+    <string name="show_dial_pad_sound">Knappsatsljud</string>
+    <string name="show_led_flash">Led blixt</string>
+    <string name="setting_dark_theme">Mörkt tema</string>
+    <string name="toast_flash_not_supported">Din enhet stöder inte LED-blixt</string>
+
+    <string name="setting_edit_contact">Redigera kontakt</string>
+    <string name="default_account">Standardkonto för nya kontakter</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">Utgående samtal</string>
+    <string name="declined_call">Avvisad samtal</string>
+    <string name="block_call">Blockerat samtal</string>
+    <string name="missed_Call">Missat samtal</string>
+    <string name="incoming">Inkommande samtal</string>
+    <string name="block">Blockera</string>
+    <string name="unblock">Avblockera</string>
+
+    <string name="recent_call">Ring upp</string>
+    <string name="video_call">Videosamtal</string>
+    <string name="recent_info">Info</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">Lägg till i kontakter</string>
+
+    <!--  Contact info  -->
+    <string name="call">Ring upp</string>
+    <string name="message">Meddelande</string>
+    <string name="video">Video</string>
+    <string name="info_contact_info">Kontaktinformation</string>
+    <string name="info_contact_history">Kontakthistorik</string>
+    <string name="info_see_all">Se allt</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">Blockera nummer</string>
+    <string name="block_call_from_unknown">Blockera samtal från okända nummer</string>
+    <string name="block_add_phone_hint">Lägg till telefonnummer</string>
+    <string name="block_enter_valid_number">Vänligen ange ett giltigt nummer</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">Telefon historik</string>
+    <string name="history_no_data">Ingen information hittad</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">Synkronisera kontakt</string>
+    <string name="popup_clear_history">Rensa historik</string>
+    <string name="popup_speed_dial_numbers">Snabbuppringningsnummer</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">Snabbt svar</string>
+    <string name="quick_response_add">Lägg till</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">Filtrera samtal</string>
+    <string name="filter_all_calls">Alla samtal</string>
+    <string name="filter_missed_calls">Missade samtal</string>
+    <string name="filter_incoming_calls">Inkommande samtal</string>
+    <string name="filter_outgoing_calls">Utgående samtal</string>
+    <string name="filter_reset">Återställa</string>
+    <string name="filter_apply">Tillämpa</string>
+    <string name="filter_sim_all">Alla sim</string>
+    <string name="filter_sim_one">Sim 1</string>
+    <string name="filter_sim_two">Sim 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">Lägg till snabbt svar</string>
+    <string name="dialog_quick_response_edit">Redigera snabbsvar</string>
+    <string name="dialog_quick_response_hint">Meddelande</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">Kortnummer</string>
+    <string name="speed_dial_desc">Tilldela kontakt till snabbuppringningsnummer.</string>
+    <string name="speed_dial_not_assign">Inte tilldela</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">Hantera samtal</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">Namn prefix</string>
+    <string name="first_name_hint">Förnamn</string>
+    <string name="middle_name_hint">Mellannamn</string>
+    <string name="surname_hint">Efternamn</string>
+    <string name="name_suffix_hint">Namnsuffix</string>
+
+    <string name="company_name_hint">Företagsnamn</string>
+    <string name="department_hint">Avdelning</string>
+    <string name="title_hint">Titel</string>
+
+    <string name="phone_number_hint">Telefonnummer</string>
+    <string name="email_hint">E-post</string>
+    <string name="significant_date_hint">Viktigt datum</string>
+    <string name="website_hint">Hemsida</string>
+    <string name="notes_hint">Anteckningar</string>
+    <string name="label_hint">Märka</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">Handla om</string>
+    <string name="accept">Acceptera</string>
+    <string name="accounts">konton</string>
+    <string name="add_contact">Skapa ny kontakt</string>
+    <string name="add_email">Lägg till e-post</string>
+    <string name="add_phone_number">Lägg till telefonnummer</string>
+    <string name="add_picture">Lägg till bild</string>
+    <string name="addcall">Lägg till samtal</string>
+    <string name="all_contacts_0">Alla kontakter 0</string>
+    <string name="always_use_this_sim">Använd alltid denna sim</string>
+
+
+    <string name="block_contact">Blockera kontakt</string>
+    <!--    <string name="block_contact_desc">Du kommer inte längre att få några samtal eller meddelanden från den här kontakten.</string>-->
+    <string name="block_contact_desc">Är du säker på att du vill blockera detta nummer.</string>
+    <string name="toast_block_contact">Kontakten har blockerats</string>
+
+    <string name="default_app_desc">För att använda alla funktioner som är tillgängliga i kontakter måste du göra den till kontaktappen som din standardapp för telefonen.</string>
+    <string name="block_contect_default_app">För att blockera kontakt måste du skapa kontakt som din standardapp för telefon</string>
+    <string name="block_error_message">Du har inte blockerat den här kontakten. Vänligen lägg till det första telefonnumret i denna kontakt.</string>
+    <string name="block_not_supported">Blocknummerfunktionen stöds inte på den här enheten.</string>
+    <string name="calendar">Kalender</string>
+    <string name="call_ended">Samtalet avslutades</string>
+    <string name="call_ending">samtalsavslutning</string>
+    <string name="call_on_hold">Parkerat samtal</string>
+    <string name="call_swap">Svep samtal</string>
+    <string name="can_call_you_later">Kan jag ringa dig senare?</string>
+    <string name="can_not_talk_right_now">Förlåt, jag kan inte prata just nu</string>
+    <string name="change_photo">Förändring Foto</string>
+
+
+    <string name="conference_manage">Konferenssamtal</string>
+    <string name="confirm_message_of_delete">Är du säker på att du vill ta bort den här kontakten.</string>
+
+    <string name="contact_label">Märka</string>
+    <string name="contact_name">Kontaktnamn</string>
+    <string name="contacts">Kontakter</string>
+    <string name="create_contact">Skapa kontakt</string>
+    <string name="decline">Nedgång</string>
+
+
+    <string name="add">Lägg till</string>
+    <string name="update">Uppdatering</string>
+    <string name="delete">Radera</string>
+    <string name="share">Dela med sig</string>
+    <string name="set_ringtone">Ställ in ringsignal</string>
+
+
+    <string name="delete_contact_message">Är du säker på att du vill ta bort det här numret?</string>
+
+    <string name="edit_contact">Redigera kontakt</string>
+    <string name="fields_empty">Minst 1 fält krävs!</string>
+
+
+    <string name="more_fields">Fler fält</string>
+    <string name="name_format">Namnformat</string>
+
+
+    <string name="duration">Varaktighet</string>
+    <string name="email">E-post</string>
+    <string name="email_validation">Lägg till e-post först!</string>
+    <string name="event">Viktigt datum</string>
+
+
+    <string name="gmail_not_install">Inte installerat Gmail</string>
+    <string name="first_name_first">Förnamn först</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">Historia</string>
+    <string name="i_am_on_my_way">Jag är på väg</string>
+
+
+    <string name="hold">Håll</string>
+    <string name="hold_call">Parkera samtal</string>
+    <string name="dialing">Ringer upp…</string>
+    <string name="is_calling">Ringer…</string>
+    <string name="keypad">Knappsats</string>
+    <string name="merge">Sammanfoga</string>
+
+
+    <string name="lbl_find">Hitta kontakt och ge tillstånd</string>
+
+
+    <string name="message_delete_history">Är du säker på att du vill rensa all historik?</string>
+    <string name="messages">Meddelanden</string>
+
+
+    <string name="no_app_found">Ingen app hittades för att ringa ett samtal</string>
+    <string name="no_app_found_hendle_this_event">Ingen app hittades för att hantera denna händelse!</string>
+    <string name="no_block_contact">Ingen blockkontakt</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">Ingen favoritkontakt hittades!</string>
+    <string name="no_recent_found">Inga nyligen hittade!</string>
+    <string name="no_contacts_found">Ingen kontakt hittades!</string>
+
+    <string name="no_title">Ingen titel</string>
+    <string name="notes">Anteckningar</string>
+    <string name="number_blocked_msg">Numret har blockerats</string>
+    <string name="number_unblocked_msg">Nummer har avblockerats</string>
+    <string name="number_not">Nummer hittades inte</string>
+    <string name="number_of_calls_with">samtal med</string>
+    <string name="older">Äldre</string>
+    <string name="ongoing_call">utgående samtal</string>
+
+
+    <string name="permission_set_as_default">Gillar du att den här appen ska vara standardapp för telefonen? Du kan bevilja dem i appinställningarna.</string>
+    <string name="phone">Telefon</string>
+    <string name="phone_validation">Vänligen lägg till telefonnummer först!</string>
+
+    <string name="private_number">Privata nummer</string>
+
+    <string name="remind_me_about">Påminn mig om</string>
+    <string name="remove_photo">Ta bort foto</string>
+    <string name="resume_call">Återuppta samtal</string>
+    <string name="save">Spara</string>
+    <string name="save_to">Spara till</string>
+    <string name="search_contacts">Sök kontakt</string>
+    <string name="search_menu_title">Sök</string>
+    <string name="select">Välj</string>
+    <string name="select_sim">Välj sim</string>
+    <string name="selected_account">Ditt valda konto</string>
+    <string name="selected_contact">0 valt</string>
+    <string name="selected_photo">Välj foto</string>
+    <string name="send_a_message">Skicka ett meddelande</string>
+    <string name="send_mail">Skicka brev</string>
+
+    <string name="settings">inställningar</string>
+
+    <string name="share_via">Dela via</string>
+    <string name="share_your_expirence">Dela din upplevelse</string>
+
+    <string name="sim_not_available">Simnätverket är inte tillgängligt.....!</string>
+    <string name="sortby">Sortera efter</string>
+    <string name="speaker">Högtalare</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">I dag</string>
+    <string name="string_yesterday">I går</string>
+
+    <string name="surname">Efternamn</string>
+    <string name="surname_first">Efternamn först</string>
+    <string name="take_new_photo">Ta ett nytt foto</string>
+    <string name="text">Text</string>
+    <string name="this_month">den här månaden</string>
+    <string name="title">Titel</string>
+    <string name="title_anniversary">Årsdag</string>
+    <string name="title_birthday">Födelsedag</string>
+    <string name="title_cancel">Annullera</string>
+    <string name="title_go_to_setting">GÅ TILL INSTÄLLNINGAR</string>
+    <string name="title_help_to_identify">Hjälp andra att identifiera detta nummer</string>
+    <string name="title_home">Hem</string>
+    <string name="title_home_fax">Hemfax</string>
+    <string name="title_lang">Språk</string>
+    <string name="title_main">Main</string>
+    <string name="title_mobile">Mobil</string>
+    <string name="title_mute">Stum</string>
+    <string name="title_no_lable">Ingen etikett</string>
+    <string name="title_other">Övrig</string>
+    <string name="title_pager">Personsökare</string>
+    <string name="title_private_number">Privat nummer</string>
+    <string name="title_save">Spara</string>
+    <string name="title_sim_not_register">Ej registrerat nätverk</string>
+    <string name="title_summary">Sammanfattning</string>
+    <string name="title_today">I dag</string>
+    <string name="title_work">Arbete</string>
+    <string name="title_work_fax">Arbetsfax</string>
+    <string name="turn_microphone_off">Stäng av mikrofonen</string>
+    <string name="turn_microphone_on">Slå på mikrofonen</string>
+    <string name="turn_speaker_off">Stäng av högtalaren</string>
+    <string name="turn_speaker_on">Slå på högtalaren</string>
+    <string name="unknown">Okänd</string>
+    <string name="unknown_caller">Okänd uppringare</string>
+    <string name="unknown_error_occurred">Okänt fel har inträffat</string>
+
+    <string name="web">webb</string>
+    <string name="website">Hemsida</string>
+    <string name="write_personal_message">Skriv personligt meddelande</string>
+
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="cancel">Annullera</string>
+    <string name="ok">Ok</string>
+
+    <string name="no_ringtone_found">Ringsignalen hittades inte!</string>
+    <string name="ringtone_set_successfully">Ringsignalen har ställts in</string>
+
+    <string name="toast_please_enter_firstname">Vänligen ange förnamn</string>
+    <string name="toast_please_enter_surname">Vänligen ange efternamn</string>
+    <string name="toast_please_enter_valid_phone_no">Ange ett giltigt telefonnummer</string>
+    <string name="toast_please_enter_valid_email">Vänligen ange giltig e-postadress</string>
+
+    <string name="can_t_talk_right_now">Kan inte prata just nu…</string>
+    <string name="i_ll_call_you_later">Jag ringer dig senare.</string>
+    <string name="i_m_on_the_way">Jag är på väg.</string>
+    <string name="can_t_talk_now_call_me_later">Kan inte prata nu. Ring mig senare.</string>
+    <string name="toast_number_already_blocked">Nummer redan blockerat</string>
+    <string name="no_app_found_to_handle_this_action">Ingen app hittades för att hantera den här åtgärden</string>
+    <string name="choose_sim_for_make_call">Välj SIM för att ringa</string>
+    <string name="contacts_with_phone_numbers">kontakter med telefonnummer</string>
+    <string name="welcome_to_contacts">Välkommen till Kontakter</string>
+
+    <string name="premium_purchase_successful">Köpet lyckades</string>
+
+</resources>
+

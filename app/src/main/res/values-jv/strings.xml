@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontak</string>
+
+    <string name="incoming_call">Telpon Masuk</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">Swara Panggilan</string>
+    <string name="connected_apps">Aplikasi sing disambungake</string>
+    <string name="answer">Jawaban</string>
+    <string name="more">Liyane</string>
+    <string name="today">Dina iki</string>
+    <string name="yesterday">Wingi</string>
+
+    <string name="whoops">woops!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">Sambungan internet alon utawa ora ana. Mangga dipriksa sambungan internet.</string>
+    <string name="retry">Coba maneh</string>
+    <string name="go_to_settings">Pindhah menyang Setelan</string>
+    <string name="dismiss">Ngilangi</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">Sorry, Service ora kasedhiya amarga pangopènan, Mangga nyoba sawise sawetara wektu utawa nyoba maneh. Matur nuwun!</string>
+    <string name="app_under_maintenance">App Ing Pangopènan</string>
+    <string name="showing_ad_please_wait">Nuduhake Iklan, Mangga Enteni…</string>
+    <string name="showing_ad_please_wait_desc">Bebaya iki kanggo sampeyan supaya ora sengaja ngeklik \nadvertisement</string>
+    <string name="ad">AD</string>
+    <string name="continue_to_app">Terusake menyang app</string>
+    <string name="accept_and_continue"><![CDATA[Nampa & Terusake]]></string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">Yakin !!!\nSampeyan pengin metu saka aplikasi?</string>
+    <string name="press_here_to_exit">Pencet kene kanggo metu</string>
+    <string name="an_update_has_just_been_downloaded">Nganyari lagi wae diundhuh.</string>
+
+    <string name="you_leaving">Kowe lunga…</string>
+    <string name="loading_ad">Ngenteni iklan, ngenteni…</string>
+
+
+    <string name="toast_message_sent">Pesen dikirim</string>
+    <string name="toast_number_not_delete">Nomer ora dibusak! ana sing salah</string>
+    <string name="toast_no_email_clients">Ora ana klien email sing diinstal.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[Panggil Telpon & Kontak]]></string>
+    <string name="privacy_get_started">Miwiti</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">Sugeng rawuh ing\nKontak</string>
+    <string name="allow_permission_desription">Ngidini Idin kanggo nelpon lan Kontak sing diowahi</string>
+    <string name="allow_contact">Kontak</string>
+    <string name="title_contact_description">Idini app iki maca lan nulis kontak ing layar panelpon.</string>
+    <string name="title_phone">Status telpon</string>
+    <string name="title_phone_description">Mbantu kita ngenali status telpon mlebu lan metu.</string>
+    <string name="title_call_log">Log telpon</string>
+    <string name="title_call_log_description">Ngidini aplikasi maca lan nulis data log telpon pangguna.</string>
+    <string name="title_overlay_permissiom">Izin Overlay</string>
+    <string name="title_overlay_description">Kanggo nggunakake fitur sawise-telpon gratis, kita kudu njaluk ijin overlay.</string>
+    <string name="allow_permission">Allow Idin</string>
+
+    <string name="dialog_perm_title">Perlu Idin</string>
+    <string name="dialog_perm_desc">Aplikasi iki mbutuhake ijin kanggo nggunakake fitur iki. Sampeyan bisa menehi ing setelan app.</string>
+    <string name="dialog_perm_go_to_setting">GOTO SETTINGS</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">Setel minangka standar</string>
+    <string name="set_as_default_description"><![CDATA[Dadekake kontak minangka app Caller Id & Spam standar kanthi ngeklik tombol ing ngisor iki]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">Favorit</string>
+    <string name="home_recent">paling anyar</string>
+    <string name="home_contacts">Kontak</string>
+    <string name="home_search_here">Telusuri kene</string>
+    <string name="home_other">Liyane</string>
+    <string name="home_block_contacts">Blokir Kontak</string>
+    <string name="home_settings">Setelan</string>
+    <string name="home_rate">Rate</string>
+    <string name="home_share">Nuduhake</string>
+    <string name="home_feedback">Tanggepan</string>
+    <string name="home_privacy_policy">Kabijakan privasi</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">Umum</string>
+    <string name="make_default"><![CDATA[Setel Kontak minangka aplikasi CallerId & Spam standar]]></string>
+    <string name="show_caller_dialog">Tampilake Sawise Telpon Caller ID</string>
+    <string name="show_quick_decline_messages">Pesen nolak cepet</string>
+    <string name="show_dial_pad_sound">Dial Pad Swara</string>
+    <string name="show_led_flash">Led Flash Kab</string>
+    <string name="setting_dark_theme">Tema peteng</string>
+    <string name="toast_flash_not_supported">Piranti sampeyan ora ndhukung lampu kilat sing dipimpin</string>
+
+    <string name="setting_edit_contact">Sunting Kontak</string>
+    <string name="default_account">Akun standar kanggo kontak anyar</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">Telpon metu</string>
+    <string name="declined_call">Telpon ditolak</string>
+    <string name="block_call">Telpon Diblokir</string>
+    <string name="missed_Call">Telpon ora kejawab</string>
+    <string name="incoming">Telpon mlebu</string>
+    <string name="block">Blok</string>
+    <string name="unblock">Mbukak blokir</string>
+
+    <string name="recent_call">Telpon</string>
+    <string name="video_call">Telpon Video</string>
+    <string name="recent_info">Info</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">Tambah menyang Kontak</string>
+
+    <!--  Contact info  -->
+    <string name="call">Telpon</string>
+    <string name="message">Pesen</string>
+    <string name="video">Video</string>
+    <string name="info_contact_info">Info kontak</string>
+    <string name="info_contact_history">Riwayat Kontak</string>
+    <string name="info_see_all">Waca Kabeh</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">Blok nomer</string>
+    <string name="block_call_from_unknown">Blokir telpon saka nomer sing ora dingerteni</string>
+    <string name="block_add_phone_hint">Tambah nomer telpon</string>
+    <string name="block_enter_valid_number">Ketik nomer sing bener</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">Riwayat Telpon</string>
+    <string name="history_no_data">Ora ana data sing ditemokake</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">Sinkronisasi Kontak</string>
+    <string name="popup_clear_history">Clear History</string>
+    <string name="popup_speed_dial_numbers">Nomer Telpon Cepet</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">Respon Cepet</string>
+    <string name="quick_response_add">Tambah</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">Filter Telpon</string>
+    <string name="filter_all_calls">Kabeh Telpon</string>
+    <string name="filter_missed_calls">Telpon ora kejawab</string>
+    <string name="filter_incoming_calls">Telpon mlebu</string>
+    <string name="filter_outgoing_calls">Telpon metu</string>
+    <string name="filter_reset">Reset</string>
+    <string name="filter_apply">nglamar</string>
+    <string name="filter_sim_all">Kabeh Sim</string>
+    <string name="filter_sim_one">Sim 1</string>
+    <string name="filter_sim_two">Sim 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">Tambah respon cepet</string>
+    <string name="dialog_quick_response_edit">Sunting respon cepet</string>
+    <string name="dialog_quick_response_hint">Pesen</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">Cepet Nelpon</string>
+    <string name="speed_dial_desc">Temtokake kontak menyang nomer telpon cepet.</string>
+    <string name="speed_dial_not_assign">Ora Tugas</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">Ngatur Telpon</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">Ater-ater jeneng</string>
+    <string name="first_name_hint">Jeneng ngarep</string>
+    <string name="middle_name_hint">jeneng tengah</string>
+    <string name="surname_hint">asmane</string>
+    <string name="name_suffix_hint">Sufiks nama</string>
+
+    <string name="company_name_hint">Jeneng perusahaan</string>
+    <string name="department_hint">Departemen</string>
+    <string name="title_hint">judhul</string>
+
+    <string name="phone_number_hint">nomer telpon</string>
+    <string name="email_hint">Email</string>
+    <string name="significant_date_hint">tanggal wigati</string>
+    <string name="website_hint">situs web</string>
+    <string name="notes_hint">Cathetan</string>
+    <string name="label_hint">Label</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">Babagan</string>
+    <string name="accept">Nampa</string>
+    <string name="accounts">Akun</string>
+    <string name="add_contact">Nggawe kontak anyar</string>
+    <string name="add_email">Tambah email</string>
+    <string name="add_phone_number">Tambah nomer telpon</string>
+    <string name="add_picture">Tambah gambar</string>
+    <string name="addcall">Tambah telpon</string>
+    <string name="all_contacts_0">Kabeh kontak 0</string>
+    <string name="always_use_this_sim">Tansah nggunakake sim iki</string>
+
+
+    <string name="block_contact">Blok Kontak</string>
+    <!--    <string name="block_contact_desc">Sampeyan ora bakal nampa telpon utawa pesen maneh saka kontak iki.</string>-->
+    <string name="block_contact_desc">Apa sampeyan yakin arep mblokir nomer iki.</string>
+    <string name="toast_block_contact">Kontak kasil diblokir</string>
+
+    <string name="default_app_desc">Kanggo nggunakake kabeh fitur sing kasedhiya ing kontak, sampeyan kudu nggawe aplikasi kontak minangka aplikasi telpon standar.</string>
+    <string name="block_contect_default_app">Kanggo mblokir kontak sampeyan kudu nggawe kontak minangka app telpon standar</string>
+    <string name="block_error_message">Sampeyan durung mblokir kontak iki. Tambah nomer telpon pisanan ing kontak iki.</string>
+    <string name="block_not_supported">Fitur nomer blok ora didhukung ing piranti iki.</string>
+    <string name="calendar">Tanggalan</string>
+    <string name="call_ended">Telpon rampung</string>
+    <string name="call_ending">telpon pungkasan</string>
+    <string name="call_on_hold">Telpon ditahan</string>
+    <string name="call_swap">Gesek telpon</string>
+    <string name="can_call_you_later">Apa aku bisa nelpon sampeyan mengko?</string>
+    <string name="can_not_talk_right_now">Sorry, aku ora bisa ngomong saiki</string>
+    <string name="change_photo">Ganti foto</string>
+
+
+    <string name="conference_manage">Telpon konferensi</string>
+    <string name="confirm_message_of_delete">Apa sampeyan yakin arep mbusak kontak iki.</string>
+
+    <string name="contact_label">Label</string>
+    <string name="contact_name">Jeneng kontak</string>
+    <string name="contacts">Kontak</string>
+    <string name="create_contact">Nggawe kontak</string>
+    <string name="decline">nolak</string>
+
+
+    <string name="add">Tambah</string>
+    <string name="update">Nganyari</string>
+    <string name="delete">Mbusak</string>
+    <string name="share">Nuduhake</string>
+    <string name="set_ringtone">Setel Nada Dering</string>
+
+
+    <string name="delete_contact_message">Apa sampeyan pengin mbusak nomer iki?</string>
+
+    <string name="edit_contact">Sunting kontak</string>
+    <string name="fields_empty">Paling ora 1 lapangan dibutuhake!</string>
+
+
+    <string name="more_fields">Lapangan liyane</string>
+    <string name="name_format">Format jeneng</string>
+
+
+    <string name="duration">Duration</string>
+    <string name="email">Email</string>
+    <string name="email_validation">Mangga nambah email dhisik!</string>
+    <string name="event">tanggal wigati</string>
+
+
+    <string name="gmail_not_install">Ora diinstal Gmail</string>
+    <string name="first_name_first">Jeneng pisanan</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">Sajarah</string>
+    <string name="i_am_on_my_way">Aku lagi nang dalan</string>
+
+
+    <string name="hold">terus</string>
+    <string name="hold_call">Tahan telpon</string>
+    <string name="dialing">Telpon…</string>
+    <string name="is_calling">Nelpon…</string>
+    <string name="keypad">Papan tombol</string>
+    <string name="merge">Gabung</string>
+
+
+    <string name="lbl_find">Golek Kontak lan ngidini ijin</string>
+
+
+    <string name="message_delete_history">Apa sampeyan yakin pengin mbusak kabeh riwayat?</string>
+    <string name="messages">Pesen</string>
+
+
+    <string name="no_app_found">Ora ditemokaké app kanggo nelpon</string>
+    <string name="no_app_found_hendle_this_event">Ora ditemokaké app kanggo nangani acara iki!</string>
+    <string name="no_block_contact">Ora ana kontak blok</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">Ora ana kontak favorit sing ditemokake!</string>
+    <string name="no_recent_found">Ora ditemokake paling anyar!</string>
+    <string name="no_contacts_found">Ora ana kontak sing ditemokake!</string>
+
+    <string name="no_title">Ora Judul</string>
+    <string name="notes">Cathetan</string>
+    <string name="number_blocked_msg">Nomer diblokir Kasil</string>
+    <string name="number_unblocked_msg">Nomer sukses diblokir</string>
+    <string name="number_not">Nomer ora ditemokake</string>
+    <string name="number_of_calls_with">telpon karo</string>
+    <string name="older">Luwih tuwa</string>
+    <string name="ongoing_call">telpon metu</string>
+
+
+    <string name="permission_set_as_default">Apa sampeyan seneng app iki disetel minangka app telpon standar? Sampeyan bisa menehi ing setelan app.</string>
+    <string name="phone">Telpon</string>
+    <string name="phone_validation">Tambah nomer telpon dhisik!</string>
+
+    <string name="private_number">Nomer Pribadi</string>
+
+    <string name="remind_me_about">Elinga babagan</string>
+    <string name="remove_photo">Mbusak foto</string>
+    <string name="resume_call">Neruske telpon</string>
+    <string name="save">Simpen</string>
+    <string name="save_to">Simpen menyang</string>
+    <string name="search_contacts">Telusuri kontak</string>
+    <string name="search_menu_title">Nggoleki</string>
+    <string name="select">Pilih</string>
+    <string name="select_sim">Pilih sim</string>
+    <string name="selected_account">Akun sing dipilih</string>
+    <string name="selected_contact">0 dipilih</string>
+    <string name="selected_photo">Pilih foto</string>
+    <string name="send_a_message">Kirim pesen</string>
+    <string name="send_mail">Kirimi Mail</string>
+
+    <string name="settings">Setelan</string>
+
+    <string name="share_via">Nuduhake liwat</string>
+    <string name="share_your_expirence">Nuduhake pengalaman sampeyan</string>
+
+    <string name="sim_not_available">Jaringan Sim ora kasedhiya....!</string>
+    <string name="sortby">Urut miturut</string>
+    <string name="speaker">Speaker</string>
+    <string name="string_special_character">[^a-z0-9]</string>
+    <string name="string_today">Dina iki</string>
+    <string name="string_yesterday">wingi</string>
+
+    <string name="surname">asmane</string>
+    <string name="surname_first">Jeneng pisanan</string>
+    <string name="take_new_photo">Njupuk foto anyar</string>
+    <string name="text">Teks</string>
+    <string name="this_month">wulan iki</string>
+    <string name="title">judhul</string>
+    <string name="title_anniversary">mengeti</string>
+    <string name="title_birthday">ulang tahun</string>
+    <string name="title_cancel">Batal</string>
+    <string name="title_go_to_setting">GOTO SETTINGS</string>
+    <string name="title_help_to_identify">Tulung wong liya ngenali nomer iki</string>
+    <string name="title_home">Ngarep</string>
+    <string name="title_home_fax">fax ngarep</string>
+    <string name="title_lang">Basa</string>
+    <string name="title_main">Utama</string>
+    <string name="title_mobile">Mobile</string>
+    <string name="title_mute">bisu</string>
+    <string name="title_no_lable">Ora ana label</string>
+    <string name="title_other">Liyane</string>
+    <string name="title_pager">pager</string>
+    <string name="title_private_number">Nomer Pribadi</string>
+    <string name="title_save">Simpen</string>
+    <string name="title_sim_not_register">Ora kadhaptar jaringan</string>
+    <string name="title_summary">Ringkesan</string>
+    <string name="title_today">Dina iki</string>
+    <string name="title_work">Kerja</string>
+    <string name="title_work_fax">Fax kerja</string>
+    <string name="turn_microphone_off">Pateni mikropon</string>
+    <string name="turn_microphone_on">Uripake mikropon</string>
+    <string name="turn_speaker_off">Pateni speaker</string>
+    <string name="turn_speaker_on">Nguripake speaker</string>
+    <string name="unknown">Ora dingerteni</string>
+    <string name="unknown_caller">Penelpon sing ora dingerteni</string>
+    <string name="unknown_error_occurred">Ana kesalahan sing ora dingerteni</string>
+
+    <string name="web">Web</string>
+    <string name="website">situs web</string>
+    <string name="write_personal_message">Tulis pesen pribadi</string>
+
+    <string name="yes">ya wis</string>
+    <string name="no">Ora</string>
+    <string name="cancel">Batal</string>
+    <string name="ok">oke</string>
+
+    <string name="no_ringtone_found">Nada dering ora ditemokake!</string>
+    <string name="ringtone_set_successfully">Nada dering disetel kanthi sukses</string>
+
+    <string name="toast_please_enter_firstname">Ketik jeneng ngarep</string>
+    <string name="toast_please_enter_surname">Mangga ketik jeneng</string>
+    <string name="toast_please_enter_valid_phone_no">Mangga ketik nomer telpon sing bener</string>
+    <string name="toast_please_enter_valid_email">Mangga ketik email sing bener</string>
+
+    <string name="can_t_talk_right_now">Ora bisa ngomong saiki…</string>
+    <string name="i_ll_call_you_later">Aku bakal nelpon sampeyan mengko.</string>
+    <string name="i_m_on_the_way">Aku ing dalan.</string>
+    <string name="can_t_talk_now_call_me_later">Ora bisa ngomong saiki. Telpon aku mengko.</string>
+    <string name="toast_number_already_blocked">Nomer wis diblokir</string>
+    <string name="no_app_found_to_handle_this_action">Ora ditemokaké app kanggo nangani tumindak iki</string>
+    <string name="choose_sim_for_make_call">Pilih SIM kanggo nelpon</string>
+    <string name="contacts_with_phone_numbers">kontak karo nomer telpon</string>
+    <string name="welcome_to_contacts">Sugeng rawuh ing Kontak</string>
+
+    <string name="premium_purchase_successful">Tuku sukses</string>
+
+</resources> 
+

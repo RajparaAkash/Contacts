@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacten</string>
+
+    <string name="incoming_call">Inkomend gesprek</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">Spraakoproep</string>
+    <string name="connected_apps">Verbonden apps</string>
+    <string name="answer">Antwoord</string>
+    <string name="more">Meer</string>
+    <string name="today">Vandaag</string>
+    <string name="yesterday">Gisteren</string>
+
+    <string name="whoops">Oeps!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">Trage of geen internetverbinding. Controleer uw internetverbinding.</string>
+    <string name="retry">Opnieuw proberen</string>
+    <string name="go_to_settings">Ga naar Instellingen</string>
+    <string name="dismiss">Afwijzen</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">Sorry, service is niet beschikbaar vanwege onderhoud. Probeer het over enige tijd opnieuw of probeer het opnieuw. Bedankt !</string>
+    <string name="app_under_maintenance">App in onderhoud</string>
+    <string name="showing_ad_please_wait">Advertentie wordt weergegeven, een ogenblik geduld…</string>
+    <string name="showing_ad_please_wait_desc">Deze waarschuwing is bedoeld om ervoor te zorgen dat u niet per ongeluk op\nadvertentie klikt</string>
+    <string name="ad">ADVERTENTIE</string>
+    <string name="continue_to_app">Ga verder naar appen</string>
+    <string name="accept_and_continue"><![CDATA[Accepteren en doorgaan]]></string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">Weet je het zeker !!!\nWil je de app afsluiten?</string>
+    <string name="press_here_to_exit">Druk hier om af te sluiten</string>
+    <string name="an_update_has_just_been_downloaded">Er is zojuist een update gedownload.</string>
+
+    <string name="you_leaving">Jij gaat weg…</string>
+    <string name="loading_ad">Advertentie wordt geladen, even geduld a.u.b....</string>
+
+
+    <string name="toast_message_sent">Bericht verzonden</string>
+    <string name="toast_number_not_delete">Nummer niet verwijderen! er is iets fout gegaan</string>
+    <string name="toast_no_email_clients">Er zijn geen e-mailclients geïnstalleerd.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[Telefoonkiezer en contacten]]></string>
+    <string name="privacy_get_started">Begin</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">Welkom bij\nContacten</string>
+    <string name="allow_permission_desription">Toestemming toestaan ​​voor bellen en gewijzigde contacten</string>
+    <string name="allow_contact">Contact</string>
+    <string name="title_contact_description">Sta toe dat deze app contactpersonen leest en schrijft in het bellerscherm.</string>
+    <string name="title_phone">Telefoonstatus</string>
+    <string name="title_phone_description">Help ons de status van inkomende en uitgaande oproepen te identificeren.</string>
+    <string name="title_call_log">Oproeplogboeken</string>
+    <string name="title_call_log_description">Hiermee kan een applicatie de oproeploggegevens van de gebruiker lezen en schrijven.</string>
+    <string name="title_overlay_permissiom">Overlay-toestemming</string>
+    <string name="title_overlay_description">Om de gratis nagesprekfunctie te gebruiken, moeten we om overlay-toestemming vragen.</string>
+    <string name="allow_permission">Toestemming toestaan</string>
+
+    <string name="dialog_perm_title">Machtigingen nodig</string>
+    <string name="dialog_perm_desc">Deze app heeft toestemming nodig om deze functie te gebruiken. Je kunt ze toekennen in de app-instellingen.</string>
+    <string name="dialog_perm_go_to_setting">GA NAAR INSTELLINGEN</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">Instellen als standaard</string>
+    <string name="set_as_default_description"><![CDATA[Maak contact als uw standaard app voor nummerherkenning en spam door op de onderstaande knop te klikken]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">Favoriet</string>
+    <string name="home_recent">Recent</string>
+    <string name="home_contacts">Contacten</string>
+    <string name="home_search_here">Zoek hier</string>
+    <string name="home_other">Ander</string>
+    <string name="home_block_contacts">Blokkeer contacten</string>
+    <string name="home_settings">Instellingen</string>
+    <string name="home_rate">Tarief</string>
+    <string name="home_share">Deel</string>
+    <string name="home_feedback">Feedback</string>
+    <string name="home_privacy_policy">Privacybeleid</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">Algemeen</string>
+    <string name="make_default"><![CDATA[Contact instellen als standaard app voor nummerherkenning en spam]]></string>
+    <string name="show_caller_dialog">Toon na oproep beller-ID</string>
+    <string name="show_quick_decline_messages">Snelle weigeringsberichten</string>
+    <string name="show_dial_pad_sound">Toetsenblokgeluid</string>
+    <string name="show_led_flash">Led-flitser</string>
+    <string name="setting_dark_theme">Donker thema</string>
+    <string name="toast_flash_not_supported">Uw apparaat ondersteunt geen led-flitser</string>
+
+    <string name="setting_edit_contact">Bewerk contact</string>
+    <string name="default_account">Standaardaccount voor nieuwe contacten</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">Uitgaande oproep</string>
+    <string name="declined_call">Geweigerde oproep</string>
+    <string name="block_call">Geblokkeerde oproep</string>
+    <string name="missed_Call">Gemiste oproep</string>
+    <string name="incoming">Binnenkomend telefoongesprek</string>
+    <string name="block">Blok</string>
+    <string name="unblock">Deblokkeren</string>
+
+    <string name="recent_call">Telefoongesprek</string>
+    <string name="video_call">Video-oproep</string>
+    <string name="recent_info">Info</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">Toevoegen aan contacten</string>
+
+    <!--  Contact info  -->
+    <string name="call">Telefoongesprek</string>
+    <string name="message">Bericht</string>
+    <string name="video">Video</string>
+    <string name="info_contact_info">Contact informatie</string>
+    <string name="info_contact_history">Contactgeschiedenis</string>
+    <string name="info_see_all">Alles zien</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">Bloknummers</string>
+    <string name="block_call_from_unknown">Blokkeer oproepen van onbekende nummers</string>
+    <string name="block_add_phone_hint">Voeg telefoonnummer toe</string>
+    <string name="block_enter_valid_number">Voer een geldig nummer in</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">Oproepgeschiedenis</string>
+    <string name="history_no_data">Geen data gevonden</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">Contact synchroniseren</string>
+    <string name="popup_clear_history">Geschiedenis wissen</string>
+    <string name="popup_speed_dial_numbers">Snelkiesnummers</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">Snelle reactie</string>
+    <string name="quick_response_add">Toevoegen</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">Oproep filteren</string>
+    <string name="filter_all_calls">Alle oproepen</string>
+    <string name="filter_missed_calls">Gemiste oproepen</string>
+    <string name="filter_incoming_calls">Inkomende oproepen</string>
+    <string name="filter_outgoing_calls">Uitgaande gesprekken</string>
+    <string name="filter_reset">Opnieuw instellen</string>
+    <string name="filter_apply">Toepassen</string>
+    <string name="filter_sim_all">Allemaal Sim</string>
+    <string name="filter_sim_one">Sim 1</string>
+    <string name="filter_sim_two">Sim 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">Voeg snelle reactie toe</string>
+    <string name="dialog_quick_response_edit">Snelle reactie bewerken</string>
+    <string name="dialog_quick_response_hint">Bericht</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">Sneltoets</string>
+    <string name="speed_dial_desc">Contact toewijzen aan snelkiesnummer.</string>
+    <string name="speed_dial_not_assign">Niet toewijzen</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">Beheer oproepen</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">Naamvoorvoegsel</string>
+    <string name="first_name_hint">Voornaam</string>
+    <string name="middle_name_hint">Midden-naam</string>
+    <string name="surname_hint">Achternaam</string>
+    <string name="name_suffix_hint">Achtervoegsel naam</string>
+
+    <string name="company_name_hint">Bedrijfsnaam</string>
+    <string name="department_hint">Afdeling</string>
+    <string name="title_hint">Titel</string>
+
+    <string name="phone_number_hint">Telefoonnummer</string>
+    <string name="email_hint">E-mail</string>
+    <string name="significant_date_hint">Belangrijke datum</string>
+    <string name="website_hint">Website</string>
+    <string name="notes_hint">Opmerkingen</string>
+    <string name="label_hint">Etiket</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">Over</string>
+    <string name="accept">Aanvaarden</string>
+    <string name="accounts">Rekeningen</string>
+    <string name="add_contact">Nieuw contact maken</string>
+    <string name="add_email">E-mailadres toevoegen</string>
+    <string name="add_phone_number">Voeg telefoonnummer toe</string>
+    <string name="add_picture">Voeg afbeelding toe</string>
+    <string name="addcall">Voeg oproep toe</string>
+    <string name="all_contacts_0">Alle contacten 0</string>
+    <string name="always_use_this_sim">Gebruik altijd deze simkaart</string>
+
+
+    <string name="block_contact">Blokkeer contact</string>
+    <!--    <string name="block_contact_desc">U ontvangt geen oproepen of berichten meer van dit contact.</string>-->
+    <string name="block_contact_desc">Weet u zeker dat u dit nummer wilt blokkeren?</string>
+    <string name="toast_block_contact">Contact succesvol geblokkeerd</string>
+
+    <string name="default_app_desc">Om alle beschikbare functies in contacten te gebruiken, moet u de contacten-app instellen als uw standaard telefoon-app.</string>
+    <string name="block_contect_default_app">Om contact te blokkeren, moet u contact maken als uw standaard telefoonapp</string>
+    <string name="block_error_message">Je hebt dit contact niet geblokkeerd. Voeg het eerste telefoonnummer toe aan dit contact.</string>
+    <string name="block_not_supported">Bloknummerfunctie wordt niet ondersteund op dit apparaat.</string>
+    <string name="calendar">Kalender</string>
+    <string name="call_ended">Oproep beëindigd</string>
+    <string name="call_ending">gesprek beëindigen</string>
+    <string name="call_on_hold">Gesprek in de wacht</string>
+    <string name="call_swap">Veeg oproep</string>
+    <string name="can_call_you_later">Kan ik je later bellen?</string>
+    <string name="can_not_talk_right_now">Sorry, ik kan nu niet praten</string>
+    <string name="change_photo">Verander foto</string>
+
+
+    <string name="conference_manage">Conferentiegesprek</string>
+    <string name="confirm_message_of_delete">Weet u zeker dat u dit contact wilt verwijderen?</string>
+
+    <string name="contact_label">Etiket</string>
+    <string name="contact_name">Contactnaam</string>
+    <string name="contacts">Contacten</string>
+    <string name="create_contact">Contact maken</string>
+    <string name="decline">Afwijzen</string>
+
+
+    <string name="add">Toevoegen</string>
+    <string name="update">Update</string>
+    <string name="delete">Verwijderen</string>
+    <string name="share">Deel</string>
+    <string name="set_ringtone">Zet beltoon</string>
+
+
+    <string name="delete_contact_message">Weet u zeker dat u dit nummer wilt verwijderen?</string>
+
+    <string name="edit_contact">Bewerk contact</string>
+    <string name="fields_empty">Minimaal 1 veld is verplicht!</string>
+
+
+    <string name="more_fields">Meer velden</string>
+    <string name="name_format">Naam formaat</string>
+
+
+    <string name="duration">Duur</string>
+    <string name="email">E-mail</string>
+    <string name="email_validation">Voeg eerst uw e-mailadres toe!</string>
+    <string name="event">Belangrijke datum</string>
+
+
+    <string name="gmail_not_install">Gmail is niet geïnstalleerd</string>
+    <string name="first_name_first">Voornaam eerst</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">Geschiedenis</string>
+    <string name="i_am_on_my_way">Ik ben onderweg</string>
+
+
+    <string name="hold">Uitstel</string>
+    <string name="hold_call">Wacht even</string>
+    <string name="dialing">Bellen…</string>
+    <string name="is_calling">Is aan het bellen…</string>
+    <string name="keypad">Toetsenbord</string>
+    <string name="merge">Samenvoegen</string>
+
+
+    <string name="lbl_find">Zoek Contact en sta toestemming toe</string>
+
+
+    <string name="message_delete_history">Weet je zeker dat je de hele geschiedenis wilt wissen?</string>
+    <string name="messages">Berichten</string>
+
+
+    <string name="no_app_found">Geen app gevonden om te bellen</string>
+    <string name="no_app_found_hendle_this_event">Geen app gevonden om dit evenement af te handelen!</string>
+    <string name="no_block_contact">Geen blokcontact</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">Geen favoriet contact gevonden!</string>
+    <string name="no_recent_found">Geen recent gevonden!</string>
+    <string name="no_contacts_found">Geen contactpersoon gevonden!</string>
+
+    <string name="no_title">Geen titel</string>
+    <string name="notes">Opmerkingen</string>
+    <string name="number_blocked_msg">Nummer geblokkeerd. Succesvol</string>
+    <string name="number_unblocked_msg">Nummer gedeblokkeerd. Succesvol</string>
+    <string name="number_not">Nummer niet gevonden</string>
+    <string name="number_of_calls_with">belt mee</string>
+    <string name="older">Ouder</string>
+    <string name="ongoing_call">uitgaande oproep</string>
+
+
+    <string name="permission_set_as_default">Vind je het leuk om deze app in te stellen als de standaard telefoon-app? Je kunt ze toekennen in de app-instellingen.</string>
+    <string name="phone">Telefoon</string>
+    <string name="phone_validation">Voeg eerst uw telefoonnummer toe!</string>
+
+    <string name="private_number">Privénummers</string>
+
+    <string name="remind_me_about">Herinner me eraan</string>
+    <string name="remove_photo">Verwijder foto</string>
+    <string name="resume_call">Gesprek hervatten</string>
+    <string name="save">Redden</string>
+    <string name="save_to">Opslaan in</string>
+    <string name="search_contacts">Zoek contactpersoon</string>
+    <string name="search_menu_title">Zoeken</string>
+    <string name="select">Selecteren</string>
+    <string name="select_sim">Sim selecteren</string>
+    <string name="selected_account">Uw geselecteerde account</string>
+    <string name="selected_contact">0 geselecteerd</string>
+    <string name="selected_photo">Foto selecteren</string>
+    <string name="send_a_message">Bericht verzenden</string>
+    <string name="send_mail">E-mail verzenden</string>
+
+    <string name="settings">Instellingen</string>
+
+    <string name="share_via">Delen via</string>
+    <string name="share_your_expirence">Uw ervaring delen</string>
+
+    <string name="sim_not_available">Simnetwerk niet beschikbaar.....!</string>
+    <string name="sortby">Sorteren op</string>
+    <string name="speaker">Spreker</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">Vandaag</string>
+    <string name="string_yesterday">Gisteren</string>
+
+    <string name="surname">Achternaam</string>
+    <string name="surname_first">Achternaam eerst</string>
+    <string name="take_new_photo">Nieuwe foto maken</string>
+    <string name="text">Tekst</string>
+    <string name="this_month">deze maand</string>
+    <string name="title">Titel</string>
+    <string name="title_anniversary">Jubileum</string>
+    <string name="title_birthday">Verjaardag</string>
+    <string name="title_cancel">Annuleren</string>
+    <string name="title_go_to_setting">GA NAAR INSTELLINGEN</string>
+    <string name="title_help_to_identify">Help anderen dit nummer te identificeren</string>
+    <string name="title_home">Startpagina</string>
+    <string name="title_home_fax">Fax thuis</string>
+    <string name="title_lang">Taal</string>
+    <string name="title_main">Hoofdpagina</string>
+    <string name="title_mobile">Mobiel</string>
+    <string name="title_mute">Dempen</string>
+    <string name="title_no_lable">Geen label</string>
+    <string name="title_other">Anders</string>
+    <string name="title_pager">Pager</string>
+    <string name="title_private_number">Privénummer</string>
+    <string name="title_save">Opslaan</string>
+    <string name="title_sim_not_register">Niet geregistreerd netwerk</string>
+    <string name="title_summary">Samenvatting</string>
+    <string name="title_today">Vandaag</string>
+    <string name="title_work">Werk</string>
+    <string name="title_work_fax">Fax werk</string>
+    <string name="turn_microphone_off">Microfoon uitzetten</string>
+    <string name="turn_microphone_on">Microfoon aanzetten</string>
+    <string name="turn_speaker_off">Speaker uitzetten</string>
+    <string name="turn_speaker_on">Speaker aanzetten</string>
+    <string name="unknown">Onbekend</string>
+    <string name="unknown_caller">Onbekende beller</string>
+    <string name="unknown_error_occurred">Onbekende fout opgetreden</string>
+
+    <string name="web">Web</string>
+    <string name="website">Website</string>
+    <string name="write_personal_message">Persoonlijk bericht schrijven</string>
+
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="cancel">Annuleren</string>
+    <string name="ok">Oké</string>
+
+    <string name="no_ringtone_found">Ringtone niet gevonden!</string>
+    <string name="ringtone_set_successfully">Ringtone succesvol ingesteld</string>
+
+    <string name="toast_please_enter_firstname">Voer uw voornaam in</string>
+    <string name="toast_please_enter_surname">Voer uw achternaam in</string>
+    <string name="toast_please_enter_valid_phone_no">Voer een geldig telefoonnummer in</string>
+    <string name="toast_please_enter_valid_email">Voer een geldig e-mailadres in</string>
+
+    <string name="can_t_talk_right_now">Kan nu niet praten…</string>
+    <string name="i_ll_call_you_later">Ik bel u later.</string>
+    <string name="i_m_on_the_way">Ik ben onderweg.</string>
+    <string name="can_t_talk_now_call_me_later">Kan nu niet praten. Bel me later.</string>
+    <string name="toast_number_already_blocked">Nummer al geblokkeerd</string>
+    <string name="no_app_found_to_handle_this_action">Er is geen app gevonden die deze actie afhandelt</string>
+    <string name="choose_sim_for_make_call">Kies SIM om te bellen</string>
+    <string name="contacts_with_phone_numbers">contacten met telefoonnummers</string>
+    <string name="welcome_to_contacts">Welkom bij Contacten</string>
+
+    <string name="premium_purchase_successful">Aankoop succesvol</string>
+
+</resources> 
+

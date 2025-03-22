@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ad_back_gray">#bdbdbd</color>
+    <color name="ad_background_color">#bdbdbd</color>
+    <color name="ad_background_color_contact_detail">#bdbdbd</color>
+    <color name="ad_color">#f8f8f8</color>
+    <color name="ad_desc_color">#9ca6a6</color>
+    <color name="ads_banner_bg">#f9f9f9</color>
+    <color name="ads_banner_bg_b1">#fafafa</color>
+
+
+    <color name="app_color">#0C64F3</color>
+
+    <color name="dialog_background">#1B2536</color>
+    <color name="dialog_top_view">#1AE1E2E3</color>
+
+    <color name="background">#0F1C25</color>
+    <color name="background_gray">#0DFFFFFF</color>
+    <color name="bg_gray">#1B2830</color>
+
+    <color name="text_black">#FFFFFF</color>
+    <color name="text_white">#001E2F</color>
+    <color name="text_gray">#74777F</color>
+
+
+    <color name="black_to_white">#FFFFFF</color>
+    <color name="white_to_black">#000000</color>
+
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="bg_edittext_search">#19252E</color>
+
+    <color name="bg_contact_scroll">#1A2730</color>
+    <color name="bg_contact_scroll_dot">#3D4E5A</color>
+
+
+    <!--  Language  -->
+    <color name="lang_toolbar">#222C3F</color>
+    <color name="language_bg_solid">#1B2536</color>
+    <color name="language_bg_border">#0DEFEFF0</color>
+
+    <!--  Permission  -->
+    <color name="permission_bg_top">#0E2335</color>
+    <color name="permission_text_gray">#9A9A9A</color>
+
+    <!--  Home  -->
+    <color name="home_drawer_border">#18252D</color>
+    <color name="home_bottom_bg">#15222B</color>
+    <color name="home_bottom_border">#0AE6E6E6</color>
+    <color name="home_op_text_color">#E1E1E1</color>
+    <color name="home_bg_contact_storage">#1B2730</color>
+    <color name="contact_header_bg">#142029</color>
+
+    <!--  Setting  -->
+    <color name="setting_bg">#0F1C25</color>
+    <color name="setting_card_color">#17232C</color>
+    <color name="setting_divider">#1D2932</color>
+    <color name="setting_switch_track_on">#123A55</color>
+    <color name="setting_switch_track_off">#29353E</color>
+    <color name="setting_switch_thumb_off">#747B80</color>
+
+    <!--  Recent  -->
+    <color name="recent_extra_open">#18252D</color>
+    <color name="recent_missed_call">#FF0404</color>
+
+    <!--  Dial  -->
+    <color name="dial_item_divider">#18252D</color>
+
+    <!--  Contact Info  -->
+    <color name="info_icon_border">#202C35</color>
+    <color name="info_mobile_no_bg">#16232C</color>
+
+    <!--  Block Contact  -->
+    <color name="block_btn_bg">#12FFFFFF</color>
+
+    <!--  Filter  -->
+    <color name="filter_sim_border">#2D3646</color>
+
+    <!--  Quick Response Dialog  -->
+    <color name="quick_response_edittext">#1FFFFFFF</color>
+
+    <!--  Add Contact  -->
+    <color name="add_contact_hint">#61FFFFFF</color>
+    <color name="add_contact_edittext">#0F1C25</color>
+    <color name="add_contact_divider">#18252D</color>
+    <color name="add_contact_view_more">#888888</color>
+
+
+    <color name="theme_light">#c2e7ff</color>
+    <color name="theme_light_color">#f1f9fd</color>
+    <color name="appBarColor">#f5f5f5</color>
+
+    <color name="app_color_light">#f5f5f5</color>
+    <color name="app_color_light1">#278efa</color>
+    <color name="app_color_transparent">#993a86ff</color>
+    <color name="backColor">#fafafa</color>
+    <color name="bg_loader">#ffffff</color>
+
+    <color name="blackFinal">#000000</color>
+    <color name="black_and_white1">#000000</color>
+    <color name="black_off">#313639</color>
+    <color name="black_transparent">#aa000000</color>
+    <color name="button_text_color">#ffffff</color>
+    <color name="cardDialogColor">#ffffff</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="colorBlack_transparent">#66000000</color>
+    <color name="colorBlack_transparentDark">#99000000</color>
+    <color name="colorBlue">#0072ff</color>
+    <color name="colorGrey">#999999</color>
+
+
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhite_off1">#d0d0d0</color>
+    <color name="color_grey_dark1">#aaaaaa</color>
+    <color name="color_white">#ffffff</color>
+    <color name="gntAdGreen1">#0079f6</color>
+    <color name="gntBlack">#000000</color>
+    <color name="gntWhite">#ffffff</color>
+    <color name="gray">#686666</color>
+    <color name="gray_back1">#e9e9e9</color>
+    <color name="gray_back2">#d5d5d5</color>
+    <color name="gray_color_ad_bg_border">#bdbdbd</color>
+    <color name="gray_color_text">#504e4e</color>
+    <color name="gray_divider">#e1e1e1</color>
+    <color name="gray_text">#a4a4a4</color>
+    <color name="hint_text_color">#b5b5b5</color>
+    <color name="lavender">#f7f7f7</color>
+    <color name="lavender_bg">#e6e6e6</color>
+    <color name="lavender_bg1">#e6e6e6</color>
+    <color name="lightTransparent">#16000000</color>
+    <color name="light_grey_stroke">#40ffffff</color>
+    <color name="light_white_call">#99ffffff</color>
+    <color name="lightcolor">#686666</color>
+    <color name="line">#403e3e</color>
+    <color name="pop_up_background">#22000000</color>
+
+    <color name="purple_500">#ff6200ee</color>
+    <color name="purple_700">#ff3700b3</color>
+    <color name="red">#ef5350</color>
+    <color name="ripple">#65737070</color>
+    <color name="ripple_foreground">#33ffffff</color>
+    <color name="selected_tab_color">#cfe6f1</color>
+    <color name="shadow_1">#20cccccc</color>
+    <color name="shadow_2">#40cccccc</color>
+    <color name="shadow_3">#50cccccc</color>
+    <color name="shadow_4">#60cccccc</color>
+    <color name="shim_back">#ccc</color>
+    <color name="silver1">#c9c9c9</color>
+    <color name="stockeCard">#5e58595a</color>
+    <color name="subtitle_list_color">#596068</color>
+    <color name="tab_back_color">@color/app_color</color>
+    <color name="tab_indicator_color">@color/white</color>
+    <color name="teal_200">#ff03dac5</color>
+    <color name="teal_700">#ff018786</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="caller_text_color">#FFFFFF</color>
+
+</resources>

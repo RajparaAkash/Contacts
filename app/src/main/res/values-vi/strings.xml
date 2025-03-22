@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liên lạc</string>
+
+    <string name="incoming_call">Cuộc gọi đến</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">Cuộc gọi thoại</string>
+    <string name="connected_apps">Ứng dụng đã kết nối</string>
+    <string name="answer">Trả lời</string>
+    <string name="more">Thêm</string>
+    <string name="today">Hôm nay</string>
+    <string name="yesterday">Hôm qua</string>
+
+    <string name="whoops">Rất tiếc!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">Kết nối internet chậm hoặc không có. Xin vui lòng kiểm tra kết nối Internet của bạn.</string>
+    <string name="retry">Thử lại</string>
+    <string name="go_to_settings">Đi tới Cài đặt</string>
+    <string name="dismiss">Miễn nhiệm</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">Rất tiếc, Dịch vụ không khả dụng do đang bảo trì. Vui lòng thử lại sau một thời gian hoặc thử lại. Cảm ơn !</string>
+    <string name="app_under_maintenance">Ứng dụng đang được bảo trì</string>
+    <string name="showing_ad_please_wait">Đang hiển thị quảng cáo, vui lòng chờ…</string>
+    <string name="showing_ad_please_wait_desc">Cảnh báo này là để bạn không vô tình click vào\naquảng cáo</string>
+    <string name="ad">QUẢNG CÁO</string>
+    <string name="continue_to_app">Tiếp tục ứng dụng</string>
+    <string name="accept_and_continue"><![CDATA[Chấp nhận và tiếp tục]]></string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">Bạn có chắc chắn !!!\nBạn muốn thoát khỏi ứng dụng?</string>
+    <string name="press_here_to_exit">Nhấn vào đây để thoát</string>
+    <string name="an_update_has_just_been_downloaded">Một bản cập nhật vừa được tải xuống.</string>
+
+    <string name="you_leaving">Bạn đang rời đi…</string>
+    <string name="loading_ad">Đang tải quảng cáo, vui lòng đợi…</string>
+
+
+    <string name="toast_message_sent">Tin nhắn đã gửi</string>
+    <string name="toast_number_not_delete">Số không xóa! đã xảy ra sự cố</string>
+    <string name="toast_no_email_clients">Không có ứng dụng email nào được cài đặt.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[Trình quay số điện thoại và danh bạ]]></string>
+    <string name="privacy_get_started">Bắt đầu</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">Chào mừng đến với\nDanh bạ</string>
+    <string name="allow_permission_desription">Cho phép thực hiện cuộc gọi và sửa đổi Danh bạ</string>
+    <string name="allow_contact">Liên hệ</string>
+    <string name="title_contact_description">Cho phép ứng dụng này đọc và ghi liên hệ trên màn hình người gọi.</string>
+    <string name="title_phone">Trạng thái điện thoại</string>
+    <string name="title_phone_description">Hãy giúp chúng tôi xác định trạng thái cuộc gọi đến và đi.</string>
+    <string name="title_call_log">Nhật ký cuộc gọi</string>
+    <string name="title_call_log_description">Cho phép ứng dụng đọc và ghi dữ liệu nhật ký cuộc gọi của người dùng.</string>
+    <string name="title_overlay_permissiom">Quyền lớp phủ</string>
+    <string name="title_overlay_description">Để sử dụng tính năng sau cuộc gọi miễn phí, chúng tôi phải xin phép lớp phủ.</string>
+    <string name="allow_permission">Cho phép quyền</string>
+
+    <string name="dialog_perm_title">Cần quyền</string>
+    <string name="dialog_perm_desc">Ứng dụng này cần có quyền để sử dụng tính năng này. Bạn có thể cấp chúng trong cài đặt ứng dụng.</string>
+    <string name="dialog_perm_go_to_setting">GOTO CÀI ĐẶT</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">Đặt làm mặc định</string>
+    <string name="set_as_default_description"><![CDATA[Đặt liên hệ làm ứng dụng ID người gọi và thư rác mặc định của bạn bằng cách nhấp vào nút bên dưới]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">Yêu thích</string>
+    <string name="home_recent">Gần đây</string>
+    <string name="home_contacts">Liên lạc</string>
+    <string name="home_search_here">Tìm kiếm ở đây</string>
+    <string name="home_other">Khác</string>
+    <string name="home_block_contacts">Chặn danh bạ</string>
+    <string name="home_settings">Cài đặt</string>
+    <string name="home_rate">Tỷ lệ</string>
+    <string name="home_share">Chia sẻ</string>
+    <string name="home_feedback">Nhận xét</string>
+    <string name="home_privacy_policy">Chính sách bảo mật</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">Tổng quan</string>
+    <string name="make_default"><![CDATA[Đặt Liên hệ làm ứng dụng CallerId & Spam mặc định]]></string>
+    <string name="show_caller_dialog">Hiển thị ID người gọi sau cuộc gọi</string>
+    <string name="show_quick_decline_messages">Tin nhắn từ chối nhanh</string>
+    <string name="show_dial_pad_sound">Âm thanh bàn phím quay số</string>
+    <string name="show_led_flash">Đèn LED</string>
+    <string name="setting_dark_theme">Chủ đề tối</string>
+    <string name="toast_flash_not_supported">Thiết bị của bạn không hỗ trợ đèn flash led</string>
+
+    <string name="setting_edit_contact">Chỉnh sửa liên hệ</string>
+    <string name="default_account">Tài khoản mặc định cho các liên hệ mới</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">Cuộc gọi đi</string>
+    <string name="declined_call">Cuộc gọi bị từ chối</string>
+    <string name="block_call">Cuộc gọi bị chặn</string>
+    <string name="missed_Call">Cuộc gọi nhỡ</string>
+    <string name="incoming">Cuộc gọi đến</string>
+    <string name="block">Khối</string>
+    <string name="unblock">Mở khóa</string>
+
+    <string name="recent_call">Gọi</string>
+    <string name="video_call">Cuộc gọi video</string>
+    <string name="recent_info">Thông tin</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">Thêm vào liên lạc</string>
+
+    <!--  Contact info  -->
+    <string name="call">Gọi</string>
+    <string name="message">Tin nhắn</string>
+    <string name="video">Băng hình</string>
+    <string name="info_contact_info">Thông tin liên lạc</string>
+    <string name="info_contact_history">Lịch sử liên hệ</string>
+    <string name="info_see_all">Nhìn thấy tất cả</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">Chặn số</string>
+    <string name="block_call_from_unknown">Chặn cuộc gọi từ số lạ</string>
+    <string name="block_add_phone_hint">Thêm số điện thoại</string>
+    <string name="block_enter_valid_number">Vui lòng nhập số hợp lệ</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">Lịch sử cuộc gọi</string>
+    <string name="history_no_data">Không tìm thấy dữ liệu nào</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">Đồng bộ danh bạ</string>
+    <string name="popup_clear_history">Xóa lịch sử</string>
+    <string name="popup_speed_dial_numbers">Số quay số nhanh</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">Trả lời nhanh</string>
+    <string name="quick_response_add">Thêm vào</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">Lọc cuộc gọi</string>
+    <string name="filter_all_calls">Tât cả cuộc gọi</string>
+    <string name="filter_missed_calls">Các cuộc gọi nhỡ</string>
+    <string name="filter_incoming_calls">Cuộc gọi đến</string>
+    <string name="filter_outgoing_calls">Cuộc gọi đi</string>
+    <string name="filter_reset">Cài lại</string>
+    <string name="filter_apply">Áp dụng</string>
+    <string name="filter_sim_all">Tất cả Sim</string>
+    <string name="filter_sim_one">Sim 1</string>
+    <string name="filter_sim_two">Sim 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">Thêm phản hồi nhanh</string>
+    <string name="dialog_quick_response_edit">Chỉnh sửa phản hồi nhanh</string>
+    <string name="dialog_quick_response_hint">Tin nhắn</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">Quay số nhanh</string>
+    <string name="speed_dial_desc">Gán số liên lạc cho số quay số nhanh.</string>
+    <string name="speed_dial_not_assign">Không chỉ định</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">Quản lý cuộc gọi</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">Tiền tố tên</string>
+    <string name="first_name_hint">Tên đầu tiên</string>
+    <string name="middle_name_hint">Tên đệm</string>
+    <string name="surname_hint">Họ</string>
+    <string name="name_suffix_hint">Hậu tố tên</string>
+
+    <string name="company_name_hint">Tên công ty</string>
+    <string name="department_hint">Phòng</string>
+    <string name="title_hint">Tiêu đề</string>
+
+    <string name="phone_number_hint">Số điện thoại</string>
+    <string name="email_hint">E-mail</string>
+    <string name="significant_date_hint">Ngày quan trọng</string>
+    <string name="website_hint">Trang mạng</string>
+    <string name="notes_hint">Ghi chú</string>
+    <string name="label_hint">Nhãn</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">Về</string>
+    <string name="accept">Chấp nhận</string>
+    <string name="accounts">Tài khoản</string>
+    <string name="add_contact">Tạo liên hệ mới</string>
+    <string name="add_email">Thêm email</string>
+    <string name="add_phone_number">Thêm số điện thoại</string>
+    <string name="add_picture">Thêm ảnh</string>
+    <string name="addcall">Thêm cuộc gọi</string>
+    <string name="all_contacts_0">Tất cả liên hệ 0</string>
+    <string name="always_use_this_sim">Luôn sử dụng sim này</string>
+
+
+    <string name="block_contact">Khoa liên lạc</string>
+    <!--    <string name="block_contact_desc">Bạn sẽ không còn nhận được bất kỳ cuộc gọi hoặc tin nhắn nào từ liên hệ này nữa.</string>-->
+    <string name="block_contact_desc">Bạn có chắc chắn muốn chặn số này không?</string>
+    <string name="toast_block_contact">Đã chặn liên hệ thành công</string>
+
+    <string name="default_app_desc">Để sử dụng tất cả các tính năng có sẵn trong danh bạ, bạn cần đặt ứng dụng danh bạ này làm ứng dụng điện thoại mặc định của mình.</string>
+    <string name="block_contect_default_app">Để chặn liên hệ, bạn cần đặt liên hệ làm ứng dụng điện thoại mặc định của mình</string>
+    <string name="block_error_message">Bạn chưa chặn liên hệ này. Vui lòng thêm số điện thoại đầu tiên vào liên hệ này.</string>
+    <string name="block_not_supported">Tính năng chặn số không được hỗ trợ trên thiết bị này.</string>
+    <string name="calendar">Lịch</string>
+    <string name="call_ended">Cuộc gọi kết thúc</string>
+    <string name="call_ending">kết thúc cuộc gọi</string>
+    <string name="call_on_hold">Cuộc gọi chơ</string>
+    <string name="call_swap">Vuốt cuộc gọi</string>
+    <string name="can_call_you_later">Tôi có thể gọi cho bạn sau được không?</string>
+    <string name="can_not_talk_right_now">Xin lỗi, tôi không thể nói chuyện bây giờ</string>
+    <string name="change_photo">Thay đổi hình ảnh</string>
+
+
+    <string name="conference_manage">Cuộc gọi hội nghị</string>
+    <string name="confirm_message_of_delete">Bạn có chắc chắn muốn xóa địa chỉ liên hệ này không?</string>
+
+    <string name="contact_label">Nhãn</string>
+    <string name="contact_name">Tên Liên lạc</string>
+    <string name="contacts">Liên lạc</string>
+    <string name="create_contact">Tạo ra liên lạc</string>
+    <string name="decline">Sự suy sụp</string>
+
+
+    <string name="add">Thêm vào</string>
+    <string name="update">Cập nhật</string>
+    <string name="delete">Xóa bỏ</string>
+    <string name="share">Chia sẻ</string>
+    <string name="set_ringtone">Cài nhạc chuông</string>
+
+
+    <string name="delete_contact_message">Chắc chắn bạn muốn xóa số này?</string>
+
+    <string name="edit_contact">Chỉnh sửa liên hệ</string>
+    <string name="fields_empty">Phải nhập ít nhất 1 trường!</string>
+
+
+    <string name="more_fields">Thêm trường</string>
+    <string name="name_format">Định dạng tên</string>
+
+
+    <string name="duration">Khoảng thời gian</string>
+    <string name="email">E-mail</string>
+    <string name="email_validation">Vui lòng thêm email trước!</string>
+    <string name="event">Ngày quan trọng</string>
+
+
+    <string name="gmail_not_install">Chưa cài đặt Gmail</string>
+    <string name="first_name_first">Tên đầu tiên</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">Lịch sử</string>
+    <string name="i_am_on_my_way">Tôi đang trên đường</string>
+
+
+    <string name="hold">Giữ</string>
+    <string name="hold_call">Giữ cuộc gọi</string>
+    <string name="dialing">Đang quay số…</string>
+    <string name="is_calling">Đang gọi…</string>
+    <string name="keypad">Bàn phím</string>
+    <string name="merge">Hợp nhất</string>
+
+
+    <string name="lbl_find">Tìm Liên hệ và cho phép</string>
+
+
+    <string name="message_delete_history">Bạn có chắc chắn muốn xóa tất cả lịch sử không?</string>
+    <string name="messages">Tin nhắn</string>
+
+
+    <string name="no_app_found">Không tìm thấy ứng dụng nào để thực hiện cuộc gọi</string>
+    <string name="no_app_found_hendle_this_event">Không tìm thấy ứng dụng nào để xử lý sự kiện này!</string>
+    <string name="no_block_contact">Không chặn liên lạc</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">Không tìm thấy liên hệ yêu thích nào!</string>
+    <string name="no_recent_found">Không tìm thấy gần đây!</string>
+    <string name="no_contacts_found">Không tìm thấy liên hệ!</string>
+
+    <string name="no_title">Không tiêu đề</string>
+    <string name="notes">Ghi chú</string>
+    <string name="number_blocked_msg">Số bị chặn thành công</string>
+    <string name="number_unblocked_msg">Đã bỏ chặn số thành công</string>
+    <string name="number_not">Không tìm thấy số</string>
+    <string name="number_of_calls_with">cuộc gọi với</string>
+    <string name="older">Lớn hơn</string>
+    <string name="ongoing_call">cuộc gọi đi</string>
+
+
+    <string name="permission_set_as_default">Bạn có muốn đặt ứng dụng này làm ứng dụng điện thoại mặc định không? Bạn có thể cấp chúng trong cài đặt ứng dụng.</string>
+    <string name="phone">Điện thoại</string>
+    <string name="phone_validation">Vui lòng thêm số điện thoại trước!</string>
+
+    <string name="private_number">Số riêng</string>
+
+    <string name="remind_me_about">Nhắc tôi về</string>
+    <string name="remove_photo">Gỡ bỏ hình</string>
+    <string name="resume_call">Tiếp tục cuộc gọi</string>
+    <string name="save">Cứu</string>
+    <string name="save_to">Lưu vào</string>
+    <string name="search_contacts">Tìm kiếm liên hệ</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="select">Lựa chọn</string>
+    <string name="select_sim">Chọn sim</string>
+    <string name="selected_account">Tài khoản bạn đã chọn</string>
+    <string name="selected_contact">0 đã chọn</string>
+    <string name="selected_photo">Chọn tấm ảnh</string>
+    <string name="send_a_message">Gửi tin nhắn</string>
+    <string name="send_mail">Gửi thư</string>
+
+    <string name="settings">Cài đặt</string>
+
+    <string name="share_via">Chia sẻ qua</string>
+    <string name="share_your_expirence">Chia sẻ kinh nghiệm của bạn</string>
+
+    <string name="sim_not_available">Mạng Sim không có sẵn.....!</string>
+    <string name="sortby">Sắp xếp theo</string>
+    <string name="speaker">Loa</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">Hôm nay</string>
+    <string name="string_yesterday">Hôm qua</string>
+
+    <string name="surname">Họ</string>
+    <string name="surname_first">Họ đầu tiên</string>
+    <string name="take_new_photo">Chụp ảnh mới</string>
+    <string name="text">Chữ</string>
+    <string name="this_month">tháng này</string>
+    <string name="title">Tiêu đề</string>
+    <string name="title_anniversary">Dịp kỉ niệm</string>
+    <string name="title_birthday">Sinh nhật</string>
+    <string name="title_cancel">Hủy bỏ</string>
+    <string name="title_go_to_setting">GOTO CÀI ĐẶT</string>
+    <string name="title_help_to_identify">Giúp người khác xác định số này</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_home_fax">Fax tại nhà</string>
+    <string name="title_lang">Ngôn ngữ</string>
+    <string name="title_main">Chủ yếu</string>
+    <string name="title_mobile">Điện thoại di động</string>
+    <string name="title_mute">Tắt tiếng</string>
+    <string name="title_no_lable">Không nhãn hiệu</string>
+    <string name="title_other">Khác</string>
+    <string name="title_pager">Máy nhắn tin</string>
+    <string name="title_private_number">Số cá nhân</string>
+    <string name="title_save">Cứu</string>
+    <string name="title_sim_not_register">Mạng chưa đăng ký</string>
+    <string name="title_summary">Bản tóm tắt</string>
+    <string name="title_today">Hôm nay</string>
+    <string name="title_work">Công việc</string>
+    <string name="title_work_fax">Fax cơ quan</string>
+    <string name="turn_microphone_off">Tắt micrô</string>
+    <string name="turn_microphone_on">Bật micrô</string>
+    <string name="turn_speaker_off">Tắt loa</string>
+    <string name="turn_speaker_on">Bật loa</string>
+    <string name="unknown">không xác định</string>
+    <string name="unknown_caller">Người gọi không xác định</string>
+    <string name="unknown_error_occurred">Xảy ra lỗi không xác định được</string>
+
+    <string name="web">Web</string>
+    <string name="website">Trang mạng</string>
+    <string name="write_personal_message">Viết tin nhắn cá nhân</string>
+
+    <string name="yes">Đúng</string>
+    <string name="no">KHÔNG</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="ok">Được rồi</string>
+
+    <string name="no_ringtone_found">Không tìm thấy nhạc chuông!</string>
+    <string name="ringtone_set_successfully">Đã đặt nhạc chuông thành công</string>
+
+    <string name="toast_please_enter_firstname">Vui lòng nhập tên</string>
+    <string name="toast_please_enter_surname">Vui lòng nhập họ</string>
+    <string name="toast_please_enter_valid_phone_no">Xin nhập số điện thoại hợp lệ</string>
+    <string name="toast_please_enter_valid_email">Vui lòng nhập email hợp lệ</string>
+
+    <string name="can_t_talk_right_now">Không thể nói chuyện lúc này…</string>
+    <string name="i_ll_call_you_later">Tôi sẽ gọi cho bạn sau.</string>
+    <string name="i_m_on_the_way">Tôi đang trên đường.</string>
+    <string name="can_t_talk_now_call_me_later">Bây giờ không thể nói chuyện được. Gọi cho tôi sau.</string>
+    <string name="toast_number_already_blocked">Số đã bị chặn</string>
+    <string name="no_app_found_to_handle_this_action">Không tìm thấy ứng dụng nào để xử lý tác vụ này</string>
+    <string name="choose_sim_for_make_call">Chọn SIM để thực hiện cuộc gọi</string>
+    <string name="contacts_with_phone_numbers">địa chỉ liên lạc với số điện thoại</string>
+    <string name="welcome_to_contacts">Chào mừng đến với Danh bạ</string>
+
+    <string name="premium_purchase_successful">Mua thành công</string>
+
+</resources> 
+

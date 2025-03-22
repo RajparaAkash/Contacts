@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kişiler</string>
+
+    <string name="incoming_call">Gelen Çağrı</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">Sesli Arama</string>
+    <string name="connected_apps">Bağlı uygulamalar</string>
+    <string name="answer">Cevap</string>
+    <string name="more">Daha Fazla</string>
+    <string name="today">Bugün</string>
+    <string name="yesterday">Dün</string>
+
+    <string name="whoops">Hata!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">İnternet bağlantısı yavaş veya yok. Lütfen internet bağlantınızı kontrol edin.</string>
+    <string name="retry">Yeniden dene</string>
+    <string name="go_to_settings">Ayarlara git</string>
+    <string name="dismiss">Azletmek</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">Üzgünüz, bakım nedeniyle hizmet kullanılamıyor. Lütfen bir süre sonra deneyin veya yeniden deneyin. Teşekkür ederim !</string>
+    <string name="app_under_maintenance">Uygulama Bakımda</string>
+    <string name="showing_ad_please_wait">Reklam Gösteriliyor, Lütfen Bekleyin…</string>
+    <string name="showing_ad_please_wait_desc">Bu uyarı yanlışlıkla reklama tıklamamanız için\n</string>
+    <string name="ad">Reklam</string>
+    <string name="continue_to_app">Uygulamaya devam et</string>
+    <string name="accept_and_continue"><![CDATA[Kabul Et ve Devam Et]]></string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">Emin misiniz !!!\nUygulamadan çıkmak istiyorsunuz?</string>
+    <string name="press_here_to_exit">Çıkmak İçin Buraya Basın</string>
+    <string name="an_update_has_just_been_downloaded">Az önce bir güncelleme indirildi.</string>
+
+    <string name="you_leaving">Ayrılıyorsun…</string>
+    <string name="loading_ad">Reklam yükleniyor, lütfen bekleyin…</string>
+
+
+    <string name="toast_message_sent">Mesajı gönderildi</string>
+    <string name="toast_number_not_delete">Numara silinmiyor! bir şeyler yanlış gitti</string>
+    <string name="toast_no_email_clients">Yüklü e-posta istemcisi yok.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[Telefon Çevirici ve Kişiler]]></string>
+    <string name="privacy_get_started">Başlamak</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">\nKişiler\'e hoş geldiniz</string>
+    <string name="allow_permission_desription">Arama yapma ve değiştirilen Kişiler için İzne İzin Ver</string>
+    <string name="allow_contact">Temas etmek</string>
+    <string name="title_contact_description">Bu uygulamanın arayan ekranındaki kişiyi okumasına ve yazmasına izin verin.</string>
+    <string name="title_phone">Telefon Durumu</string>
+    <string name="title_phone_description">Gelen ve giden çağrı durumunu belirlememize yardımcı olun.</string>
+    <string name="title_call_log">Arama kayıtları</string>
+    <string name="title_call_log_description">Uygulamaya, kullanıcının çağrı günlüğü verilerini okuma ve yazma izni verir.</string>
+    <string name="title_overlay_permissiom">Yer Paylaşımı İzni</string>
+    <string name="title_overlay_description">Ücretsiz çağrı sonrası özelliğini kullanmak için yer paylaşımı izni istememiz gerekiyor.</string>
+    <string name="allow_permission">İzne İzin Ver</string>
+
+    <string name="dialog_perm_title">İzin Gerekiyor</string>
+    <string name="dialog_perm_desc">Bu uygulamanın bu özelliği kullanması için izne ihtiyacı var. Bunları uygulama ayarlarında verebilirsiniz.</string>
+    <string name="dialog_perm_go_to_setting">AYARLARA GİT</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">Varsayılan olarak ayarla</string>
+    <string name="set_as_default_description"><![CDATA[Aşağıdaki düğmeye tıklayarak varsayılan Arayan Kimliği ve Spam uygulamanız olarak iletişim kurun]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">Favori</string>
+    <string name="home_recent">Son</string>
+    <string name="home_contacts">Kişiler</string>
+    <string name="home_search_here">Burada ara</string>
+    <string name="home_other">Diğer</string>
+    <string name="home_block_contacts">Kişileri Engelle</string>
+    <string name="home_settings">Ayarlar</string>
+    <string name="home_rate">Oran</string>
+    <string name="home_share">Paylaşmak</string>
+    <string name="home_feedback">Geri bildirim</string>
+    <string name="home_privacy_policy">Gizlilik Politikası</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">Genel</string>
+    <string name="make_default"><![CDATA[Kişiyi varsayılan Arayan Kimliği ve Spam uygulaması olarak ayarla]]></string>
+    <string name="show_caller_dialog">Arama Sonrası Arayanın Kimliğini Göster</string>
+    <string name="show_quick_decline_messages">Hızlı reddetme mesajları</string>
+    <string name="show_dial_pad_sound">Tuş Takımı Sesi</string>
+    <string name="show_led_flash">LED ışık</string>
+    <string name="setting_dark_theme">Koyu Tema</string>
+    <string name="toast_flash_not_supported">Cihazınız LED flaşı desteklemiyor</string>
+
+    <string name="setting_edit_contact">Kişiyi Düzenle</string>
+    <string name="default_account">Yeni kişiler için varsayılan hesap</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">Giden arama</string>
+    <string name="declined_call">Reddedilen Çağrı</string>
+    <string name="block_call">Engellenen Çağrı</string>
+    <string name="missed_Call">Cevapsız çağrı</string>
+    <string name="incoming">Gelen çağrı</string>
+    <string name="block">Engellemek</string>
+    <string name="unblock">engeli kaldırmak</string>
+
+    <string name="recent_call">Arama</string>
+    <string name="video_call">Görüntülü arama</string>
+    <string name="recent_info">Bilgi</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">Rehbere ekle</string>
+
+    <!--  Contact info  -->
+    <string name="call">Arama</string>
+    <string name="message">İleti</string>
+    <string name="video">Video</string>
+    <string name="info_contact_info">İletişim bilgileri</string>
+    <string name="info_contact_history">İletişim Geçmişi</string>
+    <string name="info_see_all">Hepsini gör</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">Numaraları engelle</string>
+    <string name="block_call_from_unknown">Bilinmeyen numaralardan gelen aramaları engelle</string>
+    <string name="block_add_phone_hint">Telefon numarası ekle</string>
+    <string name="block_enter_valid_number">Lütfen geçerli bir numara girin</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">Arama geçmişi</string>
+    <string name="history_no_data">Veri bulunamadı</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">Kişiyi Senkronize Et</string>
+    <string name="popup_clear_history">Geçmişi Temizle</string>
+    <string name="popup_speed_dial_numbers">Hızlı Arama Numaraları</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">Hızlı cevap</string>
+    <string name="quick_response_add">Eklemek</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">Aramayı Filtrele</string>
+    <string name="filter_all_calls">Tüm aramalar</string>
+    <string name="filter_missed_calls">Cevapsız aramalar</string>
+    <string name="filter_incoming_calls">Gelen aramalar</string>
+    <string name="filter_outgoing_calls">Giden aramalar</string>
+    <string name="filter_reset">Sıfırla</string>
+    <string name="filter_apply">Uygula</string>
+    <string name="filter_sim_all">Tüm Sim</string>
+    <string name="filter_sim_one">Sim 1</string>
+    <string name="filter_sim_two">Sim 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">Hızlı yanıt ekle</string>
+    <string name="dialog_quick_response_edit">Hızlı yanıtı düzenleyin</string>
+    <string name="dialog_quick_response_hint">İleti</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">Hızlı arama</string>
+    <string name="speed_dial_desc">Kişiyi hızlı arama numarasına atayın.</string>
+    <string name="speed_dial_not_assign">Atama Değil</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">Aramaları Yönet</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">Ad öneki</string>
+    <string name="first_name_hint">İlk adı</string>
+    <string name="middle_name_hint">İkinci ad</string>
+    <string name="surname_hint">Soyadı</string>
+    <string name="name_suffix_hint">İsim soneki</string>
+
+    <string name="company_name_hint">Firma Adı</string>
+    <string name="department_hint">Departman</string>
+    <string name="title_hint">Başlık</string>
+
+    <string name="phone_number_hint">Telefon numarası</string>
+    <string name="email_hint">E-posta</string>
+    <string name="significant_date_hint">Önemli tarih</string>
+    <string name="website_hint">İnternet sitesi</string>
+    <string name="notes_hint">Notlar</string>
+    <string name="label_hint">Etiket</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">Hakkında</string>
+    <string name="accept">Kabul etmek</string>
+    <string name="accounts">Hesaplar</string>
+    <string name="add_contact">Yeni kişi yarat</string>
+    <string name="add_email">E-posta ekle</string>
+    <string name="add_phone_number">Telefon numarası ekle</string>
+    <string name="add_picture">Resim Ekle</string>
+    <string name="addcall">Çağrı ekle</string>
+    <string name="all_contacts_0">Tüm kişiler 0</string>
+    <string name="always_use_this_sim">Her zaman bu sim\'i kullan</string>
+
+
+    <string name="block_contact">Kişiyi Engelle</string>
+    <!--    <string name="block_contact_desc">Artık bu kişiden herhangi bir arama veya mesaj almayacaksınız.</string>-->
+    <string name="block_contact_desc">Bu numarayı engellemek istediğinizden emin misiniz?</string>
+    <string name="toast_block_contact">Kişi başarıyla engellendi</string>
+
+    <string name="default_app_desc">Kişilerde bulunan tüm özellikleri kullanmak için, onu kişiler uygulamasını varsayılan telefon uygulamanız olarak yapmanız gerekir.</string>
+    <string name="block_contect_default_app">Kişiyi engellemek için varsayılan telefon uygulamanız olarak iletişim kurmanız gerekir</string>
+    <string name="block_error_message">Bu kişiyi engellemediniz. Lütfen bu kişiye ilk telefon numarasını ekleyin.</string>
+    <string name="block_not_supported">Numara engelleme özelliği bu cihazda desteklenmemektedir.</string>
+    <string name="calendar">Takvim</string>
+    <string name="call_ended">Arama sona erdi</string>
+    <string name="call_ending">çağrı sonlandırma</string>
+    <string name="call_on_hold">Arama bekletme</string>
+    <string name="call_swap">Hızlı arama</string>
+    <string name="can_call_you_later">Seni daha sonra arayabilir miyim?</string>
+    <string name="can_not_talk_right_now">Üzgünüm, şu anda konuşamam</string>
+    <string name="change_photo">Fotoğrafı değiştir</string>
+
+
+    <string name="conference_manage">Konferans çağrısı</string>
+    <string name="confirm_message_of_delete">Bu kişiyi silmek istediğinizden emin misiniz?</string>
+
+    <string name="contact_label">Etiket</string>
+    <string name="contact_name">Kişi adı</string>
+    <string name="contacts">Kişiler</string>
+    <string name="create_contact">Temas kurmak</string>
+    <string name="decline">Reddetmek</string>
+
+
+    <string name="add">Eklemek</string>
+    <string name="update">Güncelleme</string>
+    <string name="delete">Silmek</string>
+    <string name="share">Paylaşmak</string>
+    <string name="set_ringtone">Zil Sesini Ayarla</string>
+
+
+    <string name="delete_contact_message">Bu numarayı silmek istediğinizden emin misiniz?</string>
+
+    <string name="edit_contact">Kişiyi düzenle</string>
+    <string name="fields_empty">En az 1 alan gereklidir!</string>
+
+
+    <string name="more_fields">Daha fazla alan</string>
+    <string name="name_format">Ad biçimi</string>
+
+
+    <string name="duration">Süre</string>
+    <string name="email">E-posta</string>
+    <string name="email_validation">Lütfen önce e-posta ekleyin!</string>
+    <string name="event">Önemli tarih</string>
+
+
+    <string name="gmail_not_install">Gmail yüklü değil</string>
+    <string name="first_name_first">İlk önce adı</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">Tarih</string>
+    <string name="i_am_on_my_way">Yoldayım</string>
+
+
+    <string name="hold">Tutmak</string>
+    <string name="hold_call">Aramayı beklet</string>
+    <string name="dialing">Çeviriliyor…</string>
+    <string name="is_calling">Arıyor…</string>
+    <string name="keypad">Klavye</string>
+    <string name="merge">Birleştirmek</string>
+
+
+    <string name="lbl_find">Kişiyi Bul ve izne izin ver</string>
+
+
+    <string name="message_delete_history">Tüm geçmişi temizlemek istediğinizden emin misiniz?</string>
+    <string name="messages">Mesajlar</string>
+
+
+    <string name="no_app_found">Arama yapmak için uygulama bulunamadı</string>
+    <string name="no_app_found_hendle_this_event">Bu etkinliği gerçekleştirecek uygulama bulunamadı!</string>
+    <string name="no_block_contact">Blok teması yok</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">Favori kişi bulunamadı!</string>
+    <string name="no_recent_found">Yakın zamanda bulunamadı!</string>
+    <string name="no_contacts_found">Kişi bulunamadı!</string>
+
+    <string name="no_title">Başlık yok</string>
+    <string name="notes">Notlar</string>
+    <string name="number_blocked_msg">Numara başarıyla engellendi</string>
+    <string name="number_unblocked_msg">Numaranın engellemesi başarıyla kaldırıldı</string>
+    <string name="number_not">Numara bulunamadı</string>
+    <string name="number_of_calls_with">ile aramalar</string>
+    <string name="older">Daha eski</string>
+    <string name="ongoing_call">Giden arama</string>
+
+
+    <string name="permission_set_as_default">Bu uygulamanın varsayılan telefon uygulaması olarak ayarlanmasını ister misiniz? Bunları uygulama ayarlarında verebilirsiniz.</string>
+    <string name="phone">Telefon</string>
+    <string name="phone_validation">Lütfen önce telefon numarasını ekleyin!</string>
+
+    <string name="private_number">Özel Numaralar</string>
+
+    <string name="remind_me_about">Bana şunu hatırlat</string>
+    <string name="remove_photo">Fotoğrafı kaldır</string>
+    <string name="resume_call">Aramayı devam ettir</string>
+    <string name="save">Kaydetmek</string>
+    <string name="save_to">Şuraya kaydet</string>
+    <string name="search_contacts">Kişi ara</string>
+    <string name="search_menu_title">Aramak</string>
+    <string name="select">Seçme</string>
+    <string name="select_sim">SIM\'i seçin</string>
+    <string name="selected_account">Seçtiğiniz hesap</string>
+    <string name="selected_contact">0 seçildi</string>
+    <string name="selected_photo">Fotoğraf seç</string>
+    <string name="send_a_message">Bir mesaj göndermek</string>
+    <string name="send_mail">Posta göndermek</string>
+
+    <string name="settings">Ayarlar</string>
+
+    <string name="share_via">Şununla paylaş:</string>
+    <string name="share_your_expirence">Deneyiminizi paylaşın</string>
+
+    <string name="sim_not_available">Sim Ağı mevcut değil.....!</string>
+    <string name="sortby">Göre sırala</string>
+    <string name="speaker">Hoparlör</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">Bugün</string>
+    <string name="string_yesterday">Dün</string>
+
+    <string name="surname">Soyadı</string>
+    <string name="surname_first">Önce soyadı</string>
+    <string name="take_new_photo">Yeni fotoğraf çek</string>
+    <string name="text">Metin</string>
+    <string name="this_month">bu ay</string>
+    <string name="title">Başlık</string>
+    <string name="title_anniversary">Yıl dönümü</string>
+    <string name="title_birthday">Doğum günü</string>
+    <string name="title_cancel">İptal etmek</string>
+    <string name="title_go_to_setting">AYARLARA GİT</string>
+    <string name="title_help_to_identify">Başkalarının bu numarayı tanımlamasına yardımcı olun</string>
+    <string name="title_home">Ev</string>
+    <string name="title_home_fax">Ev faksı</string>
+    <string name="title_lang">Dil</string>
+    <string name="title_main">Ana</string>
+    <string name="title_mobile">Mobil</string>
+    <string name="title_mute">Sesini kapatmak</string>
+    <string name="title_no_lable">Etiket yok</string>
+    <string name="title_other">Diğer</string>
+    <string name="title_pager">Çağrı cihazı</string>
+    <string name="title_private_number">Özel numara</string>
+    <string name="title_save">Kaydetmek</string>
+    <string name="title_sim_not_register">Kayıtlı olmayan ağ</string>
+    <string name="title_summary">Özet</string>
+    <string name="title_today">Bugün</string>
+    <string name="title_work">İş</string>
+    <string name="title_work_fax">İş faksı</string>
+    <string name="turn_microphone_off">Mikrofonu kapat</string>
+    <string name="turn_microphone_on">Mikrofonu aç</string>
+    <string name="turn_speaker_off">Hoparlörü kapat</string>
+    <string name="turn_speaker_on">Hoparlörü aç</string>
+    <string name="unknown">Bilinmeyen</string>
+    <string name="unknown_caller">Bilinmeyen arama</string>
+    <string name="unknown_error_occurred">Bilinmeyen hata oluştu</string>
+
+    <string name="web">ağ</string>
+    <string name="website">İnternet sitesi</string>
+    <string name="write_personal_message">Kişisel mesaj yaz</string>
+
+    <string name="yes">Evet</string>
+    <string name="no">HAYIR</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="ok">Tamam</string>
+
+    <string name="no_ringtone_found">Zil sesi bulunamadı!</string>
+    <string name="ringtone_set_successfully">Zil sesi başarıyla ayarlandı</string>
+
+    <string name="toast_please_enter_firstname">Lütfen adınızı girin</string>
+    <string name="toast_please_enter_surname">Lütfen soyadınızı girin</string>
+    <string name="toast_please_enter_valid_phone_no">Lütfen geçerli bir telefon numarası girin</string>
+    <string name="toast_please_enter_valid_email">Lütfen geçerli bir e-posta girin</string>
+
+    <string name="can_t_talk_right_now">Şu anda konuşamam…</string>
+    <string name="i_ll_call_you_later">Seni sonra arayacağım.</string>
+    <string name="i_m_on_the_way">Yoldayım.</string>
+    <string name="can_t_talk_now_call_me_later">Şu anda konuşamam. Daha sonra beni ara.</string>
+    <string name="toast_number_already_blocked">Numara zaten engellendi</string>
+    <string name="no_app_found_to_handle_this_action">Bu işlemi gerçekleştirecek uygulama bulunamadı</string>
+    <string name="choose_sim_for_make_call">Arama yapmak için SIM\'i seçin</string>
+    <string name="contacts_with_phone_numbers">telefon numaraları olan kişiler</string>
+    <string name="welcome_to_contacts">Kişiler\'e hoş geldiniz</string>
+
+    <string name="premium_purchase_successful">Satın alma başarılı</string>
+
+</resources> 
+

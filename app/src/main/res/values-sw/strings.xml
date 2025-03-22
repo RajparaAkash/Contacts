@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anwani</string>
+
+    <string name="incoming_call">Simu inayoingia</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">Simu ya Sauti</string>
+    <string name="connected_apps">Programu zilizounganishwa</string>
+    <string name="answer">Jibu</string>
+    <string name="more">Zaidi</string>
+    <string name="today">Leo</string>
+    <string name="yesterday">Jana</string>
+
+    <string name="whoops">Lo!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">Muunganisho wa intaneti polepole au hakuna. Tafadhali angalia muunganisho wako wa intaneti.</string>
+    <string name="retry">Jaribu tena</string>
+    <string name="go_to_settings">Nenda kwa Mipangilio</string>
+    <string name="dismiss">Ondoa</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">Samahani, Huduma haipatikani kwa sababu ya matengenezo, Tafadhali jaribu baada ya muda au jaribu tena. Asante !</string>
+    <string name="app_under_maintenance">Programu Chini ya Matengenezo</string>
+    <string name="showing_ad_please_wait">Inaonyesha Tangazo, Tafadhali Subiri…</string>
+    <string name="showing_ad_please_wait_desc">Onyo hili ni kwako usibofye kwa bahati mbaya\tangazo</string>
+    <string name="ad">AD</string>
+    <string name="continue_to_app">Endelea kwenye programu</string>
+    <string name="accept_and_continue"><![CDATA[Kubali na Endelea]]></string>
+    <string name="privacy_policy">Sera ya Faragha</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">Je, una uhakika !!!\nUnataka kuondoka kwenye programu?</string>
+    <string name="press_here_to_exit">Bonyeza Hapa Ili Kuondoka</string>
+    <string name="an_update_has_just_been_downloaded">Sasisho limepakuliwa hivi punde.</string>
+
+    <string name="you_leaving">Unaondoka…</string>
+    <string name="loading_ad">Inapakia tangazo, tafadhali subiri…</string>
+
+
+    <string name="toast_message_sent">Ujumbe umetumwa</string>
+    <string name="toast_number_not_delete">Nambari haijafutwa! kuna kitu kilienda vibaya</string>
+    <string name="toast_no_email_clients">Hakuna viteja vya barua pepe vilivyosakinishwa.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[Kipiga Simu na Anwani]]></string>
+    <string name="privacy_get_started">Anza</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">Karibu kwa\nAnwani</string>
+    <string name="allow_permission_desription">Ruhusu Ruhusa ya kupiga simu na Anwani zilizorekebishwa</string>
+    <string name="allow_contact">Wasiliana</string>
+    <string name="title_contact_description">Ruhusu programu hii kusoma na kuandika anwani katika skrini ya anayepiga.</string>
+    <string name="title_phone">Hali ya Simu</string>
+    <string name="title_phone_description">Tusaidie kutambua hali ya simu zinazoingia na kutoka.</string>
+    <string name="title_call_log">Wito kumbukumbu</string>
+    <string name="title_call_log_description">Huruhusu programu kusoma na kuandika data ya rajisi ya simu ya mtumiaji.</string>
+    <string name="title_overlay_permissiom">Ruhusa ya Uwekeleaji</string>
+    <string name="title_overlay_description">Ili kutumia kipengele cha bila malipo baada ya kupiga simu, ni lazima tuombe ruhusa ya kuwekelea.</string>
+    <string name="allow_permission">Ruhusu Ruhusa</string>
+
+    <string name="dialog_perm_title">Inahitaji Ruhusa</string>
+    <string name="dialog_perm_desc">Programu hii inahitaji ruhusa ili kutumia kipengele hiki. Unaweza kuziruhusu katika mipangilio ya programu.</string>
+    <string name="dialog_perm_go_to_setting">GOTO MIPANGILIO</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">Weka kama chaguomsingi</string>
+    <string name="set_as_default_description"><![CDATA[Wasiliana nao kama programu yako chaguomsingi ya Anayepiga na Taka kwa kubofya kitufe kilicho hapa chini]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">Kipendwa</string>
+    <string name="home_recent">Hivi karibuni</string>
+    <string name="home_contacts">Anwani</string>
+    <string name="home_search_here">Tafuta hapa</string>
+    <string name="home_other">Nyingine</string>
+    <string name="home_block_contacts">Zuia Anwani</string>
+    <string name="home_settings">Mipangilio</string>
+    <string name="home_rate">Kiwango</string>
+    <string name="home_share">Shiriki</string>
+    <string name="home_feedback">Maoni</string>
+    <string name="home_privacy_policy">Sera ya faragha</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">Mkuu</string>
+    <string name="make_default"><![CDATA[Weka Anwani kuwa Kitambulisho chaguomsingi cha Anayepiga simu na programu ya Barua Taka]]></string>
+    <string name="show_caller_dialog">Onyesha Kitambulisho cha Anayepiga Baada ya Simu</string>
+    <string name="show_quick_decline_messages">Kataa ujumbe kwa haraka</string>
+    <string name="show_dial_pad_sound">Piga Sauti ya Padi</string>
+    <string name="show_led_flash">Kiwango cha Led</string>
+    <string name="setting_dark_theme">Mandhari ya Giza</string>
+    <string name="toast_flash_not_supported">Kifaa chako hakitumii mweko wa kuongozwa</string>
+
+    <string name="setting_edit_contact">Hariri Anwani</string>
+    <string name="default_account">Akaunti chaguo-msingi ya anwani mpya</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">Simu inayotoka</string>
+    <string name="declined_call">Simu Iliyokataliwa</string>
+    <string name="block_call">Simu Iliyozuiwa</string>
+    <string name="missed_Call">Simu iliyokosa</string>
+    <string name="incoming">Simu Inayoingia</string>
+    <string name="block">Zuia</string>
+    <string name="unblock">Ondoa kizuizi</string>
+
+    <string name="recent_call">Wito</string>
+    <string name="video_call">Simu ya Video</string>
+    <string name="recent_info">Habari</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">Ongeza kwa Anwani</string>
+
+    <!--  Contact info  -->
+    <string name="call">Wito</string>
+    <string name="message">Ujumbe</string>
+    <string name="video">Video</string>
+    <string name="info_contact_info">Maelezo ya Mawasiliano</string>
+    <string name="info_contact_history">Historia ya Mawasiliano</string>
+    <string name="info_see_all">Ona yote</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">Zuia nambari</string>
+    <string name="block_call_from_unknown">Zuia simu kutoka kwa nambari zisizojulikana</string>
+    <string name="block_add_phone_hint">Ongeza nambari ya simu</string>
+    <string name="block_enter_valid_number">Tafadhali weka nambari halali</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">Historia ya Simu</string>
+    <string name="history_no_data">Hakuna data iliyopatikana</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">Sawazisha Anwani</string>
+    <string name="popup_clear_history">Futa Historia</string>
+    <string name="popup_speed_dial_numbers">Nambari za Kupiga Kasi</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">Majibu ya Haraka</string>
+    <string name="quick_response_add">Ongeza</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">Chuja Simu</string>
+    <string name="filter_all_calls">Simu Zote</string>
+    <string name="filter_missed_calls">Simu Ulizokosa</string>
+    <string name="filter_incoming_calls">Simu Zinazoingia</string>
+    <string name="filter_outgoing_calls">Simu Zinazotoka</string>
+    <string name="filter_reset">Weka upya</string>
+    <string name="filter_apply">Omba</string>
+    <string name="filter_sim_all">Sim zote</string>
+    <string name="filter_sim_one">Sim 1</string>
+    <string name="filter_sim_two">Sim 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">Ongeza jibu la haraka</string>
+    <string name="dialog_quick_response_edit">Badilisha jibu la haraka</string>
+    <string name="dialog_quick_response_hint">Ujumbe</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">Piga kwa kasi</string>
+    <string name="speed_dial_desc">Mpe mwasiliani kwa nambari ya kupiga haraka.</string>
+    <string name="speed_dial_not_assign">Sio Kukabidhi</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">Dhibiti Simu</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">Kiambishi awali cha jina</string>
+    <string name="first_name_hint">Jina la kwanza</string>
+    <string name="middle_name_hint">Jina la kati</string>
+    <string name="surname_hint">Jina la ukoo</string>
+    <string name="name_suffix_hint">Kiambishi tamati cha jina</string>
+
+    <string name="company_name_hint">Jina la kampuni</string>
+    <string name="department_hint">Idara</string>
+    <string name="title_hint">Kichwa</string>
+
+    <string name="phone_number_hint">Nambari ya simu</string>
+    <string name="email_hint">Barua pepe</string>
+    <string name="significant_date_hint">Tarehe muhimu</string>
+    <string name="website_hint">Tovuti</string>
+    <string name="notes_hint">Vidokezo</string>
+    <string name="label_hint">Lebo</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">Kuhusu</string>
+    <string name="accept">Kubali</string>
+    <string name="accounts">Akaunti</string>
+    <string name="add_contact">Unda anwani mpya</string>
+    <string name="add_email">Ongeza barua pepe</string>
+    <string name="add_phone_number">Ongeza nambari ya simu</string>
+    <string name="add_picture">Ongeza picha</string>
+    <string name="addcall">Ongeza simu</string>
+    <string name="all_contacts_0">Anwani zote 0</string>
+    <string name="always_use_this_sim">Tumia sim hii kila wakati</string>
+
+
+    <string name="block_contact">Zuia Anwani</string>
+    <!--    <string name="block_contact_desc">Hutapokea tena simu au ujumbe wowote kutoka kwa mtu huyu.</string>-->
+    <string name="block_contact_desc">Je, una uhakika unataka kuzuia nambari hii.</string>
+    <string name="toast_block_contact">Anwani imezuiwa</string>
+
+    <string name="default_app_desc">Ili kutumia vipengele vyote vinavyopatikana katika anwani, unahitaji kuifanya programu ya anwani kuwa programu yako chaguomsingi ya simu.</string>
+    <string name="block_contect_default_app">Ili kuzuia mwasiliani unahitaji kuwasiliana kama programu yako chaguomsingi ya simu</string>
+    <string name="block_error_message">Hujamzuia mtu huyu. Tafadhali ongeza nambari ya simu ya kwanza katika anwani hii.</string>
+    <string name="block_not_supported">Kipengele cha nambari ya kuzuia hakitumiki katika kifaa hiki.</string>
+    <string name="calendar">Kalenda</string>
+    <string name="call_ended">Simu imekatika</string>
+    <string name="call_ending">kumalizika kwa simu</string>
+    <string name="call_on_hold">Piga simu</string>
+    <string name="call_swap">Telezesha kidole kwenye simu</string>
+    <string name="can_call_you_later">Je, ninaweza kukupigia simu baadaye?</string>
+    <string name="can_not_talk_right_now">Samahani, siwezi kuzungumza sasa hivi</string>
+    <string name="change_photo">BADILISHA picha</string>
+
+
+    <string name="conference_manage">Simu ya mkutano</string>
+    <string name="confirm_message_of_delete">Je, una uhakika unataka kufuta mwasiliani huyu.</string>
+
+    <string name="contact_label">Lebo</string>
+    <string name="contact_name">Jina la mawasiliano</string>
+    <string name="contacts">Anwani</string>
+    <string name="create_contact">Unda anwani</string>
+    <string name="decline">Kataa</string>
+
+
+    <string name="add">Ongeza</string>
+    <string name="update">Sasisha</string>
+    <string name="delete">Futa</string>
+    <string name="share">Shiriki</string>
+    <string name="set_ringtone">Weka Sauti ya Simu</string>
+
+
+    <string name="delete_contact_message">Je, ungependa kufuta nambari hii?</string>
+
+    <string name="edit_contact">Badilisha anwani</string>
+    <string name="fields_empty">Angalau uga 1 unahitajika!</string>
+
+
+    <string name="more_fields">Sehemu zaidi</string>
+    <string name="name_format">Umbizo la jina</string>
+
+
+    <string name="duration">Muda</string>
+    <string name="email">Barua pepe</string>
+    <string name="email_validation">Tafadhali ongeza barua pepe kwanza!</string>
+    <string name="event">Tarehe muhimu</string>
+
+
+    <string name="gmail_not_install">Gmail haijasakinishwa</string>
+    <string name="first_name_first">Jina la kwanza</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">Historia</string>
+    <string name="i_am_on_my_way">Niko njiani</string>
+
+
+    <string name="hold">Shikilia</string>
+    <string name="hold_call">Shikilia simu</string>
+    <string name="dialing">Inapiga…</string>
+    <string name="is_calling">Anapiga…</string>
+    <string name="keypad">Kibodi</string>
+    <string name="merge">Unganisha</string>
+
+
+    <string name="lbl_find">Tafuta Anwani na uruhusu ruhusa</string>
+
+
+    <string name="message_delete_history">Je, una uhakika unataka kufuta historia yote?</string>
+    <string name="messages">Ujumbe</string>
+
+
+    <string name="no_app_found">Hakuna programu iliyopatikana ya kupiga simu</string>
+    <string name="no_app_found_hendle_this_event">Hakuna programu iliyopatikana kushughulikia tukio hili!</string>
+    <string name="no_block_contact">Hakuna mwasiliani wa kuzuia</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">Hakuna anwani unayoipenda iliyopatikana!</string>
+    <string name="no_recent_found">Hakuna hivi karibuni kupatikana!</string>
+    <string name="no_contacts_found">Hakuna anwani iliyopatikana!</string>
+
+    <string name="no_title">Hakuna Kichwa</string>
+    <string name="notes">Vidokezo</string>
+    <string name="number_blocked_msg">Nambari imezuiwa Imefaulu</string>
+    <string name="number_unblocked_msg">Nambari imefunguliwa Imefaulu</string>
+    <string name="number_not">Nambari haijapatikana</string>
+    <string name="number_of_calls_with">wito na</string>
+    <string name="older">Mzee</string>
+    <string name="ongoing_call">simu inayotoka</string>
+
+
+    <string name="permission_set_as_default">Je, unapenda programu hii kuwekwa kama programu chaguomsingi ya simu? Unaweza kuziruhusu katika mipangilio ya programu.</string>
+    <string name="phone">Simu</string>
+    <string name="phone_validation">Tafadhali ongeza nambari ya simu kwanza!</string>
+
+    <string name="private_number">Nambari za Kibinafsi</string>
+
+    <string name="remind_me_about">Nikumbushe kuhusu</string>
+    <string name="remove_photo">Ondoa picha</string>
+    <string name="resume_call">Endelea kupiga simu</string>
+    <string name="save">Hifadhi</string>
+    <string name="save_to">Hifadhi kwa</string>
+    <string name="search_contacts">Tafuta anwani</string>
+    <string name="search_menu_title">Tafuta</string>
+    <string name="select">Chagua</string>
+    <string name="select_sim">Chagua sim</string>
+    <string name="selected_account">Akaunti uliyochagua</string>
+    <string name="selected_contact">0 imechaguliwa</string>
+    <string name="selected_photo">Chagua picha</string>
+    <string name="send_a_message">Tuma ujumbe</string>
+    <string name="send_mail">Tuma Barua</string>
+
+    <string name="settings">Mipangilio</string>
+
+    <string name="share_via">Shiriki kupitia</string>
+    <string name="share_your_expirence">Shiriki uzoefu wako</string>
+
+    <string name="sim_not_available">Sim Network haipatikani.....!</string>
+    <string name="sortby">Panga kwa</string>
+    <string name="speaker">Spika</string>
+    <string name="string_special_character">[^a-z0-9]</string>
+    <string name="string_today">Leo</string>
+    <string name="string_yesterday">Jana</string>
+
+    <string name="surname">Jina la ukoo</string>
+    <string name="surname_first">Jina la kwanza</string>
+    <string name="take_new_photo">Piga picha mpya</string>
+    <string name="text">Maandishi</string>
+    <string name="this_month">mwezi huu</string>
+    <string name="title">Kichwa</string>
+    <string name="title_anniversary">Maadhimisho ya miaka</string>
+    <string name="title_birthday">Siku ya kuzaliwa</string>
+    <string name="title_cancel">Ghairi</string>
+    <string name="title_go_to_setting">GOTO MIPANGILIO</string>
+    <string name="title_help_to_identify">Wasaidie wengine kutambua nambari hii</string>
+    <string name="title_home">Nyumbani</string>
+    <string name="title_home_fax">Faksi ya nyumbani</string>
+    <string name="title_lang">Lugha</string>
+    <string name="title_main">Kuu</string>
+    <string name="title_mobile">Rununu</string>
+    <string name="title_mute">Nyamazisha</string>
+    <string name="title_no_lable">Hakuna lebo</string>
+    <string name="title_other">Nyingine</string>
+    <string name="title_pager">Peja</string>
+    <string name="title_private_number">Nambari ya Kibinafsi</string>
+    <string name="title_save">Hifadhi</string>
+    <string name="title_sim_not_register">Mtandao ambao haujasajiliwa</string>
+    <string name="title_summary">Muhtasari</string>
+    <string name="title_today">Leo</string>
+    <string name="title_work">Kazi</string>
+    <string name="title_work_fax">Faksi ya kazi</string>
+    <string name="turn_microphone_off">Zima maikrofoni</string>
+    <string name="turn_microphone_on">Washa maikrofoni</string>
+    <string name="turn_speaker_off">Zima spika</string>
+    <string name="turn_speaker_on">Washa spika</string>
+    <string name="unknown">Haijulikani</string>
+    <string name="unknown_caller">Mpiga Simu Asiyejulikana</string>
+    <string name="unknown_error_occurred">Hitilafu isiyojulikana imetokea</string>
+
+    <string name="web">Mtandao</string>
+    <string name="website">Tovuti</string>
+    <string name="write_personal_message">Andika ujumbe wa kibinafsi</string>
+
+    <string name="yes">Ndiyo</string>
+    <string name="no">Hapana</string>
+    <string name="cancel">Ghairi</string>
+    <string name="ok">Sawa</string>
+
+    <string name="no_ringtone_found">Mlio wa simu haujapatikana!</string>
+    <string name="ringtone_set_successfully">Mlio wa simu umewekwa</string>
+
+    <string name="toast_please_enter_firstname">Tafadhali weka jina la kwanza</string>
+    <string name="toast_please_enter_surname">Tafadhali weka jina la ukoo</string>
+    <string name="toast_please_enter_valid_phone_no">Tafadhali weka nambari sahihi ya simu</string>
+    <string name="toast_please_enter_valid_email">Tafadhali weka barua pepe halali</string>
+
+    <string name="can_t_talk_right_now">Huwezi kuongea sasa hivi…</string>
+    <string name="i_ll_call_you_later">Nitakupigia baadaye.</string>
+    <string name="i_m_on_the_way">niko njiani.</string>
+    <string name="can_t_talk_now_call_me_later">Huwezi kuzungumza sasa. Nipigie baadaye.</string>
+    <string name="toast_number_already_blocked">Nambari tayari imezuiwa</string>
+    <string name="no_app_found_to_handle_this_action">Hakuna programu iliyopatikana kushughulikia kitendo hiki</string>
+    <string name="choose_sim_for_make_call">Chagua SIM ili kupiga simu</string>
+    <string name="contacts_with_phone_numbers">mawasiliano na nambari za simu</string>
+    <string name="welcome_to_contacts">Karibu kwa Anwani</string>
+
+    <string name="premium_purchase_successful">Ununuzi umefaulu</string>
+
+</resources> 
+

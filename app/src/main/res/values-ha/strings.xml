@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lambobin sadarwa</string>
+
+    <string name="incoming_call">Kira mai shigowa</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">Kiran murya</string>
+    <string name="connected_apps"> Abubuwan da aka haɗa</string>
+    <string name="answer">Amsa</string>
+    <string name="more">Ƙari</string>
+    <string name="today">Yau </string>
+    <string name="yesterday">Jiya </string>
+
+    <string name="whoops">Kash!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">A hankali ko babu haɗin intanet. Da fatan za a duba haɗin intanet ɗin ku.</string>
+    <string name="retry">Sake gwadawa</string>
+    <string name="go_to_settings">Jeka Saituna</string>
+    <string name="dismiss">Korar</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">Yi haƙuri, Babu sabis saboda kulawa, Da fatan za a gwada bayan ɗan lokaci ko sake gwadawa. Na gode !</string>
+    <string name="app_under_maintenance">App Karkashin Kulawa</string>
+    <string name="showing_ad_please_wait">Ana Nuna Ad, Da fatan za a jira…</string>
+    <string name="showing_ad_please_wait_desc">Wannan gargaɗin shine don kada ku danna kan\nallar bazata</string>
+    <string name="ad">AD</string>
+    <string name="continue_to_app">Ci gaba zuwa app</string>
+    <string name="accept_and_continue"><![CDATA[ Karɓa & Ci gaba ]]></string>
+    <string name="privacy_policy">takardar kebantawa</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">Shin kun tabbata !!!\n Kuna son fita app?</string>
+    <string name="press_here_to_exit">Danna Nan Don Fita</string>
+    <string name="an_update_has_just_been_downloaded">An sauke sabuntawa yanzu.</string>
+
+    <string name="you_leaving">Kuna barin…</string>
+    <string name="loading_ad">Ana loda talla, da fatan za a jira…</string>
+
+
+    <string name="toast_message_sent">An aika sako</string>
+    <string name="toast_number_not_delete">Ba a goge lamba ba! wani abu ya faru</string>
+    <string name="toast_no_email_clients">Babu abokan cinikin imel da aka shigar.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[Dialer Waya & Lambobi]]></string>
+    <string name="privacy_get_started">Fara</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">Barka da zuwa\nLambobin sadarwa</string>
+    <string name="allow_permission_desription">Bada Izinin yin kira da gyara lambobi</string>
+    <string name="allow_contact">Tuntuɓar</string>
+    <string name="title_contact_description">Bada wannan app don karantawa da rubuta lambar sadarwa a allon mai kira.</string>
+    <string name="title_phone">Matsayin Waya</string>
+    <string name="title_phone_description">Taimaka mana don gano halin kira mai shigowa da mai fita.</string>
+    <string name="title_call_log">Kira rajistan ayyukan</string>
+    <string name="title_call_log_description">Yana ba da damar aikace-aikace don karantawa da rubuta bayanan log ɗin kiran mai amfani.</string>
+    <string name="title_overlay_permissiom">Izinin mai rufi</string>
+    <string name="title_overlay_description">Don amfani da fasalin bayan kiran kyauta, dole ne mu nemi izini mai rufi.</string>
+    <string name="allow_permission">Bada izini</string>
+
+    <string name="dialog_perm_title">Bukatar Izini</string>
+    <string name="dialog_perm_desc">Wannan app ɗin yana buƙatar izini don amfani da wannan fasalin. Kuna iya ba su a cikin saitunan app.</string>
+    <string name="dialog_perm_go_to_setting">SAURAN SAUKI</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">Saita azaman tsoho</string>
+    <string name="set_as_default_description"><![CDATA[Ka yi tuntuɓar a matsayin tsoho mai kiran Id & Spam app ta danna maɓallin ƙasa]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">Fi so</string>
+    <string name="home_recent">Kwanan nan</string>
+    <string name="home_contacts">Lambobin sadarwa</string>
+    <string name="home_search_here">Bincika anan</string>
+    <string name="home_other">Sauran</string>
+    <string name="home_block_contacts">Toshe Lambobin sadarwa</string>
+    <string name="home_settings">Saituna</string>
+    <string name="home_rate">Rate</string>
+    <string name="home_share">Raba</string>
+    <string name="home_feedback">Jawabin</string>
+    <string name="home_privacy_policy">Takardar kebantawa</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">Gabaɗaya</string>
+    <string name="make_default"><![CDATA[A saita lamba azaman tsoho CallerId & Spam app]]></string>
+    <string name="show_caller_dialog">Nuna ID na Mai Kira Bayan Kira</string>
+    <string name="show_quick_decline_messages">Saurin ƙi saƙon</string>
+    <string name="show_dial_pad_sound">Sautin bugun kira Pad</string>
+    <string name="show_led_flash">Led Flash</string>
+    <string name="setting_dark_theme">Jigon Duhu</string>
+    <string name="toast_flash_not_supported">Na\'urarka ba ta goyan bayan filasha LED</string>
+
+    <string name="setting_edit_contact">Gyara Tuntuɓi</string>
+    <string name="default_account">Tsoffin asusun don sababbin lambobi</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">Kira mai fita</string>
+    <string name="declined_call">ƙi Kira</string>
+    <string name="block_call">An Katange Kira</string>
+    <string name="missed_Call">Kiran da aka rasa</string>
+    <string name="incoming">Kira mai shigowa</string>
+    <string name="block">Toshe</string>
+    <string name="unblock">Cire katanga</string>
+
+    <string name="recent_call">Kira</string>
+    <string name="video_call">Kiran Bidiyo</string>
+    <string name="recent_info">Bayani</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">Ƙara zuwa Lambobin sadarwa</string>
+
+    <!--  Contact info  -->
+    <string name="call">Kira</string>
+    <string name="message">Sako</string>
+    <string name="video">Bidiyo</string>
+    <string name="info_contact_info">Bayanin Tuntuɓi</string>
+    <string name="info_contact_history">Tarihin Tuntuɓi</string>
+    <string name="info_see_all">Duba Duk</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">Toshe lambobi</string>
+    <string name="block_call_from_unknown">Toshe kira daga lambobin da ba a san su ba</string>
+    <string name="block_add_phone_hint">Ƙara lambar waya</string>
+    <string name="block_enter_valid_number">Da fatan za a shigar da ingantacciyar lamba</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">Tarihin Kira</string>
+    <string name="history_no_data">Ba a sami bayanai ba</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">Tuntuɓi Aiki tare</string>
+    <string name="popup_clear_history">Share Tarihi</string>
+    <string name="popup_speed_dial_numbers">Lambobin Kiran sauri</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">Amsa Mai Sauri</string>
+    <string name="quick_response_add">Ƙara</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">Tace Kira</string>
+    <string name="filter_all_calls">Duk Kira</string>
+    <string name="filter_missed_calls">Kiran da aka rasa</string>
+    <string name="filter_incoming_calls">Kira mai shigowa</string>
+    <string name="filter_outgoing_calls">Kira masu fita</string>
+    <string name="filter_reset">Sake saiti</string>
+    <string name="filter_apply">Aiwatar</string>
+    <string name="filter_sim_all">Duk Sim</string>
+    <string name="filter_sim_one">Sim 1</string>
+    <string name="filter_sim_two">Sim 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">Ƙara amsa mai sauri</string>
+    <string name="dialog_quick_response_edit">Shirya amsa mai sauri</string>
+    <string name="dialog_quick_response_hint">Sako</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">Kiran sauri</string>
+    <string name="speed_dial_desc">Sanya lamba zuwa lambar bugun kiran sauri.</string>
+    <string name="speed_dial_not_assign">Ba Sanya ba</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">Sarrafa Kira</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">Sunan prefix</string>
+    <string name="first_name_hint">Sunan rana</string>
+    <string name="middle_name_hint">Sunan tsakiya</string>
+    <string name="surname_hint">Sunan mahaifi</string>
+    <string name="name_suffix_hint">Karin suna</string>
+
+    <string name="company_name_hint">Sunan kamfani</string>
+    <string name="department_hint">Sashen</string>
+    <string name="title_hint">Take</string>
+
+    <string name="phone_number_hint">Lambar tarho</string>
+    <string name="email_hint">Imel</string>
+    <string name="significant_date_hint">Muhimman kwanan wata</string>
+    <string name="website_hint">Yanar Gizo</string>
+    <string name="notes_hint">Bayanan kula</string>
+    <string name="label_hint">Lakabi</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">Game da</string>
+    <string name="accept">Karba</string>
+    <string name="accounts">Lissafi</string>
+    <string name="add_contact">Ƙirƙiri sabuwar lamba</string>
+    <string name="add_email">Ƙara imel</string>
+    <string name="add_phone_number">Ƙara lambar waya</string>
+    <string name="add_picture">Ƙara hoto</string>
+    <string name="addcall">Ƙara kira</string>
+    <string name="all_contacts_0">Duk lambobin sadarwa 0</string>
+    <string name="always_use_this_sim">Yi amfani da wannan sim koyaushe</string>
+
+
+    <string name="block_contact">Toshe Tuntuɓi</string>
+    <!--    <string name="block_contact_desc">Ba za ku ƙara karɓar kowane kira ko saƙonni daga wannan lambar sadarwar ba.</string>-->
+    <string name="block_contact_desc">Shin kun tabbata kuna son toshe wannan lambar.</string>
+    <string name="toast_block_contact">An katange lamba cikin nasara</string>
+
+    <string name="default_app_desc">Don amfani da duk fasalulluka da ke cikin lambobi, kuna buƙatar sanya shi app ɗin lambobin sadarwa azaman tsohowar aikace-aikacen wayar ku.</string>
+    <string name="block_contect_default_app">Don toshe lamba kuna buƙatar yin lamba azaman tsohuwar aikace-aikacen wayar ku</string>
+    <string name="block_error_message">Baku toshe wannan lambar ba. Da fatan za a ƙara lambar waya ta farko a cikin wannan lamba.</string>
+    <string name="block_not_supported">Siffar lambar toshe ba ta da tallafi a cikin wannan na\'urar.</string>
+    <string name="calendar">Kalanda</string>
+    <string name="call_ended">Kira ya ƙare</string>
+    <string name="call_ending">kira yana ƙarewa</string>
+    <string name="call_on_hold">Kira a riƙe</string>
+    <string name="call_swap">Doke kira</string>
+    <string name="can_call_you_later">Zan iya kiran ku daga baya?</string>
+    <string name="can_not_talk_right_now">Yi haƙuri, ba zan iya magana yanzu ba</string>
+    <string name="change_photo">Canja hoto</string>
+
+
+    <string name="conference_manage">Kiran taro</string>
+    <string name="confirm_message_of_delete">Ka tabbata kana son share wannan lambar sadarwa.</string>
+
+    <string name="contact_label">Lakabi</string>
+    <string name="contact_name">Sunan tuntuɓar</string>
+    <string name="contacts">Lambobin sadarwa</string>
+    <string name="create_contact">Ƙirƙiri lamba</string>
+    <string name="decline">Karya</string>
+
+
+    <string name="add">Ƙara</string>
+    <string name="update">Sabuntawa</string>
+    <string name="delete">Share</string>
+    <string name="share">Raba</string>
+    <string name="set_ringtone">Saita Sautin ringi</string>
+
+
+    <string name="delete_contact_message">Tabbas kuna son share wannan lambar?</string>
+
+    <string name="edit_contact">Gyara lamba</string>
+    <string name="fields_empty">Akalla filin 1 ake buƙata!</string>
+
+
+    <string name="more_fields">Ƙarin filayen</string>
+    <string name="name_format">Tsarin suna</string>
+
+
+    <string name="duration">Tsawon lokaci</string>
+    <string name="email">Imel</string>
+    <string name="email_validation">Da fatan za a ƙara imel tukuna!</string>
+    <string name="event">Muhimman kwanan wata</string>
+
+
+    <string name="gmail_not_install">Ba a shigar da Gmel ba</string>
+    <string name="first_name_first">Sunan farko farko</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">Tarihi</string>
+    <string name="i_am_on_my_way">Ina kan hanya ta</string>
+
+
+    <string name="hold">Rike</string>
+    <string name="hold_call">Riƙe kira</string>
+    <string name="dialing">Bugawa…</string>
+    <string name="is_calling">Yana Kira…</string>
+    <string name="keypad">faifan maɓalli</string>
+    <string name="merge">Haɗa</string>
+
+
+    <string name="lbl_find">Nemo lamba kuma ba da izini</string>
+
+
+    <string name="message_delete_history">Shin kun tabbata kuna son share duk tarihi?</string>
+    <string name="messages">Saƙonni</string>
+
+
+    <string name="no_app_found">Babu app da aka samo don yin kira</string>
+    <string name="no_app_found_hendle_this_event">Babu app da aka samo don gudanar da wannan taron!</string>
+    <string name="no_block_contact">Babu toshe lamba</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">Ba a sami lambar da aka fi so ba!</string>
+    <string name="no_recent_found">Ba a samo kwanan nan ba!</string>
+    <string name="no_contacts_found">Ba a sami lamba ba!</string>
+
+    <string name="no_title">Babu Take</string>
+    <string name="notes">Bayanan kula</string>
+    <string name="number_blocked_msg">An toshe lamba cikin nasara</string>
+    <string name="number_unblocked_msg">An cire katanga lamba cikin nasara</string>
+    <string name="number_not">Ba a sami lamba ba</string>
+    <string name="number_of_calls_with">kira tare da</string>
+    <string name="older">Tsoho</string>
+    <string name="ongoing_call">kira mai fita</string>
+
+
+    <string name="permission_set_as_default">Shin kuna son wannan app ɗin da za a saita shi azaman tsohuwar ƙa\'idar waya? Kuna iya ba su a cikin saitunan app.</string>
+    <string name="phone">Waya</string>
+    <string name="phone_validation">Da fatan za a ƙara lambar waya tukuna!</string>
+
+    <string name="private_number">Lambobin sirri</string>
+
+    <string name="remind_me_about">Tunatar da ni game da</string>
+    <string name="remove_photo">Cire hoto</string>
+    <string name="resume_call">Ci gaba da kira</string>
+    <string name="save">Ajiye</string>
+    <string name="save_to">Ajiye zuwa</string>
+    <string name="search_contacts">Bincika lamba</string>
+    <string name="search_menu_title">Bincika</string>
+    <string name="select">Zaɓi</string>
+    <string name="select_sim">Zaɓi sim</string>
+    <string name="selected_account">Asusun da aka zaɓa</string>
+    <string name="selected_contact">0 zaba</string>
+    <string name="selected_photo">Zaɓi hoto</string>
+    <string name="send_a_message">Aika sako</string>
+    <string name="send_mail">Aika Wasika</string>
+
+    <string name="settings">Saituna</string>
+
+    <string name="share_via">Raba ta hanyar</string>
+    <string name="share_your_expirence">Raba kwarewar ku</string>
+
+    <string name="sim_not_available">Sim Network babu.....!</string>
+    <string name="sortby">Kasa</string>
+    <string name="speaker">Mai magana</string>
+    <string name="string_special_character">[^a-z0-9]</string>
+    <string name="string_today">Yau</string>
+    <string name="string_yesterday">Jiya</string>
+
+    <string name="surname">Sunan mahaifi</string>
+    <string name="surname_first">Sunan mahaifi na farko</string>
+    <string name="take_new_photo">Ɗauki sabon hoto</string>
+    <string name="text">Rubutu</string>
+    <string name="this_month">wannan watan</string>
+    <string name="title">Take</string>
+    <string name="title_anniversary">Anniversary</string>
+    <string name="title_birthday">Ranar haihuwa</string>
+    <string name="title_cancel">Soke</string>
+    <string name="title_go_to_setting">SAURAN SAUKI</string>
+    <string name="title_help_to_identify">Taimaka wa wasu su gane wannan lambar</string>
+    <string name="title_home">Gida</string>
+    <string name="title_home_fax">Fax na gida</string>
+    <string name="title_lang">Harshe</string>
+    <string name="title_main">Babban</string>
+    <string name="title_mobile">Wayar hannu</string>
+    <string name="title_mute">Yi shiru</string>
+    <string name="title_no_lable">Babu lakabi</string>
+    <string name="title_other">Sauran</string>
+    <string name="title_pager">Pager</string>
+    <string name="title_private_number">Lambar Keɓaɓɓe</string>
+    <string name="title_save">Ajiye</string>
+    <string name="title_sim_not_register">Ba cibiyar sadarwa mai rijista ba</string>
+    <string name="title_summary">Takaitawa</string>
+    <string name="title_today">Yau</string>
+    <string name="title_work">Aiki</string>
+    <string name="title_work_fax">Fax aiki</string>
+    <string name="turn_microphone_off">Kashe makirufo</string>
+    <string name="turn_microphone_on">Kunna makirufo</string>
+    <string name="turn_speaker_off">Kashe lasifikar</string>
+    <string name="turn_speaker_on">Kunna lasifika</string>
+    <string name="unknown">Ba a sani ba</string>
+    <string name="unknown_caller">Mai kiran da ba a sani ba</string>
+    <string name="unknown_error_occurred">Kuskuren da ba a sani ba ya faru</string>
+
+    <string name="web">Yanar Gizo</string>
+    <string name="website">Yanar Gizo</string>
+    <string name="write_personal_message">Rubuta saƙon sirri</string>
+
+    <string name="yes">Ee</string>
+    <string name="no">A\'a</string>
+    <string name="cancel">Soke</string>
+    <string name="ok">Ko</string>
+
+    <string name="no_ringtone_found">Ba a sami sautin ringi ba!</string>
+    <string name="ringtone_set_successfully">An saita sautin ringi cikin nasara</string>
+
+    <string name="toast_please_enter_firstname">Da fatan za a shigar da sunan farko</string>
+    <string name="toast_please_enter_surname">Da fatan za a shigar da sunan mahaifi</string>
+    <string name="toast_please_enter_valid_phone_no">Da fatan za a shigar da ingantaccen lambar waya</string>
+    <string name="toast_please_enter_valid_email">Da fatan za a shigar da ingantaccen imel</string>
+
+    <string name="can_t_talk_right_now">Ba za a iya magana yanzu…</string>
+    <string name="i_ll_call_you_later">Zan kira ku daga baya.</string>
+    <string name="i_m_on_the_way">Ina kan hanya</string>
+    <string name="can_t_talk_now_call_me_later">Ba za a iya magana yanzu. Kira ni anjima.</string>
+    <string name="toast_number_already_blocked">An riga an katange lamba</string>
+    <string name="no_app_found_to_handle_this_action">Babu app da aka samo don sarrafa wannan aikin</string>
+    <string name="choose_sim_for_make_call">Zaɓi SIM don yin kira</string>
+    <string name="contacts_with_phone_numbers">lambobin sadarwa tare da lambobin waya</string>
+    <string name="welcome_to_contacts">Barka da zuwa Lambobi</string>
+
+    <string name="premium_purchase_successful">Sayi yayi nasara</string>
+
+</resources> 
+

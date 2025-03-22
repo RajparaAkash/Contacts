@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جهات الاتصال</string>
+
+    <string name="incoming_call">مكالمة واردة</string>
+    <string name="whatsapp">واتساب</string>
+    <string name="voice_call">مكالمة صوتية</string>
+    <string name="connected_apps">تطبيقات متصلة</string>
+    <string name="answer">إجابة</string>
+    <string name="more">المزيد</string>
+    <string name="today">اليوم</string>
+    <string name="yesterday">أمس</string>
+
+    <string name="whoops">عفوًا!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">اتصال إنترنت بطيء أو معدوم. الرجاء التحقق من اتصال الانترنت الخاص بك.</string>
+    <string name="retry">أعد المحاولة</string>
+    <string name="go_to_settings">اذهب للاعدادات</string>
+    <string name="dismiss">رفض</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">عذرًا، الخدمة غير متوفرة بسبب الصيانة، يرجى المحاولة بعد مرور بعض الوقت أو إعادة المحاولة. شكرًا لك !</string>
+    <string name="app_under_maintenance">التطبيق تحت الصيانة</string>
+    <string name="showing_ad_please_wait">جارٍ عرض الإعلان، برجاء الانتظار...</string>
+    <string name="showing_ad_please_wait_desc">هذا التحذير مخصص لكي لا تنقر على\nالإعلان عن طريق الخطأ</string>
+    <string name="ad">إعلان</string>
+    <string name="continue_to_app">الاستمرار في التطبيق</string>
+    <string name="accept_and_continue"><![CDATA[قبول ومتابعة]]></string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">هل أنت متأكد !!!\nهل تريد الخروج من التطبيق؟</string>
+    <string name="press_here_to_exit">اضغط هنا للخروج</string>
+    <string name="an_update_has_just_been_downloaded">لقد تم تنزيل التحديث للتو.</string>
+
+    <string name="you_leaving">أنت راحل…</string>
+    <string name="loading_ad">جارٍ تحميل الإعلان، برجاء الانتظار…</string>
+
+
+    <string name="toast_message_sent">تم الارسال</string>
+    <string name="toast_number_not_delete">الرقم لا يحذف! هناك خطأ ما</string>
+    <string name="toast_no_email_clients">لا يوجد عملاء بريد إلكتروني مثبتون.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[طالب الهاتف وجهات الاتصال]]></string>
+    <string name="privacy_get_started">البدء</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">مرحباً بك في\nجهات الاتصال</string>
+    <string name="allow_permission_desription">السماح بالإذن لإجراء المكالمات وجهات الاتصال المعدلة</string>
+    <string name="allow_contact">اتصال</string>
+    <string name="title_contact_description">السماح لهذا التطبيق بقراءة وكتابة جهة الاتصال في شاشة المتصل.</string>
+    <string name="title_phone">حالة الهاتف</string>
+    <string name="title_phone_description">ساعدنا في التعرف على حالة المكالمات الواردة والصادرة.</string>
+    <string name="title_call_log">سجلات المكالمات</string>
+    <string name="title_call_log_description">للسماح للتطبيق بقراءة وكتابة بيانات سجل مكالمات المستخدم.</string>
+    <string name="title_overlay_permissiom">إذن التراكب</string>
+    <string name="title_overlay_description">لاستخدام ميزة ما بعد المكالمة المجانية، يجب علينا طلب إذن التراكب.</string>
+    <string name="allow_permission">السماح بالإذن</string>
+
+    <string name="dialog_perm_title">تحتاج إلى أذونات</string>
+    <string name="dialog_perm_desc">يحتاج هذا التطبيق إلى إذن لاستخدام هذه الميزة. يمكنك منحهم في إعدادات التطبيق.</string>
+    <string name="dialog_perm_go_to_setting">اذهب للاعدادات</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">تعيين كافتراضي</string>
+    <string name="set_as_default_description"><![CDATA[قم بإجراء اتصال باعتباره التطبيق الافتراضي لمعرف المتصل والرسائل غير المرغوب فيها عن طريق النقر على الزر أدناه]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">مفضل</string>
+    <string name="home_recent">مؤخرًا</string>
+    <string name="home_contacts">جهات الاتصال</string>
+    <string name="home_search_here">ابحث هنا</string>
+    <string name="home_other">آخر</string>
+    <string name="home_block_contacts">حظر جهات الاتصال</string>
+    <string name="home_settings">إعدادات</string>
+    <string name="home_rate">معدل</string>
+    <string name="home_share">يشارك</string>
+    <string name="home_feedback">تعليق</string>
+    <string name="home_privacy_policy">سياسة الخصوصية</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">عام</string>
+    <string name="make_default"><![CDATA[تعيين جهة الاتصال كتطبيق افتراضي لمعرف المتصل والبريد العشوائي]]></string>
+    <string name="show_caller_dialog">إظهار معرف المتصل بعد المكالمة</string>
+    <string name="show_quick_decline_messages">رسائل الرفض السريع</string>
+    <string name="show_dial_pad_sound">اطلب لوحة الصوت</string>
+    <string name="show_led_flash">فلاش ليد</string>
+    <string name="setting_dark_theme">موضوع الظلام</string>
+    <string name="toast_flash_not_supported">جهازك لا يدعم فلاش LED</string>
+
+    <string name="setting_edit_contact">تحرير جهة الاتصال</string>
+    <string name="default_account">الحساب الافتراضي لجهات الاتصال الجديدة</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">مكالمة خارجية</string>
+    <string name="declined_call">تم رفض المكالمة</string>
+    <string name="block_call">مكالمة محظورة</string>
+    <string name="missed_Call">مكالمة فائتة</string>
+    <string name="incoming">مكالمة واردة</string>
+    <string name="block">حاجز</string>
+    <string name="unblock">رفع الحظر</string>
+
+    <string name="recent_call">يتصل</string>
+    <string name="video_call">مكالمة فيديو</string>
+    <string name="recent_info">معلومات</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">أضف إلى جهات الاتصال</string>
+
+    <!--  Contact info  -->
+    <string name="call">يتصل</string>
+    <string name="message">رسالة</string>
+    <string name="video">فيديو</string>
+    <string name="info_contact_info">معلومات الاتصال</string>
+    <string name="info_contact_history">تاريخ الاتصال</string>
+    <string name="info_see_all">اظهار الكل</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">أرقام الكتلة</string>
+    <string name="block_call_from_unknown">حظر المكالمات من أرقام غير معروفة</string>
+    <string name="block_add_phone_hint">أضف رقم الهاتف</string>
+    <string name="block_enter_valid_number">الرجاء إدخال رقم صحيح</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">سجل المكالمات</string>
+    <string name="history_no_data">لاتوجد بيانات</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">مزامنة جهة الاتصال</string>
+    <string name="popup_clear_history">تاريخ واضح</string>
+    <string name="popup_speed_dial_numbers">أرقام الاتصال السريع</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">رد سريع</string>
+    <string name="quick_response_add">يضيف</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">تصفية المكالمة</string>
+    <string name="filter_all_calls">جميع المكالمات</string>
+    <string name="filter_missed_calls">مكالمات فائتة</string>
+    <string name="filter_incoming_calls">المكالمات الواردة</string>
+    <string name="filter_outgoing_calls">المكالمات الصادرة</string>
+    <string name="filter_reset">إعادة ضبط</string>
+    <string name="filter_apply">يتقدم</string>
+    <string name="filter_sim_all">كل سيم</string>
+    <string name="filter_sim_one">سيم 1</string>
+    <string name="filter_sim_two">سيم 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">إضافة استجابة سريعة</string>
+    <string name="dialog_quick_response_edit">تحرير الاستجابة السريعة</string>
+    <string name="dialog_quick_response_hint">رسالة</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">اتصال سريع</string>
+    <string name="speed_dial_desc">تعيين جهة اتصال لرقم الاتصال السريع.</string>
+    <string name="speed_dial_not_assign">لا تعيين</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">إدارة المكالمات</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">الأسم الأول</string>
+    <string name="first_name_hint">الاسم الأول</string>
+    <string name="middle_name_hint">الاسم الأوسط</string>
+    <string name="surname_hint">اسم العائلة</string>
+    <string name="name_suffix_hint">لاحقة الاسم</string>
+
+    <string name="company_name_hint">اسم الشركة</string>
+    <string name="department_hint">قسم</string>
+    <string name="title_hint">عنوان</string>
+
+    <string name="phone_number_hint">رقم التليفون</string>
+    <string name="email_hint">بريد إلكتروني</string>
+    <string name="significant_date_hint">تاريخ مهم</string>
+    <string name="website_hint">موقع إلكتروني</string>
+    <string name="notes_hint">ملحوظات</string>
+    <string name="label_hint">ملصق</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">عن</string>
+    <string name="accept">يقبل</string>
+    <string name="accounts">حسابات</string>
+    <string name="add_contact">إنشاء اتصال جديد</string>
+    <string name="add_email">أضف البريد الإلكتروني</string>
+    <string name="add_phone_number">أضف رقم الهاتف</string>
+    <string name="add_picture">إضافة الصورة</string>
+    <string name="addcall">أضف مكالمة</string>
+    <string name="all_contacts_0">جميع جهات الاتصال 0</string>
+    <string name="always_use_this_sim">استخدم دائمًا بطاقة sim هذه</string>
+
+
+    <string name="block_contact">حظر جهة الاتصال</string>
+    <!--    <string name="block_contact_desc">لن تتلقى بعد الآن أي مكالمات أو رسائل من جهة الاتصال هذه.</string>-->
+    <string name="block_contact_desc">هل أنت متأكد أنك تريد حظر هذا الرقم.</string>
+    <string name="toast_block_contact">تم حظر جهة الاتصال بنجاح</string>
+
+    <string name="default_app_desc">لاستخدام جميع الميزات المتوفرة في جهات الاتصال، يتعين عليك جعل تطبيق جهات الاتصال هو تطبيق الهاتف الافتراضي لديك.</string>
+    <string name="block_contect_default_app">لحظر جهة اتصال، يتعين عليك إجراء جهة اتصال كتطبيق الهاتف الافتراضي لديك</string>
+    <string name="block_error_message">لم تقم بحظر جهة الاتصال هذه. الرجاء إضافة رقم الهاتف الأول في جهة الاتصال هذه.</string>
+    <string name="block_not_supported">ميزة حظر الرقم غير مدعومة في هذا الجهاز.</string>
+    <string name="calendar">تقويم</string>
+    <string name="call_ended">المكالمة انتهت</string>
+    <string name="call_ending">إنهاء المكالمة</string>
+    <string name="call_on_hold">دعوة معلقة</string>
+    <string name="call_swap">انتقاد المكالمة</string>
+    <string name="can_call_you_later">هل يمكنني الاتصال بك لاحقا؟</string>
+    <string name="can_not_talk_right_now">آسف، لا أستطيع التحدث الآن</string>
+    <string name="change_photo">غير الصوره</string>
+
+
+    <string name="conference_manage">مكالمة مؤتمرية</string>
+    <string name="confirm_message_of_delete">هل أنت متأكد أنك تريد حذف جهة الاتصال هذه.</string>
+
+    <string name="contact_label">ملصق</string>
+    <string name="contact_name">اسم جهة الاتصال</string>
+    <string name="contacts">جهات الاتصال</string>
+    <string name="create_contact">إنشاء اتصال</string>
+    <string name="decline">انخفاض</string>
+
+
+    <string name="add">يضيف</string>
+    <string name="update">تحديث</string>
+    <string name="delete">يمسح</string>
+    <string name="share">يشارك</string>
+    <string name="set_ringtone">الرنة تعيين</string>
+
+
+    <string name="delete_contact_message">متأكد أنك تريد حذف هذا الرقم؟</string>
+
+    <string name="edit_contact">تحرير جهة الاتصال</string>
+    <string name="fields_empty">مطلوب حقل واحد على الأقل!</string>
+
+
+    <string name="more_fields">المزيد من المجالات</string>
+    <string name="name_format">تنسيق الاسم</string>
+
+
+    <string name="duration">مدة</string>
+    <string name="email">بريد إلكتروني</string>
+    <string name="email_validation">الرجاء إضافة البريد الإلكتروني أولا!</string>
+    <string name="event">تاريخ مهم</string>
+
+
+    <string name="gmail_not_install">لم يتم تثبيت Gmail</string>
+    <string name="first_name_first">الاسم الأول أولا</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">تاريخ</string>
+    <string name="i_am_on_my_way">انا في الطريق</string>
+
+
+    <string name="hold">يمسك</string>
+    <string name="hold_call">عقد المكالمة</string>
+    <string name="dialing">الطلب...</string>
+    <string name="is_calling">يتصل…</string>
+    <string name="keypad">لوحة المفاتيح</string>
+    <string name="merge">دمج</string>
+
+
+    <string name="lbl_find">ابحث عن جهة الاتصال واسمح بالإذن</string>
+
+
+    <string name="message_delete_history">هل أنت متأكد أنك تريد مسح السجل بأكمله؟</string>
+    <string name="messages">رسائل</string>
+
+
+    <string name="no_app_found">لم يتم العثور على تطبيق لإجراء مكالمة</string>
+    <string name="no_app_found_hendle_this_event">لم يتم العثور على تطبيق للتعامل مع هذا الحدث!</string>
+    <string name="no_block_contact">لا يوجد اتصال كتلة</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">لم يتم العثور على جهة اتصال مفضلة!</string>
+    <string name="no_recent_found">لم يتم العثور على الأخيرة!</string>
+    <string name="no_contacts_found">لم يتم العثور على جهة اتصال!</string>
+
+    <string name="no_title">بلا عنوان</string>
+    <string name="notes">ملحوظات</string>
+    <string name="number_blocked_msg">تم حظر الرقم بنجاح</string>
+    <string name="number_unblocked_msg">تم فك حظر الرقم بنجاح</string>
+    <string name="number_not">لم يتم العثور على الرقم</string>
+    <string name="number_of_calls_with">يدعو مع</string>
+    <string name="older">اكبر سنا</string>
+    <string name="ongoing_call">مكالمة خارجية</string>
+
+
+    <string name="permission_set_as_default">هل ترغب في تعيين هذا التطبيق كتطبيق الهاتف الافتراضي؟ يمكنك منحهم في إعدادات التطبيق.</string>
+    <string name="phone">هاتف</string>
+    <string name="phone_validation">الرجاء إضافة رقم الهاتف أولا!</string>
+
+    <string name="private_number">أرقام خاصة</string>
+
+    <string name="remind_me_about">ذكرني عنه</string>
+    <string name="remove_photo">إزالة الصورة</string>
+    <string name="resume_call">استئناف المكالمة</string>
+    <string name="save">يحفظ</string>
+    <string name="save_to">حفظ في</string>
+    <string name="search_contacts">بحث جهة الاتصال</string>
+    <string name="search_menu_title">يبحث</string>
+    <string name="select">يختار</string>
+    <string name="select_sim">حدد سيم</string>
+    <string name="selected_account">حسابك المحدد</string>
+    <string name="selected_contact">0 مختارة</string>
+    <string name="selected_photo">اختر الصور</string>
+    <string name="send_a_message">ارسل رسالة</string>
+    <string name="send_mail">ارسل بريد</string>
+
+    <string name="settings">إعدادات</string>
+
+    <string name="share_via">شارك عبر</string>
+    <string name="share_your_expirence">شارك خبرتك</string>
+
+    <string name="sim_not_available">شريحة الاتصال غير متوفرة .....!</string>
+    <string name="sortby">ترتيب حسب</string>
+    <string name="speaker">مكبر الصوت</string>
+    <string name="string_special_character">[^أ-z0-9]</string>
+    <string name="string_today">اليوم</string>
+    <string name="string_yesterday">أمس</string>
+
+    <string name="surname">اسم العائلة</string>
+    <string name="surname_first">اللقب أولا</string>
+    <string name="take_new_photo">التقاط صورة جديدة</string>
+    <string name="text">نص</string>
+    <string name="this_month">هذا الشهر</string>
+    <string name="title">عنوان</string>
+    <string name="title_anniversary">عيد</string>
+    <string name="title_birthday">عيد ميلاد</string>
+    <string name="title_cancel">يلغي</string>
+    <string name="title_go_to_setting">اذهب للاعدادات</string>
+    <string name="title_help_to_identify">ساعد الآخرين في التعرف على هذا الرقم</string>
+    <string name="title_home">بيت</string>
+    <string name="title_home_fax">فاكس المنزل</string>
+    <string name="title_lang">لغة</string>
+    <string name="title_main">رئيسي</string>
+    <string name="title_mobile">متحرك</string>
+    <string name="title_mute">صامت</string>
+    <string name="title_no_lable">لا التسمية</string>
+    <string name="title_other">آخر</string>
+    <string name="title_pager">بيجر</string>
+    <string name="title_private_number">الرقم الشخصي</string>
+    <string name="title_save">يحفظ</string>
+    <string name="title_sim_not_register">شبكة غير مسجلة</string>
+    <string name="title_summary">ملخص</string>
+    <string name="title_today">اليوم</string>
+    <string name="title_work">عمل</string>
+    <string name="title_work_fax">فاكس العمل</string>
+    <string name="turn_microphone_off">قم بإيقاف تشغيل الميكروفون</string>
+    <string name="turn_microphone_on">قم بتشغيل الميكروفون</string>
+    <string name="turn_speaker_off">قم بإيقاف تشغيل مكبر الصوت</string>
+    <string name="turn_speaker_on">قم بتشغيل مكبر الصوت</string>
+    <string name="unknown">مجهول</string>
+    <string name="unknown_caller">المتصل غير معروف</string>
+    <string name="unknown_error_occurred">حدث خطأ غير معروف</string>
+
+    <string name="web">ويب</string>
+    <string name="website">موقع إلكتروني</string>
+    <string name="write_personal_message">اكتب رسالة شخصية</string>
+
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="cancel">يلغي</string>
+    <string name="ok">نعم</string>
+
+    <string name="no_ringtone_found">لم يتم العثور على نغمة الرنين!</string>
+    <string name="ringtone_set_successfully">تم ضبط نغمة الرنين بنجاح</string>
+
+    <string name="toast_please_enter_firstname">الرجاء إدخال الاسم الأول</string>
+    <string name="toast_please_enter_surname">الرجاء إدخال اللقب</string>
+    <string name="toast_please_enter_valid_phone_no">الرجاء إدخال رقم هاتف صحيح</string>
+    <string name="toast_please_enter_valid_email">الرجاء إدخال بريد إلكتروني صحيح</string>
+
+    <string name="can_t_talk_right_now">لا أستطيع التحدث الآن…</string>
+    <string name="i_ll_call_you_later">سوف اتصل بك لاحقا.</string>
+    <string name="i_m_on_the_way">انا في الطريق.</string>
+    <string name="can_t_talk_now_call_me_later">لا أستطيع التحدث الآن. اتصل بي لاحقا.</string>
+    <string name="toast_number_already_blocked">الرقم محظور بالفعل</string>
+    <string name="no_app_found_to_handle_this_action">لم يتم العثور على تطبيق للتعامل مع هذا الإجراء</string>
+    <string name="choose_sim_for_make_call">اختر بطاقة SIM لإجراء مكالمة</string>
+    <string name="contacts_with_phone_numbers">جهات الاتصال مع أرقام الهواتف</string>
+    <string name="welcome_to_contacts">مرحبا بكم في جهات الاتصال</string>
+
+    <string name="premium_purchase_successful">تم الشراء بنجاح</string>
+
+</resources> 
+

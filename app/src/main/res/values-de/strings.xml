@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontakte</string>
+
+    <string name="incoming_call">Eingehender Anruf</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="voice_call">Sprachanruf</string>
+    <string name="connected_apps">Verbundene Apps</string>
+    <string name="answer">Antworten</string>
+    <string name="more">Mehr</string>
+    <string name="today">Heute</string>
+    <string name="yesterday">Gestern</string>
+
+    <string name="whoops">Hoppla!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">Langsame oder keine Internetverbindung. Bitte überprüfen Sie Ihre Internetverbindung.</string>
+    <string name="retry">Erneut versuchen</string>
+    <string name="go_to_settings">Zu Einstellungen gehen</string>
+    <string name="dismiss">Ablehnen</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">Leider ist der Dienst aufgrund von Wartungsarbeiten nicht verfügbar. Bitte versuchen Sie es später oder erneut. Danke!</string>
+    <string name="app_under_maintenance">App wird gewartet</string>
+    <string name="showing_ad_please_wait">Anzeige wird angezeigt, bitte warten…</string>
+    <string name="showing_ad_please_wait_desc">Diese Warnung dient dazu, dass Sie nicht versehentlich auf\nAnzeige klicken</string>
+    <string name="ad">ANZEIGE</string>
+    <string name="continue_to_app">Weiter zur App</string>
+    <string name="accept_and_continue"><![CDATA[Akzeptieren und fortfahren]]></string>
+    <string name="privacy_policy">Datenschutzrichtlinie</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">Sind Sie sicher!!!\nSie möchten die App beenden?</string>
+    <string name="press_here_to_exit">Zum Beenden hier drücken</string>
+    <string name="an_update_has_just_been_downloaded">Ein Update wurde gerade heruntergeladen.</string>
+
+    <string name="you_leaving">Sie verlassen die App…</string>
+    <string name="loading_ad">Anzeige wird geladen, bitte warten…</string>
+
+
+    <string name="toast_message_sent">Nachricht gesendet</string>
+    <string name="toast_number_not_delete">Nummer nicht gelöscht! Etwas ist schiefgelaufen</string>
+    <string name="toast_no_email_clients">Es sind keine E-Mail-Clients installiert.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[Telefonwähler und Kontakte]]></string>
+    <string name="privacy_get_started">Erste Schritte</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">Willkommen bei\nKontakten</string>
+    <string name="allow_permission_desription">Berechtigung zum Tätigen von Anrufen und Ändern von Kontakten erteilen</string>
+    <string name="allow_contact">Kontakt</string>
+    <string name="title_contact_description">Dieser App erlauben, Kontakte im Anruferbildschirm zu lesen und zu schreiben.</string>
+    <string name="title_phone">Telefonstatus</string>
+    <string name="title_phone_description">Helfen Sie uns, den Status eingehender und ausgehender Anrufe zu identifizieren.</string>
+    <string name="title_call_log">Anrufprotokolle</string>
+    <string name="title_call_log_description">Ermöglicht einer Anwendung, die Anrufprotokolldaten des Benutzers zu lesen und zu schreiben.</string>
+    <string name="title_overlay_permissiom">Overlay-Berechtigung</string>
+    <string name="title_overlay_description">Um die kostenlose After-Call-Funktion zu verwenden, müssen wir um die Overlay-Berechtigung bitten.</string>
+    <string name="allow_permission">Berechtigung zulassen</string>
+
+    <string name="dialog_perm_title">Berechtigungen erforderlich</string>
+    <string name="dialog_perm_desc">Diese App benötigt die Berechtigung, um diese Funktion zu verwenden. Sie können sie in den App-Einstellungen erteilen.</string>
+    <string name="dialog_perm_go_to_setting">ZU EINSTELLUNGEN</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">Als Standard festlegen</string>
+    <string name="set_as_default_description"><![CDATA[Kontakt als Ihre Standard-App für Anrufer-ID und Spam festlegen, indem Sie auf die Schaltfläche unten klicken]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">Favorit</string>
+    <string name="home_recent">Letzte</string>
+    <string name="home_contacts">Kontakte</string>
+    <string name="home_search_here">Hier suchen</string>
+    <string name="home_other">Andere</string>
+    <string name="home_block_contacts">Kontakte blockieren</string>
+    <string name="home_settings">Einstellungen</string>
+    <string name="home_rate">Bewerten</string>
+    <string name="home_share">Teilen</string>
+    <string name="home_feedback">Feedback</string>
+    <string name="home_privacy_policy">Datenschutzrichtlinie</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">Allgemein</string>
+    <string name="make_default"><![CDATA[Kontakt als Standard-App für Anrufer-ID und Spam festlegen]]></string>
+    <string name="show_caller_dialog">Anrufer-ID nach Anruf anzeigen</string>
+    <string name="show_quick_decline_messages">Schnelle Ablehnungsnachrichten</string>
+    <string name="show_dial_pad_sound">Wähltastenton</string>
+    <string name="show_led_flash">LED-Blitz</string>
+    <string name="setting_dark_theme">Dunkles Design</string>
+    <string name="toast_flash_not_supported">Ihr Gerät unterstützt kein LED-Blitz</string>
+
+    <string name="setting_edit_contact">Kontakt bearbeiten</string>
+    <string name="default_account">Standardkonto für neue Kontakte</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">Ausgehender Anruf</string>
+    <string name="declined_call">Abgelehnter Anruf</string>
+    <string name="block_call">Blockierter Anruf</string>
+    <string name="missed_Call">Verpasster Anruf</string>
+    <string name="incoming">Eingehender Anruf</string>
+    <string name="block">Blockieren</string>
+    <string name="unblock">Entsperren</string>
+
+    <string name="recent_call">Anruf</string>
+    <string name="video_call">Videoanruf</string>
+    <string name="recent_info">Info</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">Zu Kontakten hinzufügen</string>
+
+    <!--  Contact info  -->
+    <string name="call">Anruf</string>
+    <string name="message">Nachricht</string>
+    <string name="video">Video</string>
+    <string name="info_contact_info">Kontaktinfo</string>
+    <string name="info_contact_history">Kontaktverlauf</string>
+    <string name="info_see_all">Alle anzeigen</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">Nummern blockieren</string>
+    <string name="block_call_from_unknown">Anrufe von unbekannten Nummern blockieren</string>
+    <string name="block_add_phone_hint">Telefonnummer hinzufügen</string>
+    <string name="block_enter_valid_number">Bitte gültige Nummer eingeben</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">Anrufverlauf</string>
+    <string name="history_no_data">Keine Daten gefunden</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">Kontakt synchronisieren</string>
+    <string name="popup_clear_history">Verlauf löschen</string>
+    <string name="popup_speed_dial_numbers">Kurzwahlnummern</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">Schnelle Antwort</string>
+    <string name="quick_response_add">Hinzufügen</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">Anruf filtern</string>
+    <string name="filter_all_calls">Alle Anrufe</string>
+    <string name="filter_missed_calls">Verpasste Anrufe</string>
+    <string name="filter_incoming_calls">Eingehende Anrufe</string>
+    <string name="filter_outgoing_calls">Ausgehende Anrufe</string>
+    <string name="filter_reset">Zurücksetzen</string>
+    <string name="filter_apply">Anwenden</string>
+    <string name="filter_sim_all">Alle Sim</string>
+    <string name="filter_sim_one">Sim 1</string>
+    <string name="filter_sim_two">Sim 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">Schnellantwort hinzufügen</string>
+    <string name="dialog_quick_response_edit">Schnellantwort bearbeiten</string>
+    <string name="dialog_quick_response_hint">Nachricht</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">Kurzwahl</string>
+    <string name="speed_dial_desc">Kontakt einer Kurzwahlnummer zuweisen.</string>
+    <string name="speed_dial_not_assign">Nicht zuweisen</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">Anrufe verwalten</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">Namenspräfix</string>
+    <string name="first_name_hint">Vorname</string>
+    <string name="middle_name_hint">Zweiter Vorname</string>
+    <string name="surname_hint">Nachname</string>
+    <string name="name_suffix_hint">Namenssuffix</string>
+
+    <string name="company_name_hint">Firmenname</string>
+    <string name="department_hint">Abteilung</string>
+    <string name="title_hint">Titel</string>
+
+    <string name="phone_number_hint">Telefonnummer</string>
+    <string name="email_hint">E-Mail</string>
+    <string name="significant_date_hint">Wichtiges Datum</string>
+    <string name="website_hint">Website</string>
+    <string name="notes_hint">Notizen</string>
+    <string name="label_hint">Bezeichnung</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">Info</string>
+    <string name="accept">Akzeptieren</string>
+    <string name="accounts">Konten</string>
+    <string name="add_contact">Neuen Kontakt erstellen</string>
+    <string name="add_email">E-Mail hinzufügen</string>
+    <string name="add_phone_number">Telefonnummer hinzufügen</string>
+    <string name="add_picture">Bild hinzufügen</string>
+    <string name="addcall">Anruf hinzufügen</string>
+    <string name="all_contacts_0">Alle Kontakte 0</string>
+    <string name="always_use_this_sim">Immer diese SIM verwenden</string>
+
+
+    <string name="block_contact">Kontakt blockieren</string>
+    <!--    <string name="block_contact_desc">Sie erhalten keine Anrufe oder Nachrichten mehr von diesem Kontakt.</string>-->
+    <string name="block_contact_desc">Möchten Sie diese Nummer wirklich blockieren?</string>
+    <string name="toast_block_contact">Kontakt erfolgreich blockiert</string>
+
+    <string name="default_app_desc">Um alle in den Kontakten verfügbaren Funktionen nutzen zu können, müssen Sie die Kontakt-App als Ihre Standard-Telefon-App festlegen.</string>
+    <string name="block_contect_default_app">Um den Kontakt zu blockieren, müssen Sie den Kontakt als Ihre Standard-Telefon-App festlegen</string>
+    <string name="block_error_message">Sie haben diesen Kontakt nicht blockiert. Bitte fügen Sie die erste Telefonnummer in diesem Kontakt hinzu.</string>
+    <string name="block_not_supported">Die Funktion „Nummer blockieren“ wird von diesem Gerät nicht unterstützt.</string>
+    <string name="calendar">Kalender</string>
+    <string name="call_ended">Anruf beendet</string>
+    <string name="call_ending">Anruf beendet</string>
+    <string name="call_on_hold">Anruf in Warteschleife</string>
+    <string name="call_swap">Anruf wischen</string>
+    <string name="can_call_you_later">Kann ich dich später anrufen?</string>
+    <string name="can_not_talk_right_now">Entschuldigung, ich kann gerade nicht sprechen</string>
+    <string name="change_photo">Foto ändern</string>
+
+
+    <string name="conference_manage">Konferenzgespräch</string>
+    <string name="confirm_message_of_delete">Möchten Sie diesen Kontakt wirklich löschen?</string>
+
+    <string name="contact_label">Beschriftung</string>
+    <string name="contact_name">Kontaktname</string>
+    <string name="contacts">Kontakte</string>
+    <string name="create_contact">Kontakt erstellen</string>
+    <string name="decline">Ablehnen</string>
+
+
+    <string name="add">Hinzufügen</string>
+    <string name="update">Aktualisieren</string>
+    <string name="delete">Löschen</string>
+    <string name="share">Teilen</string>
+    <string name="set_ringtone">Klingelton festlegen</string>
+
+
+    <string name="delete_contact_message">Möchten Sie diese Nummer wirklich löschen?</string>
+
+    <string name="edit_contact">Kontakt bearbeiten</string>
+    <string name="fields_empty">Mindestens 1 Feld ist erforderlich!</string>
+
+
+    <string name="more_fields">Weitere Felder</string>
+    <string name="name_format">Namensformat</string>
+
+
+    <string name="duration">Dauer</string>
+    <string name="email">E-Mail</string>
+    <string name="email_validation">Bitte fügen Sie zuerst die E-Mail-Adresse hinzu!</string>
+    <string name="event">Wichtiges Datum</string>
+
+
+    <string name="gmail_not_install">Gmail nicht installiert</string>
+    <string name="first_name_first">Vorname zuerst</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">Verlauf</string>
+    <string name="i_am_on_my_way">Ich bin unterwegs</string>
+
+
+    <string name="hold">Halten</string>
+    <string name="hold_call">Anruf halten</string>
+    <string name="dialing">Wählen…</string>
+    <string name="is_calling">Ruft an…</string>
+    <string name="keypad">Tastatur</string>
+    <string name="merge">Zusammenführen</string>
+
+
+    <string name="lbl_find">Kontakt suchen und Berechtigung erteilen</string>
+
+
+    <string name="message_delete_history">Möchten Sie wirklich den gesamten Verlauf löschen?</string>
+    <string name="messages">Nachrichten</string>
+
+
+    <string name="no_app_found">Keine App zum Tätigen eines Anrufs gefunden</string>
+    <string name="no_app_found_hendle_this_event">Keine App zum Verarbeiten dieses Ereignisses gefunden!</string>
+    <string name="no_block_contact">Kein blockierter Kontakt</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">Kein bevorzugter Kontakt gefunden!</string>
+    <string name="no_recent_found">Kein kürzlich gefunden!</string>
+    <string name="no_contacts_found">Kein Kontakt gefunden!</string>
+
+    <string name="no_title">Kein Titel</string>
+    <string name="notes">Notizen</string>
+    <string name="number_blocked_msg">Nummer erfolgreich blockiert</string>
+    <string name="number_unblocked_msg">Nummer erfolgreich entsperrt</string>
+    <string name="number_not">Nummer nicht gefunden</string>
+    <string name="number_of_calls_with">Anrufe mit</string>
+    <string name="older">Älter</string>
+    <string name="ongoing_call">ausgehender Anruf</string>
+
+
+    <string name="permission_set_as_default">Möchten Sie, dass diese App als Standard-Telefon-App festgelegt wird? Sie können dies in den App-Einstellungen zulassen.</string>
+    <string name="phone">Telefon</string>
+    <string name="phone_validation">Bitte fügen Sie zuerst die Telefonnummer hinzu!</string>
+
+    <string name="private_number">Private Nummern</string>
+
+    <string name="remind_me_about">Erinnere mich an</string>
+    <string name="remove_photo">Foto entfernen</string>
+    <string name="resume_call">Anruf fortsetzen</string>
+    <string name="save">Speichern</string>
+    <string name="save_to">Speichern in</string>
+    <string name="search_contacts">Kontakt suchen</string>
+    <string name="search_menu_title">Suchen</string>
+    <string name="select">Auswählen</string>
+    <string name="select_sim">SIM auswählen</string>
+    <string name="selected_account">Ihr ausgewähltes Konto</string>
+    <string name="selected_contact">0 ausgewählt</string>
+    <string name="selected_photo">Foto auswählen</string>
+    <string name="send_a_message">Nachricht senden</string>
+    <string name="send_mail">Mail senden</string>
+
+    <string name="settings">Einstellungen</string>
+
+    <string name="share_via">Teilen über</string>
+    <string name="share_your_expirence">Teilen Sie Ihre Erfahrungen</string>
+
+    <string name="sim_not_available">SIM-Netzwerk nicht verfügbar.....!</string>
+    <string name="sortby">Sortieren nach</string>
+    <string name="speaker">Lautsprecher</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">Heute</string>
+    <string name="string_yesterday">Gestern</string>
+
+    <string name="surname">Nachname</string>
+    <string name="surname_first">Nachname zuerst</string>
+    <string name="take_new_photo">Neues Foto aufnehmen</string>
+    <string name="text">Text</string>
+    <string name="this_month">diesen Monat</string>
+    <string name="title">Titel</string>
+    <string name="title_anniversary">Jahrestag</string>
+    <string name="title_birthday">Geburtstag</string>
+    <string name="title_cancel">Abbrechen</string>
+    <string name="title_go_to_setting">ZU EINSTELLUNGEN</string>
+    <string name="title_help_to_identify">Helfen Sie anderen, diese Nummer zu identifizieren</string>
+    <string name="title_home">Privat</string>
+    <string name="title_home_fax">Privatfax</string>
+    <string name="title_lang">Sprache</string>
+    <string name="title_main">Haupt</string>
+    <string name="title_mobile">Mobil</string>
+    <string name="title_mute">Stumm</string>
+    <string name="title_no_lable">Keine Bezeichnung</string>
+    <string name="title_other">Andere</string>
+    <string name="title_pager">Pager</string>
+    <string name="title_private_number">Private Nummer</string>
+    <string name="title_save">Speichern</string>
+    <string name="title_sim_not_register">Nicht registriertes Netzwerk</string>
+    <string name="title_summary">Zusammenfassung</string>
+    <string name="title_today">Heute</string>
+    <string name="title_work">Arbeit</string>
+    <string name="title_work_fax">Arbeitsfax</string>
+    <string name="turn_microphone_off">Mikrofon ausschalten</string>
+    <string name="turn_microphone_on">Mikrofon einschalten</string>
+    <string name="turn_speaker_off">Lautsprecher ausschalten</string>
+    <string name="turn_speaker_on">Lautsprecher einschalten</string>
+    <string name="unknown">Unbekannt</string>
+    <string name="unknown_caller">Unbekannter Anrufer</string>
+    <string name="unknown_error_occurred">Unbekannter Fehler aufgetreten</string>
+
+    <string name="web">Web</string>
+    <string name="website">Website</string>
+    <string name="write_personal_message">Persönliche Nachricht schreiben</string>
+
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ok">Ok</string>
+
+    <string name="no_ringtone_found">Klingelton nicht gefunden!</string>
+    <string name="ringtone_set_successfully">Klingelton erfolgreich eingestellt</string>
+
+    <string name="toast_please_enter_firstname">Bitte geben Sie den Vornamen ein</string>
+    <string name="toast_please_enter_surname">Bitte geben Sie den Nachnamen ein</string>
+    <string name="toast_please_enter_valid_phone_no">Bitte geben Sie eine gültige Telefonnummer ein</string>
+    <string name="toast_please_enter_valid_email">Bitte geben Sie eine gültige E-Mail-Adresse ein</string>
+
+    <string name="can_t_talk_right_now">Kann gerade nicht sprechen…</string>
+    <string name="i_ll_call_you_later">Ich rufe dich später an.</string>
+    <string name="i_m_on_the_way">Ich bin unterwegs.</string>
+    <string name="can_t_talk_now_call_me_later">Kann gerade nicht sprechen. Ruf mich später an.</string>
+    <string name="toast_number_already_blocked">Nummer bereits gesperrt</string>
+    <string name="no_app_found_to_handle_this_action">Es wurde keine App gefunden, die diese Aktion ausführt</string>
+    <string name="choose_sim_for_make_call">Wählen Sie SIM zum Tätigen eines Anrufs</string>
+    <string name="contacts_with_phone_numbers">Kontakte mit Telefonnummern</string>
+    <string name="welcome_to_contacts">Willkommen bei Kontakte</string>
+
+    <string name="premium_purchase_successful">Kauf erfolgreich</string>
+
+</resources> 
+

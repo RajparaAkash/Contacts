@@ -1,0 +1,122 @@
+<resources>
+
+    <style name="AppTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorAccent">@color/app_color</item>
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/app_color</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowBackground">@color/background</item>
+        <!--        <item name="android:navigationBarColor">@color/background</item>-->
+        <!--        <item name="android:popupMenuStyle">@style/PopupMenu</item>-->
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="SettingTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorAccent">@color/app_color</item>
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/app_color</item>
+        <item name="android:statusBarColor">@color/setting_bg</item>
+        <item name="android:windowBackground">@color/setting_bg</item>
+        <!--        <item name="android:navigationBarColor">@color/setting_bg</item>-->
+        <!--        <item name="android:popupMenuStyle">@style/PopupMenu</item>-->
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+
+    <style name="AppTheme.TransparentWindow" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:statusBarColor">@color/black_transparent</item>
+        <item name="backgroundColor">@android:color/transparent</item>
+    </style>
+
+
+    <style name="AfterCallTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="background">@null</item>
+        <item name="colorAccent">@color/app_color</item>
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/white</item>
+    </style>
+
+
+    <style name="Theme.VoiceRecorder1" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/text_black</item>
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryVariant">@color/app_color</item>
+        <item name="colorSecondary">@color/app_color</item>
+        <item name="colorSecondaryVariant">@color/app_color</item>
+    </style>
+
+
+
+    <style name="textTest" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="textTest2" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textColor">#aaaaaa</item>
+    </style>
+
+
+    <style name="WheelPicker">
+        <item name="wheel_atmospheric">true</item>
+        <item name="wheel_curved">true</item>
+        <item name="wheel_cyclic">true</item>
+        <item name="wheel_item_space">24dp</item>
+        <item name="wheel_item_text_color">#bfbfbf</item>
+        <item name="wheel_item_text_size">16sp</item>
+        <item name="wheel_selected_item_text_color">#000</item>
+        <item name="wheel_visible_item_count">3</item>
+    </style>
+
+
+    <style name="Widget.CalendarView.Custom" parent="@android:style/Widget.DeviceDefault.Light.CalendarView">
+        <item name="android:textColorPrimary">#5e99a0</item>
+        <item name="android:titleTextStyle">@style/textTest</item>
+        <item name="android:weekDayTextAppearance">@style/textTest2</item>
+        <item name="android:dateTextAppearance">@style/textTest</item>
+        <item name="android:colorPrimary">#ffffff</item>
+        <item name="colorAccent">#5e99a0</item>
+    </style>
+
+    <style name="CustomBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <!--<item name="android:windowCloseOnTouchOutside">false</item>-->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.3</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+    <style name="SearchDialogTheme">
+        <item name="android:background">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowBackground">@color/background</item>
+        <!--        <item name="android:navigationBarColor">@color/background</item>-->
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+</resources>

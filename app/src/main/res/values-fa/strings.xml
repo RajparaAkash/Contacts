@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مخاطب</string>
+
+    <string name="incoming_call">تماس ورودی</string>
+    <string name="whatsapp">واتساپ</string>
+    <string name="voice_call">تماس صوتی</string>
+    <string name="connected_apps">برنامه‌های متصل</string>
+    <string name="answer">پاسخ</string>
+    <string name="more">بیشتر</string>
+    <string name="today">امروز</string>
+    <string name="yesterday">دیروز</string>
+
+    <string name="whoops">اوف</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">اتصال به اینترنت کند یا بدون اتصال. لطفا اتصال اینترنت خود را بررسی کنید.</string>
+    <string name="retry">دوباره امتحان کنید</string>
+    <string name="go_to_settings">به تنظیمات بروید</string>
+    <string name="dismiss">رد</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">با عرض پوزش، سرویس به دلیل تعمیر و نگهداری در دسترس نیست، لطفاً بعد از مدتی امتحان کنید یا دوباره امتحان کنید. متشکرم !</string>
+    <string name="app_under_maintenance">برنامه تحت تعمیر و نگهداری</string>
+    <string name="showing_ad_please_wait">در حال نمایش آگهی، لطفا صبر کنید…</string>
+    <string name="showing_ad_please_wait_desc">این هشدار برای شما است که به طور تصادفی روی\nتبلیغ کلیک نکنید</string>
+    <string name="ad">آگهی</string>
+    <string name="continue_to_app">به برنامه ادامه دهید</string>
+    <string name="accept_and_continue"><![CDATA[Accept & Continue]]></string>
+    <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">آیا مطمئن هستید !!!\nمی خواهید از برنامه خارج شوید؟</string>
+    <string name="press_here_to_exit">برای خروج اینجا را فشار دهید</string>
+    <string name="an_update_has_just_been_downloaded">یک به روز رسانی به تازگی دانلود شده است.</string>
+
+    <string name="you_leaving">داری میری…</string>
+    <string name="loading_ad">در حال بارگیری آگهی، لطفاً صبر کنید…</string>
+
+
+    <string name="toast_message_sent">پیغام فرستاده شد</string>
+    <string name="toast_number_not_delete">شماره حذف نمی شود! چیزی اشتباه شد</string>
+    <string name="toast_no_email_clients">هیچ کلاینت ایمیلی نصب نشده است.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[Phone Dialer & Contacts]]></string>
+    <string name="privacy_get_started">شروع کنید</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">به\nمخاطبین خوش آمدید</string>
+    <string name="allow_permission_desription">اجازه برقراری تماس و مخاطبین تغییر یافته را مجاز کنید</string>
+    <string name="allow_contact">مخاطب</string>
+    <string name="title_contact_description">به این برنامه اجازه دهید مخاطب را در صفحه تماس گیرنده بخواند و بنویسد.</string>
+    <string name="title_phone">وضعیت تلفن</string>
+    <string name="title_phone_description">در شناسایی وضعیت تماس ورودی و خروجی به ما کمک کنید.</string>
+    <string name="title_call_log">گزارش تماس</string>
+    <string name="title_call_log_description">به یک برنامه کاربردی اجازه می دهد تا داده های گزارش تماس کاربر را بخواند و بنویسد.</string>
+    <string name="title_overlay_permissiom">مجوز پوشش</string>
+    <string name="title_overlay_description">برای استفاده از ویژگی رایگان پس از تماس، باید اجازه همپوشانی بخواهیم.</string>
+    <string name="allow_permission">اجازه مجوز</string>
+
+    <string name="dialog_perm_title">نیاز به مجوز</string>
+    <string name="dialog_perm_desc">این برنامه برای استفاده از این ویژگی نیاز به مجوز دارد. می توانید آنها را در تنظیمات برنامه اعطا کنید.</string>
+    <string name="dialog_perm_go_to_setting">رفتن به تنظیمات</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">تنظیم به عنوان پیشفرض</string>
+    <string name="set_as_default_description"><![CDATA[با کلیک بر روی دکمه زیر، تماس را به عنوان شناسه تماس گیرنده و برنامه هرزنامه پیش فرض خود برقرار کنید]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">مورد علاقه</string>
+    <string name="home_recent">اخیر</string>
+    <string name="home_contacts">مخاطب</string>
+    <string name="home_search_here">اینجا جستجو کنید</string>
+    <string name="home_other">دیگر</string>
+    <string name="home_block_contacts">مسدود کردن مخاطبین</string>
+    <string name="home_settings">تنظیمات</string>
+    <string name="home_rate">نرخ</string>
+    <string name="home_share">اشتراک گذاری</string>
+    <string name="home_feedback">بازخورد</string>
+    <string name="home_privacy_policy">سیاست حفظ حریم خصوصی</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">عمومی</string>
+    <string name="make_default"><![CDATA[تنظیم مخاطب به عنوان برنامه پیش‌فرض CallerId & Spam]]></string>
+    <string name="show_caller_dialog">نمایش شناسه تماس گیرنده بعد از تماس</string>
+    <string name="show_quick_decline_messages">پیام های رد سریع</string>
+    <string name="show_dial_pad_sound">صدای پد شماره گیری</string>
+    <string name="show_led_flash">فلش LED</string>
+    <string name="setting_dark_theme">تم تیره</string>
+    <string name="toast_flash_not_supported">دستگاه شما از فلاش LED پشتیبانی نمی کند</string>
+
+    <string name="setting_edit_contact">ویرایش مخاطب</string>
+    <string name="default_account">حساب پیش فرض برای مخاطبین جدید</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">تماس خروجی</string>
+    <string name="declined_call">تماس رد شد</string>
+    <string name="block_call">تماس مسدود شده</string>
+    <string name="missed_Call">تماس از دست رفته</string>
+    <string name="incoming">تماس ورودی</string>
+    <string name="block">مسدود کردن</string>
+    <string name="unblock">رفع انسداد</string>
+
+    <string name="recent_call">زنگ زدن</string>
+    <string name="video_call">تماس تصویری</string>
+    <string name="recent_info">اطلاعات</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">افزودن به مخاطبین</string>
+
+    <!--  Contact info  -->
+    <string name="call">زنگ زدن</string>
+    <string name="message">پیام</string>
+    <string name="video">ویدیو</string>
+    <string name="info_contact_info">اطلاعات تماس</string>
+    <string name="info_contact_history">تاریخچه تماس</string>
+    <string name="info_see_all">همه را ببین</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">اعداد را مسدود کنید</string>
+    <string name="block_call_from_unknown">تماس های شماره های ناشناس را مسدود کنید</string>
+    <string name="block_add_phone_hint">اضافه کردن شماره تلفن</string>
+    <string name="block_enter_valid_number">لطفا شماره معتبر وارد کنید</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">تاریخچه تماس</string>
+    <string name="history_no_data">داده ای یافت نشد</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">همگام سازی مخاطب</string>
+    <string name="popup_clear_history">پاک کردن تاریخچه</string>
+    <string name="popup_speed_dial_numbers">شماره های شماره گیری سریع</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">پاسخ سریع</string>
+    <string name="quick_response_add">اضافه کردن</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">فیلتر کردن تماس</string>
+    <string name="filter_all_calls">همه تماس ها</string>
+    <string name="filter_missed_calls">تماس های از دست رفته</string>
+    <string name="filter_incoming_calls">تماس های دریافتی</string>
+    <string name="filter_outgoing_calls">تماس های گرفته شده</string>
+    <string name="filter_reset">بازنشانی کنید</string>
+    <string name="filter_apply">درخواست دادن</string>
+    <string name="filter_sim_all">همه سیم</string>
+    <string name="filter_sim_one">سیم 1</string>
+    <string name="filter_sim_two">سیم 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">پاسخ سریع را اضافه کنید</string>
+    <string name="dialog_quick_response_edit">پاسخ سریع را ویرایش کنید</string>
+    <string name="dialog_quick_response_hint">پیام</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">شماره گیری سریع</string>
+    <string name="speed_dial_desc">مخاطب را به شماره شماره گیری سریع اختصاص دهید.</string>
+    <string name="speed_dial_not_assign">نه اختصاص دادن</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">مدیریت تماس ها</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">پیشوند نام</string>
+    <string name="first_name_hint">نام کوچک</string>
+    <string name="middle_name_hint">نام میانی</string>
+    <string name="surname_hint">نام خانوادگی</string>
+    <string name="name_suffix_hint">پسوند نام</string>
+
+    <string name="company_name_hint">نام شرکت</string>
+    <string name="department_hint">بخش</string>
+    <string name="title_hint">عنوان</string>
+
+    <string name="phone_number_hint">شماره تلفن</string>
+    <string name="email_hint">پست الکترونیک</string>
+    <string name="significant_date_hint">تاریخ مهم</string>
+    <string name="website_hint">سایت اینترنتی</string>
+    <string name="notes_hint">یادداشت</string>
+    <string name="label_hint">برچسب</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">در باره</string>
+    <string name="accept">تایید کنید</string>
+    <string name="accounts">حساب ها</string>
+    <string name="add_contact">مخاطب جدید ایجاد کنید</string>
+    <string name="add_email">ایمیل اضافه کنید</string>
+    <string name="add_phone_number">اضافه کردن شماره تلفن</string>
+    <string name="add_picture">عکس اضافه کنید</string>
+    <string name="addcall">افزودن تماس</string>
+    <string name="all_contacts_0">همه مخاطبین 0</string>
+    <string name="always_use_this_sim">همیشه از این سیم کارت استفاده کنید</string>
+
+
+    <string name="block_contact">مسدود کردن مخاطب</string>
+    <!--    <string name="block_contact_desc">دیگر هیچ تماس یا پیامی از این مخاطب دریافت نخواهید کرد.</string>-->
+    <string name="block_contact_desc">آیا مطمئن هستید که می خواهید این شماره را مسدود کنید؟</string>
+    <string name="toast_block_contact">مخاطب با موفقیت مسدود شد</string>
+
+    <string name="default_app_desc">برای استفاده از تمام ویژگی‌های موجود در مخاطبین، باید آن را برنامه مخاطبین به عنوان برنامه پیش‌فرض تلفن خود قرار دهید.</string>
+    <string name="block_contect_default_app">برای مسدود کردن مخاطب، باید تماس را به عنوان برنامه پیش‌فرض تلفن خود ایجاد کنید</string>
+    <string name="block_error_message">شما این مخاطب را مسدود نکرده اید. لطفا شماره تلفن اول را در این مخاطب اضافه کنید.</string>
+    <string name="block_not_supported">ویژگی مسدود کردن شماره در این دستگاه پشتیبانی نمی‌شود.</string>
+    <string name="calendar">تقویم</string>
+    <string name="call_ended">مکالمه تلفنی تمام شد</string>
+    <string name="call_ending">پایان تماس</string>
+    <string name="call_on_hold">در انتظار تماس بگیرید</string>
+    <string name="call_swap">تماس را بکشید</string>
+    <string name="can_call_you_later">میشه بعدا بهت زنگ بزنم؟</string>
+    <string name="can_not_talk_right_now">ببخشید الان نمیتونم حرف بزنم</string>
+    <string name="change_photo">تعویض عکس</string>
+
+
+    <string name="conference_manage">کنفرانس تلفنی</string>
+    <string name="confirm_message_of_delete">آیا مطمئن هستید که می خواهید این مخاطب را حذف کنید؟</string>
+
+    <string name="contact_label">برچسب</string>
+    <string name="contact_name">نام تماس</string>
+    <string name="contacts">مخاطب</string>
+    <string name="create_contact">ایجاد تماس</string>
+    <string name="decline">کاهش می یابد</string>
+
+
+    <string name="add">اضافه کردن</string>
+    <string name="update">به روز رسانی</string>
+    <string name="delete">حذف</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="set_ringtone">تنظیم آهنگ زنگ</string>
+
+
+    <string name="delete_contact_message">مطمئناً می خواهید این شماره را حذف کنید؟</string>
+
+    <string name="edit_contact">ویرایش مخاطب</string>
+    <string name="fields_empty">حداقل 1 فیلد لازم است!</string>
+
+
+    <string name="more_fields">زمینه های بیشتر</string>
+    <string name="name_format">قالب نام</string>
+
+
+    <string name="duration">مدت زمان</string>
+    <string name="email">پست الکترونیک</string>
+    <string name="email_validation">لطفا ابتدا ایمیل اضافه کنید!</string>
+    <string name="event">تاریخ مهم</string>
+
+
+    <string name="gmail_not_install">جیمیل نصب نشده</string>
+    <string name="first_name_first">اول نام</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">تاریخ</string>
+    <string name="i_am_on_my_way">من در راه هستم</string>
+
+
+    <string name="hold">نگه دارید</string>
+    <string name="hold_call">تماس را نگه دارید</string>
+    <string name="dialing">در حال شماره گیری…</string>
+    <string name="is_calling">در حال تماس گرفتن است…</string>
+    <string name="keypad">صفحه کلید</string>
+    <string name="merge">ادغام</string>
+
+
+    <string name="lbl_find">مخاطب را پیدا کنید و اجازه دهید</string>
+
+
+    <string name="message_delete_history">آیا مطمئنید که می خواهید تمام سابقه را پاک کنید؟</string>
+    <string name="messages">پیام ها</string>
+
+
+    <string name="no_app_found">هیچ برنامه ای برای برقراری تماس یافت نشد</string>
+    <string name="no_app_found_hendle_this_event">هیچ برنامه ای برای مدیریت این رویداد یافت نشد!</string>
+    <string name="no_block_contact">تماس بلوکی وجود ندارد</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">مخاطب مورد علاقه پیدا نشد!</string>
+    <string name="no_recent_found">اخیراً یافت نشد!</string>
+    <string name="no_contacts_found">مخاطبی پیدا نشد!</string>
+
+    <string name="no_title">بدون عنوان</string>
+    <string name="notes">یادداشت</string>
+    <string name="number_blocked_msg">شماره با موفقیت مسدود شد</string>
+    <string name="number_unblocked_msg">شماره با موفقیت رفع انسداد شد</string>
+    <string name="number_not">شماره پیدا نشد</string>
+    <string name="number_of_calls_with">تماس با</string>
+    <string name="older">مسن تر</string>
+    <string name="ongoing_call">تماس خروجی</string>
+
+
+    <string name="permission_set_as_default">آیا دوست دارید این برنامه به عنوان برنامه پیش فرض تلفن تنظیم شود؟ می توانید آنها را در تنظیمات برنامه اعطا کنید.</string>
+    <string name="phone">تلفن</string>
+    <string name="phone_validation">لطفا ابتدا شماره تلفن را اضافه کنید!</string>
+
+    <string name="private_number">شماره های خصوصی</string>
+
+    <string name="remind_me_about">به من یادآوری کن در مورد</string>
+    <string name="remove_photo">حذف عکس</string>
+    <string name="resume_call">از سرگیری تماس</string>
+    <string name="save">صرفه جویی</string>
+    <string name="save_to">ذخیره در</string>
+    <string name="search_contacts">جستجوی مخاطب</string>
+    <string name="search_menu_title">جستجو کردن</string>
+    <string name="select">انتخاب کنید</string>
+    <string name="select_sim">سیم کارت را انتخاب کنید</string>
+    <string name="selected_account">حساب انتخابی شما</string>
+    <string name="selected_contact">0 انتخاب شد</string>
+    <string name="selected_photo">عکس را انتخاب کنید</string>
+    <string name="send_a_message">ارسال یک پیام</string>
+    <string name="send_mail">ارسال ایمیل</string>
+
+    <string name="settings">تنظیمات</string>
+
+    <string name="share_via">اشتراک گذاری از طریق</string>
+    <string name="share_your_expirence">تجربه خود را به اشتراک بگذارید</string>
+
+    <string name="sim_not_available">سیم شبکه موجود نیست.....!</string>
+    <string name="sortby">مرتب سازی بر اساس</string>
+    <string name="speaker">بلندگو</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">امروز</string>
+    <string name="string_yesterday">دیروز</string>
+
+    <string name="surname">نام خانوادگی</string>
+    <string name="surname_first">اول نام خانوادگی</string>
+    <string name="take_new_photo">عکس جدید بگیر</string>
+    <string name="text">متن</string>
+    <string name="this_month">این ماه</string>
+    <string name="title">عنوان</string>
+    <string name="title_anniversary">سالگرد</string>
+    <string name="title_birthday">روز تولد</string>
+    <string name="title_cancel">لغو کنید</string>
+    <string name="title_go_to_setting">رفتن به تنظیمات</string>
+    <string name="title_help_to_identify">به دیگران کمک کنید این شماره را شناسایی کنند</string>
+    <string name="title_home">صفحه اصلی</string>
+    <string name="title_home_fax">فکس خانگی</string>
+    <string name="title_lang">زبان</string>
+    <string name="title_main">اصلی</string>
+    <string name="title_mobile">سیار</string>
+    <string name="title_mute">بی صدا</string>
+    <string name="title_no_lable">بدون برچسب</string>
+    <string name="title_other">دیگر</string>
+    <string name="title_pager">پیجر</string>
+    <string name="title_private_number">شماره خصوصی</string>
+    <string name="title_save">صرفه جویی</string>
+    <string name="title_sim_not_register">شبکه ثبت نشده</string>
+    <string name="title_summary">خلاصه</string>
+    <string name="title_today">امروز</string>
+    <string name="title_work">کار کنید</string>
+    <string name="title_work_fax">فکس کار</string>
+    <string name="turn_microphone_off">میکروفون را خاموش کنید</string>
+    <string name="turn_microphone_on">میکروفون را روشن کنید</string>
+    <string name="turn_speaker_off">بلندگو را خاموش کنید</string>
+    <string name="turn_speaker_on">بلندگو را روشن کنید</string>
+    <string name="unknown">ناشناخته</string>
+    <string name="unknown_caller">تماس گیرنده ناشناس</string>
+    <string name="unknown_error_occurred">خطای نامشخصی رخ داد</string>
+
+    <string name="web">وب</string>
+    <string name="website">سایت اینترنتی</string>
+    <string name="write_personal_message">پیام شخصی بنویسید</string>
+
+    <string name="yes">آره</string>
+    <string name="no">خیر</string>
+    <string name="cancel">لغو کنید</string>
+    <string name="ok">خوب</string>
+
+    <string name="no_ringtone_found">آهنگ زنگ پیدا نشد!</string>
+    <string name="ringtone_set_successfully">آهنگ زنگ با موفقیت تنظیم شد</string>
+
+    <string name="toast_please_enter_firstname">لطفا نام کوچک را وارد کنید</string>
+    <string name="toast_please_enter_surname">لطفا نام خانوادگی را وارد کنید</string>
+    <string name="toast_please_enter_valid_phone_no">لطفا یک شماره تماس معتبر وارد کنید</string>
+    <string name="toast_please_enter_valid_email">لطفا ایمیل معتبر وارد نمایید</string>
+
+    <string name="can_t_talk_right_now">فعلا نمیشه حرف زد…</string>
+    <string name="i_ll_call_you_later">بعدا با شما تماس می گیرم.</string>
+    <string name="i_m_on_the_way">من در راه هستم.</string>
+    <string name="can_t_talk_now_call_me_later">الان نمیشه حرف زد بعدا به من تماس بگیرید.</string>
+    <string name="toast_number_already_blocked">شماره قبلاً مسدود شده است</string>
+    <string name="no_app_found_to_handle_this_action">هیچ برنامه ای برای انجام این عمل یافت نشد</string>
+    <string name="choose_sim_for_make_call">سیم کارت را برای برقراری تماس انتخاب کنید</string>
+    <string name="contacts_with_phone_numbers">تماس با شماره تلفن</string>
+    <string name="welcome_to_contacts">به مخاطبین خوش آمدید</string>
+
+    <string name="premium_purchase_successful">خرید موفق</string>
+
+</resources> 
+

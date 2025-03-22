@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">連絡先</string>
+
+    <string name="incoming_call">着信</string>
+    <string name="whatsapp">ワッツアップ</string>
+    <string name="voice_call">音声通話</string>
+    <string name="connected_apps">接続されたアプリ</string>
+    <string name="answer">応答</string>
+    <string name="more">詳細</string>
+    <string name="today">今日</string>
+    <string name="yesterday">昨日</string>
+
+    <string name="whoops">おっと！</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">インターネット接続が遅いか、またはありません。インターネット接続を確認してください。</string>
+    <string name="retry">再試行</string>
+    <string name="go_to_settings">設定に移動</string>
+    <string name="dismiss">閉じる</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">申し訳ありませんが、メンテナンスのためサービスはご利用いただけません。しばらくしてから試すか、再試行してください。ありがとうございます！</string>
+    <string name="app_under_maintenance">アプリはメンテナンス中です</string>
+    <string name="showing_ad_please_wait">広告を表示しています。お待ちください…</string>
+    <string name="showing_ad_please_wait_desc">この警告は、誤って広告をクリックしないようにするためのものです</string>
+    <string name="ad">広告</string>
+    <string name="continue_to_app">アプリに進む</string>
+    <string name="accept_and_continue"><![CDATA[同意して続行]]></string>
+    <string name="privacy_policy">プライバシー ポリシー</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">よろしいですか!!!\nアプリを終了しますか?</string>
+    <string name="press_here_to_exit">終了するにはここをクリック</string>
+    <string name="an_update_has_just_been_downloaded">更新がダウンロードされました。</string>
+
+    <string name="you_leaving">終了しています…</string>
+    <string name="loading_ad">広告を読み込んでいます。お待ちください…</string>
+
+
+    <string name="toast_message_sent">メッセージを送信しました</string>
+    <string name="toast_number_not_delete">番号が削除されませんでした。問題が発生しました</string>
+    <string name="toast_no_email_clients">メール クライアントがインストールされていません。</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[電話ダイヤラと連絡先]]></string>
+    <string name="privacy_get_started">開始</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">連絡先へようこそ</string>
+    <string name="allow_permission_desription">通話の発信と連絡先の変更の許可</string>
+    <string name="allow_contact">連絡先</string>
+    <string name="title_contact_description">このアプリが発信者画面で連絡先を読み書きできるようにします。</string>
+    <string name="title_phone">電話の状態</string>
+    <string name="title_phone_description">着信および発信の通話状態を識別するのに役立ちます。</string>
+    <string name="title_call_log">通話履歴</string>
+    <string name="title_call_log_description">アプリケーションがユーザーの通話履歴データを読み書きできるようにします。</string>
+    <string name="title_overlay_permissiom">オーバーレイ許可</string>
+    <string name="title_overlay_description">無料の通話後機能を使用するには、オーバーレイ許可を求める必要があります。</string>
+    <string name="allow_permission">許可</string>
+
+    <string name="dialog_perm_title">許可が必要</string>
+    <string name="dialog_perm_desc">この機能を使用するには、このアプリに許可が必要です。アプリ設定で許可できます。</string>
+    <string name="dialog_perm_go_to_setting">設定に移動</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">デフォルトに設定</string>
+    <string name="set_as_default_description"><![CDATA[下のボタンをクリックして、連絡先をデフォルトの発信者IDとスパムアプリに設定してください]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">お気に入り</string>
+    <string name="home_recent">最近</string>
+    <string name="home_contacts">連絡先</string>
+    <string name="home_search_here">ここで検索</string>
+    <string name="home_other">その他</string>
+    <string name="home_block_contacts">連絡先をブロック</string>
+    <string name="home_settings">設定</string>
+    <string name="home_rate">評価</string>
+    <string name="home_share">共有</string>
+    <string name="home_feedback">フィードバック</string>
+    <string name="home_privacy_policy">プライバシーポリシー</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">全般</string>
+    <string name="make_default"><![CDATA[連絡先をデフォルトの発信者IDとスパムアプリに設定]]></string>
+    <string name="show_caller_dialog">通話後の発信者IDを表示</string>
+    <string name="show_quick_decline_messages">クイック拒否メッセージ</string>
+    <string name="show_dial_pad_sound">ダイヤルパッドの音</string>
+    <string name="show_led_flash">LEDフラッシュ</string>
+    <string name="setting_dark_theme">ダークテーマ</string>
+    <string name="toast_flash_not_supported">お使いのデバイスはLEDフラッシュをサポートしていません</string>
+
+    <string name="setting_edit_contact">連絡先を編集</string>
+    <string name="default_account">新しい連絡先のデフォルトアカウント</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">発信通話</string>
+    <string name="declined_call">拒否された通話</string>
+    <string name="block_call">ブロックされた通話</string>
+    <string name="missed_Call">不在着信</string>
+    <string name="incoming">着信通話</string>
+    <string name="block">ブロック</string>
+    <string name="unblock">ブロック解除</string>
+
+    <string name="recent_call">通話</string>
+    <string name="video_call">ビデオ通話</string>
+    <string name="recent_info">情報</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">連絡先に追加</string>
+
+    <!--  Contact info  -->
+    <string name="call">通話</string>
+    <string name="message">メッセージ</string>
+    <string name="video">ビデオ</string>
+    <string name="info_contact_info">連絡先情報</string>
+    <string name="info_contact_history">連絡先履歴</string>
+    <string name="info_see_all">すべて表示</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">番号をブロック</string>
+    <string name="block_call_from_unknown">不明な番号からの通話をブロック</string>
+    <string name="block_add_phone_hint">電話番号を追加</string>
+    <string name="block_enter_valid_number">有効な番号を入力してください</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">通話履歴</string>
+    <string name="history_no_data">データが見つかりません</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">連絡先を同期</string>
+    <string name="popup_clear_history">履歴を消去</string>
+    <string name="popup_speed_dial_numbers">スピードダイヤル番号</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">クイック レスポンス</string>
+    <string name="quick_response_add">追加</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">通話のフィルター</string>
+    <string name="filter_all_calls">すべての通話</string>
+    <string name="filter_missed_calls">不在着信</string>
+    <string name="filter_incoming_calls">着信</string>
+    <string name="filter_outgoing_calls">発信</string>
+    <string name="filter_reset">リセット</string>
+    <string name="filter_apply">適用</string>
+    <string name="filter_sim_all">すべてのシム</string>
+    <string name="filter_sim_one">シム1</string>
+    <string name="filter_sim_two">シム2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">クイック レスポンスの追加</string>
+    <string name="dialog_quick_response_edit">クイック レスポンスの編集</string>
+    <string name="dialog_quick_response_hint">メッセージ</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">スピード ダイヤル</string>
+    <string name="speed_dial_desc">連絡先をスピード ダイヤル番号に割り当てます。</string>
+    <string name="speed_dial_not_assign">割り当てなし</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">通話の管理</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">名前のプレフィックス</string>
+    <string name="first_name_hint">名</string>
+    <string name="middle_name_hint">ミドル ネーム</string>
+    <string name="surname_hint">姓</string>
+    <string name="name_suffix_hint">名前のサフィックス</string>
+
+    <string name="company_name_hint">会社名</string>
+    <string name="department_hint">部門</string>
+    <string name="title_hint">役職</string>
+
+    <string name="phone_number_hint">電話番号</string>
+    <string name="email_hint">メール</string>
+    <string name="significant_date_hint">重要な日付</string>
+    <string name="website_hint">ウェブサイト</string>
+    <string name="notes_hint">メモ</string>
+    <string name="label_hint">ラベル</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">概要</string>
+    <string name="accept">承認</string>
+    <string name="accounts">アカウント</string>
+    <string name="add_contact">新しい連絡先の作成</string>
+    <string name="add_email">メールの追加</string>
+    <string name="add_phone_number">電話番号の追加</string>
+    <string name="add_picture">写真の追加</string>
+    <string name="addcall">通話の追加</string>
+    <string name="all_contacts_0">すべての連絡先 0</string>
+    <string name="always_use_this_sim">常にこの SIM を使用する</string>
+
+
+    <string name="block_contact">連絡先をブロック</string>
+    <!--    <string name="block_contact_desc">この連絡先からの通話やメッセージは受信されなくなります。</string>-->
+    <string name="block_contact_desc">この番号をブロックしてもよろしいですか。</string>
+    <string name="toast_block_contact">連絡先が正常にブロックされました</string>
+
+    <string name="default_app_desc">連絡先で利用可能なすべての機能を使用するには、連絡先アプリをデフォルトの電話アプリにする必要があります。</string>
+    <string name="block_contect_default_app">連絡先をブロックするには、連絡先をデフォルトの電話アプリにする必要があります</string>
+    <string name="block_error_message">この連絡先をブロックしていません。この連絡先に最初の電話番号を追加してください。</string>
+    <string name="block_not_supported">このデバイスでは、番号ブロック機能はサポートされていません。</string>
+    <string name="calendar">カレンダー</string>
+    <string name="call_ended">通話終了</string>
+    <string name="call_ending">通話終了</string>
+    <string name="call_on_hold">通話保留</string>
+    <string name="call_swap">スワイプ通話</string>
+    <string name="can_call_you_later">後で電話してもよろしいですか?</string>
+    <string name="can_not_talk_right_now">申し訳ありませんが、今は話せません</string>
+    <string name="change_photo">写真の変更</string>
+
+
+    <string name="conference_manage">電話会議</string>
+    <string name="confirm_message_of_delete">この連絡先を削除してもよろしいですか?</string>
+
+    <string name="contact_label">ラベル</string>
+    <string name="contact_name">連絡先名</string>
+    <string name="contacts">連絡先</string>
+    <string name="create_contact">連絡先の作成</string>
+    <string name="decline">拒否</string>
+
+
+    <string name="add">追加</string>
+    <string name="update">更新</string>
+    <string name="delete">削除</string>
+    <string name="share">共有</string>
+    <string name="set_ringtone">着信音の設定</string>
+
+
+    <string name="delete_contact_message">この番号を削除してもよろしいですか?</string>
+
+    <string name="edit_contact">連絡先の編集</string>
+    <string name="fields_empty">少なくとも 1 つのフィールドが必要です!</string>
+
+
+    <string name="more_fields">その他のフィールド</string>
+    <string name="name_format">名前の形式</string>
+
+
+    <string name="duration">期間</string>
+    <string name="email">メール</string>
+    <string name="email_validation">まずメールを追加してください!</string>
+    <string name="event">重要な日付</string>
+
+
+    <string name="gmail_not_install">Gmail がインストールされていません</string>
+    <string name="first_name_first">名が先</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">履歴</string>
+    <string name="i_am_on_my_way">今向かっています</string>
+
+
+    <string name="hold">保留</string>
+    <string name="hold_call">通話を保留</string>
+    <string name="dialing">ダイヤル中...</string>
+    <string name="is_calling">通話中...</string>
+    <string name="keypad">キーパッド</string>
+    <string name="merge">結合</string>
+
+
+    <string name="lbl_find">連絡先を見つけて許可</string>
+
+
+    <string name="message_delete_history">すべての履歴を消去してもよろしいですか?</string>
+    <string name="messages">メッセージ</string>
+
+
+    <string name="no_app_found">電話をかけるためのアプリが見つかりません</string>
+    <string name="no_app_found_hendle_this_event">このイベントを処理するアプリが見つかりません!</string>
+    <string name="no_block_contact">連絡先をブロックしていません</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">お気に入りの連絡先が見つかりません!</string>
+    <string name="no_recent_found">最近のものは見つかりませんでした!</string>
+    <string name="no_contacts_found">連絡先は見つかりませんでした!</string>
+
+    <string name="no_title">タイトルなし</string>
+    <string name="notes">メモ</string>
+    <string name="number_blocked_msg">番号が正常にブロックされました</string>
+    <string name="number_unblocked_msg">番号が正常にブロック解除されました</string>
+    <string name="number_not">番号が見つかりません</string>
+    <string name="number_of_calls_with">通話</string>
+    <string name="older">古い</string>
+    <string name="ongoing_call">発信通話</string>
+
+
+    <string name="permission_set_as_default">このアプリをデフォルトの電話アプリとして設定しますか? アプリ設定で許可できます。</string>
+    <string name="phone">電話</string>
+    <string name="phone_validation">まず電話番号を追加してください!</string>
+
+    <string name="private_number">非公開番号</string>
+
+    <string name="remind_me_about">次のことを通知</string>
+    <string name="remove_photo">写真を削除</string>
+    <string name="resume_call">通話を再開</string>
+    <string name="save">保存</string>
+    <string name="save_to">保存先</string>
+    <string name="search_contacts">連絡先を検索</string>
+    <string name="search_menu_title">検索</string>
+    <string name="select">選択</string>
+    <string name="select_sim">SIMを選択</string>
+    <string name="selected_account">選択したアカウント</string>
+    <string name="selected_contact">0件を選択</string>
+    <string name="selected_photo">写真を選択</string>
+    <string name="send_a_message">メッセージを送信</string>
+    <string name="send_mail">メールを送信</string>
+
+    <string name="settings">設定</string>
+
+    <string name="share_via">共有</string>
+    <string name="share_your_expirence">体験を共有</string>
+
+    <string name="sim_not_available">SIMネットワークが利用できません.....!</string>
+    <string name="sortby">並べ替え</string>
+    <string name="speaker">スピーカー</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">今日</string>
+    <string name="string_yesterday">昨日</string>
+
+    <string name="surname">姓</string>
+    <string name="surname_first">姓を先に</string>
+    <string name="take_new_photo">新しい写真を撮る</string>
+    <string name="text">テキスト</string>
+    <string name="this_month">今月</string>
+    <string name="title">タイトル</string>
+    <string name="title_anniversary">記念日</string>
+    <string name="title_birthday">誕生日</string>
+    <string name="title_cancel">キャンセル</string>
+    <string name="title_go_to_setting">設定へ移動</string>
+    <string name="title_help_to_identify">他の人がこの番号を識別できるようにする</string>
+    <string name="title_home">自宅</string>
+    <string name="title_home_fax">自宅のFAX</string>
+    <string name="title_lang">言語</string>
+    <string name="title_main">メイン</string>
+    <string name="title_mobile">モバイル</string>
+    <string name="title_mute">ミュート</string>
+    <string name="title_no_lable">ラベルなし</string>
+    <string name="title_other">その他</string>
+    <string name="title_pager">ポケベル</string>
+    <string name="title_private_number">プライベート番号</string>
+    <string name="title_save">保存</string>
+    <string name="title_sim_not_register">未登録のネットワーク</string>
+    <string name="title_summary">概要</string>
+    <string name="title_today">今日</string>
+    <string name="title_work">仕事</string>
+    <string name="title_work_fax">仕事のFAX</string>
+    <string name="turn_microphone_off">マイクをオフにする</string>
+    <string name="turn_microphone_on">マイクをオンにする</string>
+    <string name="turn_speaker_off">スピーカーをオフにする</string>
+    <string name="turn_speaker_on">スピーカーをオンにする</string>
+    <string name="unknown">不明</string>
+    <string name="unknown_caller">不明な発信​​者</string>
+    <string name="unknown_error_occurred">不明なエラーが発生しました</string>
+
+    <string name="web">Web</string>
+    <string name="website">Webサイト</string>
+    <string name="write_personal_message">個人メッセージを書く</string>
+
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="cancel">キャンセル</string>
+    <string name="ok">OK</string>
+
+    <string name="no_ringtone_found">着信音が見つかりません!</string>
+    <string name="ringtone_set_successfully">着信音の設定に成功しました</string>
+
+    <string name="toast_please_enter_firstname">名を入力してください</string>
+    <string name="toast_please_enter_surname">姓を入力してください</string>
+    <string name="toast_please_enter_valid_phone_no">有効な電話番号を入力してください</string>
+    <string name="toast_please_enter_valid_email">有効なメールアドレスを入力してください</string>
+
+    <string name="can_t_talk_right_now">今は話せません…</string>
+    <string name="i_ll_call_you_later">後で電話します。</string>
+    <string name="i_m_on_the_way">今向かっています。</string>
+    <string name="can_t_talk_now_call_me_later">今は話せません。後で電話してください。</string>
+    <string name="toast_number_already_blocked">番号はすでにブロックされています</string>
+    <string name="no_app_found_to_handle_this_action">このアクションを処理するアプリが見つかりませんでした</string>
+    <string name="choose_sim_for_make_call">通話するSIMを選択してください</string>
+    <string name="contacts_with_phone_numbers">電話番号のある連絡先</string>
+    <string name="welcome_to_contacts">連絡先へようこそ</string>
+
+    <string name="premium_purchase_successful">購入が成功しました</string>
+
+</resources> 
+

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">தொடர்புகள்</string>
+
+    <string name="incoming_call">உள்வரும் அழைப்பு</string>
+    <string name="whatsapp">வாட்ஸ்அப்</string>
+    <string name="voice_call">குரல் அழைப்பு</string>
+    <string name="connected_apps">இணைக்கப்பட்ட பயன்பாடுகள்</string>
+    <string name="answer">பதில்</string>
+    <string name="more">மேலும்</string>
+    <string name="today">இன்று</string>
+    <string name="yesterday">நேற்று</string>
+
+    <string name="whoops">அச்சச்சோ!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">மெதுவாக அல்லது இணைய இணைப்பு இல்லை. உங்கள் இணைய இணைப்பைச் சரிபார்க்கவும்.</string>
+    <string name="retry">மீண்டும் முயற்சிக்கவும்</string>
+    <string name="go_to_settings">அமைப்புகளுக்குச் செல்லவும்</string>
+    <string name="dismiss">நிராகரி</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">மன்னிக்கவும், பராமரிப்பு காரணமாக சேவை கிடைக்கவில்லை, சிறிது நேரம் கழித்து முயற்சிக்கவும் அல்லது மீண்டும் முயற்சிக்கவும். நன்றி !</string>
+    <string name="app_under_maintenance">பயன்பாடு பராமரிப்பில் உள்ளது</string>
+    <string name="showing_ad_please_wait">விளம்பரத்தைக் காட்டுகிறது, காத்திருக்கவும்…</string>
+    <string name="showing_ad_please_wait_desc">இந்த எச்சரிக்கை நீங்கள் தற்செயலாக \nவிளம்பரத்தை கிளிக் செய்ய வேண்டாம்</string>
+    <string name="ad">கி.பி</string>
+    <string name="continue_to_app">பயன்பாட்டில் தொடரவும்</string>
+    <string name="accept_and_continue"><![CDATA[ஏற்றுக்கொள் & தொடரவும்]]></string>
+    <string name="privacy_policy">தனியுரிமைக் கொள்கை</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">நீங்கள் உறுதியாக இருக்கிறீர்களா !!!\nநீங்கள் பயன்பாட்டிலிருந்து வெளியேற விரும்புகிறீர்களா?</string>
+    <string name="press_here_to_exit">வெளியேற இங்கே அழுத்தவும்</string>
+    <string name="an_update_has_just_been_downloaded">ஒரு புதுப்பிப்பு இப்போது பதிவிறக்கம் செய்யப்பட்டது.</string>
+
+    <string name="you_leaving">நீ கிளம்புகிறாய்…</string>
+    <string name="loading_ad">விளம்பரத்தை ஏற்றுகிறது, காத்திருக்கவும்…</string>
+
+
+    <string name="toast_message_sent">செய்தி அனுப்பப்பட்டது</string>
+    <string name="toast_number_not_delete">எண்ணை நீக்கவில்லை! ஏதோ தவறு நடந்துவிட்டது</string>
+    <string name="toast_no_email_clients">மின்னஞ்சல் கிளையன்ட்கள் எதுவும் நிறுவப்படவில்லை.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[தொலைபேசி டயலர் & தொடர்புகள்]]></string>
+    <string name="privacy_get_started">தொடங்குங்கள்</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">\nதொடர்புகளுக்கு வரவேற்கிறோம்</string>
+    <string name="allow_permission_desription">அழைப்புகள் மற்றும் மாற்றியமைக்கப்பட்ட தொடர்புகளுக்கான அனுமதியை அனுமதிக்கவும்</string>
+    <string name="allow_contact">தொடர்பு கொள்ளவும்</string>
+    <string name="title_contact_description">அழைப்பாளர் திரையில் தொடர்பைப் படிக்கவும் எழுதவும் இந்தப் பயன்பாட்டை அனுமதிக்கவும்.</string>
+    <string name="title_phone">தொலைபேசி நிலை</string>
+    <string name="title_phone_description">உள்வரும் மற்றும் வெளிச்செல்லும் அழைப்பு நிலையைக் கண்டறிய எங்களுக்கு உதவுங்கள்.</string>
+    <string name="title_call_log">அழைப்பு பதிவுகள்</string>
+    <string name="title_call_log_description">பயனரின் அழைப்புப் பதிவுத் தரவைப் படிக்கவும் எழுதவும் பயன்பாட்டை அனுமதிக்கிறது.</string>
+    <string name="title_overlay_permissiom">மேலடுக்கு அனுமதி</string>
+    <string name="title_overlay_description">இலவச அழைப்புக்குப் பின் அம்சத்தைப் பயன்படுத்த, மேலடுக்கு அனுமதியைக் கேட்க வேண்டும்.</string>
+    <string name="allow_permission">அனுமதி அனுமதி</string>
+
+    <string name="dialog_perm_title">அனுமதிகள் வேண்டும்</string>
+    <string name="dialog_perm_desc">இந்த அம்சத்தைப் பயன்படுத்த, இந்த பயன்பாட்டிற்கு அனுமதி தேவை. பயன்பாட்டு அமைப்புகளில் அவற்றை வழங்கலாம்.</string>
+    <string name="dialog_perm_go_to_setting">அமைப்புகளுக்குச் செல்லவும்</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">இயல்புநிலைக்கு அமை</string>
+    <string name="set_as_default_description"><![CDATA[கீழே உள்ள பொத்தானைக் கிளிக் செய்வதன் மூலம் உங்கள் இயல்புநிலை அழைப்பாளர் ஐடி & ஸ்பேம் பயன்பாடாக தொடர்பை உருவாக்கவும்]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">பிடித்தது</string>
+    <string name="home_recent">அண்மையில்</string>
+    <string name="home_contacts">தொடர்புகள்</string>
+    <string name="home_search_here">இங்கே தேடவும்</string>
+    <string name="home_other">மற்றவை</string>
+    <string name="home_block_contacts">தொடர்புகளைத் தடு</string>
+    <string name="home_settings">அமைப்புகள்</string>
+    <string name="home_rate">மதிப்பிடவும்</string>
+    <string name="home_share">பகிர்</string>
+    <string name="home_feedback">பின்னூட்டம்</string>
+    <string name="home_privacy_policy">தனியுரிமைக் கொள்கை</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">பொது</string>
+    <string name="make_default"><![CDATA[தொடர்புகளை இயல்புநிலை CallerId & Spam app ஆக அமைக்கவும்]]></string>
+    <string name="show_caller_dialog">அழைப்பிற்குப் பிறகு அழைப்பாளர் ஐடியைக் காட்டு</string>
+    <string name="show_quick_decline_messages">செய்திகளை விரைவாக நிராகரித்தல்</string>
+    <string name="show_dial_pad_sound">டயல் பேட் ஒலி</string>
+    <string name="show_led_flash">லெட் ஃப்ளாஷ்</string>
+    <string name="setting_dark_theme">இருண்ட தீம்</string>
+    <string name="toast_flash_not_supported">உங்கள் சாதனம் லெட் ஃபிளாஷை ஆதரிக்கவில்லை</string>
+
+    <string name="setting_edit_contact">தொடர்பைத் திருத்து</string>
+    <string name="default_account">புதிய தொடர்புகளுக்கான இயல்புநிலை கணக்கு</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">வெளிசெல்லும் அழைப்பு</string>
+    <string name="declined_call">நிராகரிக்கப்பட்ட அழைப்பு</string>
+    <string name="block_call">தடுக்கப்பட்ட அழைப்பு</string>
+    <string name="missed_Call">தவறிய அழைப்பு</string>
+    <string name="incoming">உள்வரும் அழைப்பு</string>
+    <string name="block">தடு</string>
+    <string name="unblock">தடைநீக்கு</string>
+
+    <string name="recent_call">அழைப்பு</string>
+    <string name="video_call">வீடியோ அழைப்பு</string>
+    <string name="recent_info">தகவல்</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">தொடர்பு பட்டியலில் சேர்க்க</string>
+
+    <!--  Contact info  -->
+    <string name="call">அழைப்பு</string>
+    <string name="message">செய்தி</string>
+    <string name="video">காணொளி</string>
+    <string name="info_contact_info">தொடர்பு தகவல்</string>
+    <string name="info_contact_history">தொடர்பு வரலாறு</string>
+    <string name="info_see_all">அனைத்தையும் பார்</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">தொகுதி எண்கள்</string>
+    <string name="block_call_from_unknown">தெரியாத எண்களில் இருந்து வரும் அழைப்புகளைத் தடு</string>
+    <string name="block_add_phone_hint">தொலைபேசி எண்ணைச் சேர்க்கவும்</string>
+    <string name="block_enter_valid_number">சரியான எண்ணை உள்ளிடவும்</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">அழைப்பு வரலாறு</string>
+    <string name="history_no_data">வேறு தகவல்கள் இல்லை</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">தொடர்பை ஒத்திசைக்கவும்</string>
+    <string name="popup_clear_history">தெளிவான வரலாறு</string>
+    <string name="popup_speed_dial_numbers">வேக டயல் எண்கள்</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">உடனடி பதிலளிப்பு</string>
+    <string name="quick_response_add">கூட்டு</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">அழைப்பை வடிகட்டவும்</string>
+    <string name="filter_all_calls">அனைத்து அழைப்புகள்</string>
+    <string name="filter_missed_calls">தவறவிட்ட அழைப்புகள்</string>
+    <string name="filter_incoming_calls">உள்வரும் அழைப்புகள்</string>
+    <string name="filter_outgoing_calls">வெளிச்செல்லும் அழைப்புக்கள்</string>
+    <string name="filter_reset">மீட்டமை</string>
+    <string name="filter_apply">விண்ணப்பிக்கவும்</string>
+    <string name="filter_sim_all">அனைத்து சிம்</string>
+    <string name="filter_sim_one">சிம் 1</string>
+    <string name="filter_sim_two">சிம் 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">விரைவான பதிலைச் சேர்க்கவும்</string>
+    <string name="dialog_quick_response_edit">விரைவான பதிலைத் திருத்தவும்</string>
+    <string name="dialog_quick_response_hint">செய்தி</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">வேக டயல்</string>
+    <string name="speed_dial_desc">வேக டயல் எண்ணுக்கு தொடர்பை ஒதுக்கவும்.</string>
+    <string name="speed_dial_not_assign">ஒதுக்கவில்லை</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">அழைப்புகளை நிர்வகிக்கவும்</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">பெயர் முன்னொட்டு</string>
+    <string name="first_name_hint">முதல் பெயர்</string>
+    <string name="middle_name_hint">நடுத்தர பெயர்</string>
+    <string name="surname_hint">குடும்ப பெயர்</string>
+    <string name="name_suffix_hint">பெயர் பின்னொட்டு</string>
+
+    <string name="company_name_hint">நிறுவனத்தின் பெயர்</string>
+    <string name="department_hint">துறை</string>
+    <string name="title_hint">தலைப்பு</string>
+
+    <string name="phone_number_hint">தொலைபேசி எண்</string>
+    <string name="email_hint">மின்னஞ்சல்</string>
+    <string name="significant_date_hint">குறிப்பிடத்தக்க தேதி</string>
+    <string name="website_hint">இணையதளம்</string>
+    <string name="notes_hint">குறிப்புகள்</string>
+    <string name="label_hint">லேபிள்</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">பற்றி</string>
+    <string name="accept">ஏற்றுக்கொள்</string>
+    <string name="accounts">கணக்குகள்</string>
+    <string name="add_contact">புதிய தொடர்பை உருவாக்கவும்</string>
+    <string name="add_email">மின்னஞ்சலைச் சேர்க்கவும்</string>
+    <string name="add_phone_number">தொலைபேசி எண்ணைச் சேர்க்கவும்</string>
+    <string name="add_picture">படத்தைச் சேர்க்கவும்</string>
+    <string name="addcall">அழைப்பைச் சேர்க்கவும்</string>
+    <string name="all_contacts_0">அனைத்து தொடர்புகளும் 0</string>
+    <string name="always_use_this_sim">எப்போதும் இந்த சிம்மை பயன்படுத்தவும்</string>
+
+
+    <string name="block_contact">தொடர்பைத் தடு</string>
+    <!--    <string name="block_contact_desc">இந்த தொடர்பிலிருந்து நீங்கள் இனி எந்த அழைப்புகளையும் செய்திகளையும் பெறமாட்டீர்கள்.</string>-->
+    <string name="block_contact_desc">இந்த எண்ணைத் தடுக்க விரும்புகிறீர்களா?</string>
+    <string name="toast_block_contact">தொடர்பு வெற்றிகரமாக தடுக்கப்பட்டது</string>
+
+    <string name="default_app_desc">தொடர்புகளில் உள்ள அனைத்து அம்சங்களையும் பயன்படுத்த, உங்கள் இயல்புநிலை ஃபோன் பயன்பாடாக தொடர்புகள் பயன்பாட்டை உருவாக்க வேண்டும்.</string>
+    <string name="block_contect_default_app">தொடர்பைத் தடுக்க, உங்கள் இயல்புநிலை ஃபோன் பயன்பாடாகத் தொடர்பை ஏற்படுத்த வேண்டும்</string>
+    <string name="block_error_message">இந்த தொடர்பை நீங்கள் தடுக்கவில்லை. இந்த தொடர்பில் முதலில் ஃபோன் எண்ணைச் சேர்க்கவும்.</string>
+    <string name="block_not_supported">இந்தச் சாதனத்தில் பிளாக் எண் அம்சம் ஆதரிக்கப்படவில்லை.</string>
+    <string name="calendar">நாட்காட்டி</string>
+    <string name="call_ended">அழைப்பு முடிந்தது</string>
+    <string name="call_ending">அழைப்பு முடிவு</string>
+    <string name="call_on_hold">அழைப்பு நிறுத்தி வைக்கப்பட்டுள்ளது</string>
+    <string name="call_swap">அழைப்பை ஸ்வைப் செய்யவும்</string>
+    <string name="can_call_you_later">நான் உங்களை பிறகு அழைக்கலாமா?</string>
+    <string name="can_not_talk_right_now">மன்னிக்கவும், என்னால் இப்போது பேச முடியாது</string>
+    <string name="change_photo">புகைப்படத்தை மாற்று</string>
+
+
+    <string name="conference_manage">மாநாட்டு அழைப்பு</string>
+    <string name="confirm_message_of_delete">இந்த தொடர்பை நிச்சயமாக நீக்க விரும்புகிறீர்களா.</string>
+
+    <string name="contact_label">லேபிள்</string>
+    <string name="contact_name">தொடர்பு பெயர்</string>
+    <string name="contacts">தொடர்புகள்</string>
+    <string name="create_contact">தொடர்பை உருவாக்கவும்</string>
+    <string name="decline">நிராகரி</string>
+
+
+    <string name="add">கூட்டு</string>
+    <string name="update">புதுப்பிக்கவும்</string>
+    <string name="delete">அழி</string>
+    <string name="share">பகிர்</string>
+    <string name="set_ringtone">ரிங்டோனை அமைக்கவும்</string>
+
+
+    <string name="delete_contact_message">இந்த எண்ணை நிச்சயமாக நீக்க வேண்டுமா?</string>
+
+    <string name="edit_contact">தொடர்பைத் திருத்தவும்</string>
+    <string name="fields_empty">குறைந்தது 1 புலம் தேவை!</string>
+
+
+    <string name="more_fields">மேலும் புலங்கள்</string>
+    <string name="name_format">பெயர் வடிவம்</string>
+
+
+    <string name="duration">கால அளவு</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="email_validation">முதலில் மின்னஞ்சலைச் சேர்க்கவும்!</string>
+    <string name="event">குறிப்பிடத்தக்க தேதி</string>
+
+
+    <string name="gmail_not_install">ஜிமெயில் நிறுவப்படவில்லை</string>
+    <string name="first_name_first">முதல் பெயர் முதலில்</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">வரலாறு</string>
+    <string name="i_am_on_my_way">நான் போகிறேன்</string>
+
+
+    <string name="hold">பிடி</string>
+    <string name="hold_call">அழைப்பை பிடி</string>
+    <string name="dialing">டயல் செய்கிறது…</string>
+    <string name="is_calling">அழைக்கிறது…</string>
+    <string name="keypad">விசைப்பலகை</string>
+    <string name="merge">ஒன்றிணைக்கவும்</string>
+
+
+    <string name="lbl_find">தொடர்பைக் கண்டறிந்து அனுமதி வழங்கவும்</string>
+
+
+    <string name="message_delete_history">எல்லா வரலாற்றையும் அழிக்க விரும்புகிறீர்களா?</string>
+    <string name="messages">செய்திகள்</string>
+
+
+    <string name="no_app_found">அழைப்பிற்கான பயன்பாடு எதுவும் இல்லை</string>
+    <string name="no_app_found_hendle_this_event">இந்த நிகழ்வைக் கையாள எந்தப் பயன்பாடும் இல்லை!</string>
+    <string name="no_block_contact">பிளாக் தொடர்பு இல்லை</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">பிடித்த தொடர்பு எதுவும் இல்லை!</string>
+    <string name="no_recent_found">சமீபத்தில் எதுவும் இல்லை!</string>
+    <string name="no_contacts_found">தொடர்பு இல்லை!</string>
+
+    <string name="no_title">தலைப்பு இல்லை</string>
+    <string name="notes">குறிப்புகள்</string>
+    <string name="number_blocked_msg">எண் வெற்றிகரமாக தடுக்கப்பட்டது</string>
+    <string name="number_unblocked_msg">எண் வெற்றிகரமாக தடைநீக்கப்பட்டது</string>
+    <string name="number_not">எண் கிடைக்கவில்லை</string>
+    <string name="number_of_calls_with">உடன் அழைக்கிறது</string>
+    <string name="older">பழையது</string>
+    <string name="ongoing_call">வெளிசெல்லும் அழைப்பு</string>
+
+
+    <string name="permission_set_as_default">இந்த ஆப்ஸை இயல்புநிலை ஃபோன் ஆப்ஸாக அமைக்க விரும்புகிறீர்களா? பயன்பாட்டு அமைப்புகளில் அவற்றை வழங்கலாம்.</string>
+    <string name="phone">தொலைபேசி</string>
+    <string name="phone_validation">முதலில் தொலைபேசி எண்ணைச் சேர்க்கவும்!</string>
+
+    <string name="private_number">தனிப்பட்ட எண்கள்</string>
+
+    <string name="remind_me_about">பற்றி எனக்கு நினைவூட்டு</string>
+    <string name="remove_photo">புகைப்படத்தை அகற்று</string>
+    <string name="resume_call">அழைப்பைத் தொடரவும்</string>
+    <string name="save">சேமிக்கவும்</string>
+    <string name="save_to">சேமி</string>
+    <string name="search_contacts">தேடு தொடர்பு</string>
+    <string name="search_menu_title">தேடு</string>
+    <string name="select">தேர்ந்தெடு</string>
+    <string name="select_sim">சிம்மைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="selected_account">நீங்கள் தேர்ந்தெடுத்த கணக்கு</string>
+    <string name="selected_contact">0 தேர்ந்தெடுக்கப்பட்டது</string>
+    <string name="selected_photo">புகைப்படத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="send_a_message">செய்தி அனுப்பு</string>
+    <string name="send_mail">மின்னஞ்சல் அனுப்புக</string>
+
+    <string name="settings">அமைப்புகள்</string>
+
+    <string name="share_via">மூலம் பகிரவும்</string>
+    <string name="share_your_expirence">உங்கள் அனுபவத்தைப் பகிர்ந்து கொள்ளுங்கள்</string>
+
+    <string name="sim_not_available">சிம் நெட்வொர்க் கிடைக்கவில்லை.....!</string>
+    <string name="sortby">வரிசைப்படுத்து</string>
+    <string name="speaker">பேச்சாளர்</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">இன்று</string>
+    <string name="string_yesterday">நேற்று</string>
+
+    <string name="surname">குடும்ப பெயர்</string>
+    <string name="surname_first">முதலில் குடும்பப்பெயர்</string>
+    <string name="take_new_photo">புதிய புகைப்படம் எடுங்கள்</string>
+    <string name="text">உரை</string>
+    <string name="this_month">இந்த மாதம்</string>
+    <string name="title">தலைப்பு</string>
+    <string name="title_anniversary">ஆண்டுவிழா</string>
+    <string name="title_birthday">பிறந்தநாள்</string>
+    <string name="title_cancel">ரத்து செய்</string>
+    <string name="title_go_to_setting">அமைப்புகளுக்குச் செல்லவும்</string>
+    <string name="title_help_to_identify">இந்த எண்ணைக் கண்டறிய பிறருக்கு உதவவும்</string>
+    <string name="title_home">வீடு</string>
+    <string name="title_home_fax">முகப்பு தொலைநகல்</string>
+    <string name="title_lang">மொழி</string>
+    <string name="title_main">முக்கிய</string>
+    <string name="title_mobile">கைபேசி</string>
+    <string name="title_mute">முடக்கு</string>
+    <string name="title_no_lable">முத்திரை இல்லை</string>
+    <string name="title_other">மற்றவை</string>
+    <string name="title_pager">பேஜர்</string>
+    <string name="title_private_number">தனிப்பட்ட எண்</string>
+    <string name="title_save">சேமிக்கவும்</string>
+    <string name="title_sim_not_register">பதிவுசெய்யப்படாத நெட்வொர்க்</string>
+    <string name="title_summary">சுருக்கம்</string>
+    <string name="title_today">இன்று</string>
+    <string name="title_work">வேலை</string>
+    <string name="title_work_fax">பணி தொலைநகல்</string>
+    <string name="turn_microphone_off">மைக்ரோஃபோனை அணைக்கவும்</string>
+    <string name="turn_microphone_on">மைக்ரோஃபோனை இயக்கவும்</string>
+    <string name="turn_speaker_off">ஸ்பீக்கரை அணைக்கவும்</string>
+    <string name="turn_speaker_on">ஸ்பீக்கரை இயக்கவும்</string>
+    <string name="unknown">தெரியவில்லை</string>
+    <string name="unknown_caller">அறியப்படாத அழைப்பாளர்</string>
+    <string name="unknown_error_occurred">அறியப்படாத பிழை ஏற்பட்டது</string>
+
+    <string name="web">வலை</string>
+    <string name="website">இணையதளம்</string>
+    <string name="write_personal_message">தனிப்பட்ட செய்தியை எழுதுங்கள்</string>
+
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை</string>
+    <string name="cancel">ரத்து செய்</string>
+    <string name="ok">சரி</string>
+
+    <string name="no_ringtone_found">ரிங்டோன் கிடைக்கவில்லை!</string>
+    <string name="ringtone_set_successfully">ரிங்டோன் வெற்றிகரமாக அமைக்கப்பட்டது</string>
+
+    <string name="toast_please_enter_firstname">முதல் பெயரை உள்ளிடவும்</string>
+    <string name="toast_please_enter_surname">தயவுசெய்து குடும்பப்பெயரை உள்ளிடவும்</string>
+    <string name="toast_please_enter_valid_phone_no">சரியான தொலைபேசி எண்ணை உள்ளிடவும்</string>
+    <string name="toast_please_enter_valid_email">சரியான மின்னஞ்சலை உள்ளிடவும்</string>
+
+    <string name="can_t_talk_right_now">இப்போதைக்கு பேச முடியாது…</string>
+    <string name="i_ll_call_you_later">உன்னை நான் பிறகு அழைக்கிறேன்.</string>
+    <string name="i_m_on_the_way">நான் வழியில் இருக்கிறேன்.</string>
+    <string name="can_t_talk_now_call_me_later">இப்போது பேச முடியாது. என்னை பிறகு அழைக்கவும்.</string>
+    <string name="toast_number_already_blocked">எண் ஏற்கனவே தடுக்கப்பட்டது</string>
+    <string name="no_app_found_to_handle_this_action">இந்தச் செயலைக் கையாள எந்தப் பயன்பாடும் இல்லை</string>
+    <string name="choose_sim_for_make_call">அழைப்பதற்கு சிம்மை தேர்வு செய்யவும்</string>
+    <string name="contacts_with_phone_numbers">தொலைபேசி எண்களுடன் தொடர்புகள்</string>
+    <string name="welcome_to_contacts">தொடர்புகளுக்கு வரவேற்கிறோம்</string>
+
+    <string name="premium_purchase_successful">கொள்முதல் வெற்றிகரமாக உள்ளது</string>
+
+</resources> 
+

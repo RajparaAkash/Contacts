@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:paddingHorizontal="@dimen/_10sdp"
+    android:paddingTop="@dimen/_15sdp"
+    android:paddingBottom="@dimen/_55sdp">
+
+    <View
+        android:id="@+id/scroll_bar"
+        android:layout_width="@dimen/_15sdp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="@drawable/contact_bg_scroll" />
+
+    <LinearLayout
+        android:layout_width="@dimen/_15sdp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_2sdp"
+            android:background="@drawable/contact_bg_scroll_dot" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/scroll_handle"
+        android:layout_width="@dimen/_15sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/contact_bg_scroll_thumb" />
+
+</FrameLayout>

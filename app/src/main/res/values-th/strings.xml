@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">รายชื่อผู้ติดต่อ</string>
+
+    <string name="incoming_call">สายเรียกเข้า</string>
+    <string name="whatsapp">วอทส์แอป</string>
+    <string name="voice_call">การโทรด้วยเสียง</string>
+    <string name="connected_apps">แอพที่เชื่อมต่ออยู่</string>
+    <string name="answer">ตอบ</string>
+    <string name="more">เพิ่มเติม</string>
+    <string name="today">วันนี้</string>
+    <string name="yesterday">เมื่อวานนี้</string>
+
+    <string name="whoops">อ๊ะ!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">การเชื่อมต่ออินเทอร์เน็ตช้าหรือไม่มีเลย โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ</string>
+    <string name="retry">ลองอีกครั้ง</string>
+    <string name="go_to_settings">ไปที่การตั้งค่า</string>
+    <string name="dismiss">อนุญาตให้ออกไป</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">ขออภัย ไม่สามารถให้บริการได้เนื่องจากการบำรุงรักษา โปรดลองอีกครั้งในภายหลังหรือลองอีกครั้ง ขอบคุณ !</string>
+    <string name="app_under_maintenance">แอพอยู่ระหว่างการบำรุงรักษา</string>
+    <string name="showing_ad_please_wait">กำลังแสดงโฆษณา กรุณารอสักครู่…</string>
+    <string name="showing_ad_please_wait_desc">คำเตือนนี้มีไว้เพื่อให้คุณไม่เผลอคลิก\nโฆษณา</string>
+    <string name="ad">ค.ศ</string>
+    <string name="continue_to_app">ไปที่แอปต่อไป</string>
+    <string name="accept_and_continue"><![CDATA[ยอมรับและดำเนินการต่อ]]></string>
+    <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">คุณแน่ใจ !!!\nคุณต้องการออกจากแอปหรือไม่</string>
+    <string name="press_here_to_exit">กดที่นี่เพื่อออก</string>
+    <string name="an_update_has_just_been_downloaded">เพิ่งดาวน์โหลดการอัปเดต</string>
+
+    <string name="you_leaving">คุณกำลังจะออก…</string>
+    <string name="loading_ad">กำลังโหลดโฆษณา กรุณารอสักครู่…</string>
+
+
+    <string name="toast_message_sent">ส่งข้อความ</string>
+    <string name="toast_number_not_delete">เบอร์ไม่ลบ! บางอย่างผิดพลาด</string>
+    <string name="toast_no_email_clients">ไม่มีโปรแกรมรับส่งอีเมลติดตั้งอยู่</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[หมายเลขโทรศัพท์และรายชื่อติดต่อ]]></string>
+    <string name="privacy_get_started">เริ่ม</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">ยินดีต้อนรับสู่\nผู้ติดต่อ</string>
+    <string name="allow_permission_desription">อนุญาตให้อนุญาตให้โทรออกและแก้ไขที่อยู่ติดต่อ</string>
+    <string name="allow_contact">ติดต่อ</string>
+    <string name="title_contact_description">อนุญาตให้แอปนี้อ่านและเขียนรายชื่อติดต่อในหน้าจอผู้โทร</string>
+    <string name="title_phone">สถานะโทรศัพท์</string>
+    <string name="title_phone_description">ช่วยเราระบุสถานะการโทรเข้าและโทรออก</string>
+    <string name="title_call_log">บันทึกการโทร</string>
+    <string name="title_call_log_description">อนุญาตให้แอปพลิเคชันอ่านและเขียนข้อมูลบันทึกการโทรของผู้ใช้</string>
+    <string name="title_overlay_permissiom">การอนุญาตซ้อนทับ</string>
+    <string name="title_overlay_description">หากต้องการใช้คุณสมบัติหลังการโทรฟรี เราต้องขออนุญาตซ้อนทับ</string>
+    <string name="allow_permission">อนุญาติ</string>
+
+    <string name="dialog_perm_title">ต้องการสิทธิ์</string>
+    <string name="dialog_perm_desc">แอพนี้ต้องได้รับอนุญาตเพื่อใช้คุณสมบัตินี้ คุณสามารถให้สิทธิ์ได้ในการตั้งค่าแอป</string>
+    <string name="dialog_perm_go_to_setting">ไปที่การตั้งค่า</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">ตั้งเป็นค่าเริ่มต้น</string>
+    <string name="set_as_default_description"><![CDATA[ทำให้ผู้ติดต่อเป็นแอปหมายเลขผู้โทรและสแปมเริ่มต้นของคุณโดยคลิกปุ่มด้านล่าง]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">ที่ชื่นชอบ</string>
+    <string name="home_recent">ล่าสุด</string>
+    <string name="home_contacts">รายชื่อผู้ติดต่อ</string>
+    <string name="home_search_here">ค้นหาที่นี่</string>
+    <string name="home_other">อื่น</string>
+    <string name="home_block_contacts">บล็อกผู้ติดต่อ</string>
+    <string name="home_settings">การตั้งค่า</string>
+    <string name="home_rate">ประเมิน</string>
+    <string name="home_share">แบ่งปัน</string>
+    <string name="home_feedback">ข้อเสนอแนะ</string>
+    <string name="home_privacy_policy">นโยบายความเป็นส่วนตัว</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">ทั่วไป</string>
+    <string name="make_default"><![CDATA[ตั้งค่าผู้ติดต่อเป็นแอปหมายเลขผู้โทรและสแปมเริ่มต้น]]></string>
+    <string name="show_caller_dialog">แสดงหมายเลขผู้โทรเข้าหลังการโทร</string>
+    <string name="show_quick_decline_messages">ข้อความปฏิเสธด่วน</string>
+    <string name="show_dial_pad_sound">เสียงแป้นกดหมายเลข</string>
+    <string name="show_led_flash">นำแฟลช</string>
+    <string name="setting_dark_theme">ธีมสีเข้ม</string>
+    <string name="toast_flash_not_supported">อุปกรณ์ของคุณไม่รองรับแฟลช LED</string>
+
+    <string name="setting_edit_contact">แก้ไขการติดต่อ</string>
+    <string name="default_account">บัญชีเริ่มต้นสำหรับผู้ติดต่อใหม่</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">โทรออก</string>
+    <string name="declined_call">สายที่ถูกปฏิเสธ</string>
+    <string name="block_call">การโทรที่ถูกบล็อก</string>
+    <string name="missed_Call">สายที่ไม่ได้รับ</string>
+    <string name="incoming">สายเรียกเข้า</string>
+    <string name="block">ปิดกั้น</string>
+    <string name="unblock">เลิกบล็อก</string>
+
+    <string name="recent_call">เรียก</string>
+    <string name="video_call">การสนทนาทางวิดีโอ</string>
+    <string name="recent_info">ข้อมูล</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">เพิ่มในรายชื่อผู้ติดต่อ</string>
+
+    <!--  Contact info  -->
+    <string name="call">เรียก</string>
+    <string name="message">ข้อความ</string>
+    <string name="video">วีดีโอ</string>
+    <string name="info_contact_info">ข้อมูลติดต่อ</string>
+    <string name="info_contact_history">ประวัติการติดต่อ</string>
+    <string name="info_see_all">ดูทั้งหมด</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">บล็อกหมายเลข</string>
+    <string name="block_call_from_unknown">บล็อกการโทรจากหมายเลขที่ไม่รู้จัก</string>
+    <string name="block_add_phone_hint">เพิ่มหมายเลขโทรศัพท์</string>
+    <string name="block_enter_valid_number">กรุณากรอกหมายเลขที่ถูกต้อง</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">ประวัติการโทร</string>
+    <string name="history_no_data">ไม่พบข้อมูล</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">ซิงค์ผู้ติดต่อ</string>
+    <string name="popup_clear_history">ล้างประวัติ</string>
+    <string name="popup_speed_dial_numbers">หมายเลขโทรด่วน</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">ตอบสนองอย่างรวดเร็ว</string>
+    <string name="quick_response_add">เพิ่ม</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">กรองการโทร</string>
+    <string name="filter_all_calls">ทุกสาย</string>
+    <string name="filter_missed_calls">สายที่ไม่ได้รับ</string>
+    <string name="filter_incoming_calls">สายเรียกเข้า</string>
+    <string name="filter_outgoing_calls">การโทรออก</string>
+    <string name="filter_reset">รีเซ็ต</string>
+    <string name="filter_apply">นำมาใช้</string>
+    <string name="filter_sim_all">ซิมทั้งหมด</string>
+    <string name="filter_sim_one">ซิม 1</string>
+    <string name="filter_sim_two">ซิม 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">เพิ่มการตอบสนองอย่างรวดเร็ว</string>
+    <string name="dialog_quick_response_edit">แก้ไขการตอบสนองอย่างรวดเร็ว</string>
+    <string name="dialog_quick_response_hint">ข้อความ</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">สายความเร็ว</string>
+    <string name="speed_dial_desc">กำหนดรายชื่อให้กับหมายเลขโทรด่วน</string>
+    <string name="speed_dial_not_assign">ไม่มอบหมาย</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">จัดการการโทร</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">คำนำหน้าชื่อ</string>
+    <string name="first_name_hint">ชื่อจริง</string>
+    <string name="middle_name_hint">ชื่อกลาง</string>
+    <string name="surname_hint">นามสกุล</string>
+    <string name="name_suffix_hint">คำต่อท้ายชื่อ</string>
+
+    <string name="company_name_hint">ชื่อ บริษัท</string>
+    <string name="department_hint">แผนก</string>
+    <string name="title_hint">ชื่อ</string>
+
+    <string name="phone_number_hint">หมายเลขโทรศัพท์</string>
+    <string name="email_hint">อีเมล</string>
+    <string name="significant_date_hint">วันสำคัญ</string>
+    <string name="website_hint">เว็บไซต์</string>
+    <string name="notes_hint">หมายเหตุ</string>
+    <string name="label_hint">ฉลาก</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">เกี่ยวกับ</string>
+    <string name="accept">ยอมรับ</string>
+    <string name="accounts">บัญชี</string>
+    <string name="add_contact">สร้างผู้ติดต่อใหม่</string>
+    <string name="add_email">เพิ่มอีเมล</string>
+    <string name="add_phone_number">เพิ่มหมายเลขโทรศัพท์</string>
+    <string name="add_picture">เพิ่มรูปภาพ</string>
+    <string name="addcall">เพิ่มการโทร</string>
+    <string name="all_contacts_0">ผู้ติดต่อทั้งหมด 0</string>
+    <string name="always_use_this_sim">ใช้ซิมนี้ทุกครั้ง</string>
+
+
+    <string name="block_contact">บล็อกการติดต่อ</string>
+    <!--    <string name="block_contact_desc">คุณจะไม่ได้รับสายหรือข้อความจากผู้ติดต่อรายนี้อีกต่อไป</string>-->
+    <string name="block_contact_desc">คุณแน่ใจหรือไม่ว่าต้องการบล็อกหมายเลขนี้</string>
+    <string name="toast_block_contact">บล็อกการติดต่อเรียบร้อยแล้ว</string>
+
+    <string name="default_app_desc">หากต้องการใช้คุณสมบัติทั้งหมดที่มีอยู่ในรายชื่อติดต่อ คุณจะต้องทำให้แอปรายชื่อติดต่อเป็นแอปโทรศัพท์เริ่มต้นของคุณ</string>
+    <string name="block_contect_default_app">ในการบล็อกผู้ติดต่อ คุณต้องทำให้ผู้ติดต่อเป็นแอปโทรศัพท์เริ่มต้นของคุณ</string>
+    <string name="block_error_message">คุณไม่ได้บล็อกผู้ติดต่อรายนี้ โปรดเพิ่มหมายเลขโทรศัพท์แรกในรายชื่อติดต่อนี้</string>
+    <string name="block_not_supported">อุปกรณ์นี้ไม่รองรับฟีเจอร์หมายเลขบล็อก</string>
+    <string name="calendar">ปฏิทิน</string>
+    <string name="call_ended">จบการสนทนา</string>
+    <string name="call_ending">การวางสาย</string>
+    <string name="call_on_hold">พักสาย</string>
+    <string name="call_swap">ปัดสาย</string>
+    <string name="can_call_you_later">ฉันสามารถโทรหาคุณทีหลังได้ไหม?</string>
+    <string name="can_not_talk_right_now">ขออภัย ฉันไม่สามารถพูดคุยได้ในขณะนี้</string>
+    <string name="change_photo">เปลี่ยนรูป</string>
+
+
+    <string name="conference_manage">การประชุมทางโทรศัพท์</string>
+    <string name="confirm_message_of_delete">คุณแน่ใจหรือไม่ว่าต้องการลบที่อยู่ติดต่อนี้</string>
+
+    <string name="contact_label">ฉลาก</string>
+    <string name="contact_name">ชื่อผู้ติดต่อ</string>
+    <string name="contacts">รายชื่อผู้ติดต่อ</string>
+    <string name="create_contact">สร้างการติดต่อ</string>
+    <string name="decline">ปฏิเสธ</string>
+
+
+    <string name="add">เพิ่ม</string>
+    <string name="update">อัปเดต</string>
+    <string name="delete">ลบ</string>
+    <string name="share">แบ่งปัน</string>
+    <string name="set_ringtone">ตั้งเสียงเรียกเข้า</string>
+
+
+    <string name="delete_contact_message">แน่ใจว่าคุณต้องการลบหมายเลขนี้?</string>
+
+    <string name="edit_contact">แก้ไขผู้ติดต่อ</string>
+    <string name="fields_empty">ต้องมีอย่างน้อย 1 ช่อง!</string>
+
+
+    <string name="more_fields">ฟิลด์เพิ่มเติม</string>
+    <string name="name_format">รูปแบบชื่อ</string>
+
+
+    <string name="duration">ระยะเวลา</string>
+    <string name="email">อีเมล</string>
+    <string name="email_validation">กรุณาเพิ่มอีเมลก่อน!</string>
+    <string name="event">วันสำคัญ</string>
+
+
+    <string name="gmail_not_install">ไม่ได้ติดตั้ง Gmail</string>
+    <string name="first_name_first">ชื่อแรกก่อน</string>
+    <string name="header_special_character">-</string>
+    <string name="header_starred">-</string>
+    <string name="history">ประวัติศาสตร์</string>
+    <string name="i_am_on_my_way">ฉันกำลังไป</string>
+
+
+    <string name="hold">ถือ</string>
+    <string name="hold_call">พักสาย</string>
+    <string name="dialing">กำลังโทรออก…</string>
+    <string name="is_calling">กำลังโทร…</string>
+    <string name="keypad">ปุ่มกด</string>
+    <string name="merge">ผสาน</string>
+
+
+    <string name="lbl_find">ค้นหาผู้ติดต่อและอนุญาต</string>
+
+
+    <string name="message_delete_history">คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติทั้งหมด</string>
+    <string name="messages">ข้อความ</string>
+
+
+    <string name="no_app_found">ไม่พบแอปสำหรับโทรออก</string>
+    <string name="no_app_found_hendle_this_event">ไม่พบแอปที่จะจัดการกิจกรรมนี้!</string>
+    <string name="no_block_contact">ไม่มีการบล็อคการติดต่อ</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">ไม่พบผู้ติดต่อที่ชื่นชอบ!</string>
+    <string name="no_recent_found">ไม่พบล่าสุด!</string>
+    <string name="no_contacts_found">ไม่พบผู้ติดต่อ!</string>
+
+    <string name="no_title">ไม่มีชื่อเรื่อง</string>
+    <string name="notes">หมายเหตุ</string>
+    <string name="number_blocked_msg">บล็อกหมายเลขเรียบร้อยแล้ว</string>
+    <string name="number_unblocked_msg">ปลดล็อคหมายเลขสำเร็จแล้ว</string>
+    <string name="number_not">ไม่พบหมายเลข</string>
+    <string name="number_of_calls_with">โทรด้วย</string>
+    <string name="older">แก่กว่า</string>
+    <string name="ongoing_call">โทรออก</string>
+
+
+    <string name="permission_set_as_default">คุณต้องการให้แอปนี้ตั้งเป็นแอปโทรศัพท์เริ่มต้นหรือไม่ คุณสามารถให้สิทธิ์ได้ในการตั้งค่าแอป</string>
+    <string name="phone">โทรศัพท์</string>
+    <string name="phone_validation">กรุณาเพิ่มหมายเลขโทรศัพท์ก่อน!</string>
+
+    <string name="private_number">เบอร์ส่วนตัว</string>
+
+    <string name="remind_me_about">เตือนฉันเกี่ยวกับ</string>
+    <string name="remove_photo">ลบรูปภาพ</string>
+    <string name="resume_call">โทรต่อ</string>
+    <string name="save">บันทึก</string>
+    <string name="save_to">บันทึกที่</string>
+    <string name="search_contacts">ค้นหาผู้ติดต่อ</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="select">เลือก</string>
+    <string name="select_sim">เลือกซิม</string>
+    <string name="selected_account">บัญชีที่คุณเลือก</string>
+    <string name="selected_contact">เลือกแล้ว 0 รายการ</string>
+    <string name="selected_photo">เลือกรูปภาพ</string>
+    <string name="send_a_message">ส่งข้อความ</string>
+    <string name="send_mail">ส่งอีเมล์</string>
+
+    <string name="settings">การตั้งค่า</string>
+
+    <string name="share_via">แบ่งปันผ่านทาง</string>
+    <string name="share_your_expirence">แบ่งปันประสบการณ์ของคุณ</string>
+
+    <string name="sim_not_available">เครือข่ายซิมไม่พร้อมใช้งาน.....!</string>
+    <string name="sortby">เรียงตาม</string>
+    <string name="speaker">วิทยากร</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">วันนี้</string>
+    <string name="string_yesterday">เมื่อวาน</string>
+
+    <string name="surname">นามสกุล</string>
+    <string name="surname_first">นามสกุลก่อน</string>
+    <string name="take_new_photo">ถ่ายรูปใหม่ครับ</string>
+    <string name="text">ข้อความ</string>
+    <string name="this_month">เดือนนี้</string>
+    <string name="title">ชื่อ</string>
+    <string name="title_anniversary">วันครบรอบปี</string>
+    <string name="title_birthday">วันเกิด</string>
+    <string name="title_cancel">ยกเลิก</string>
+    <string name="title_go_to_setting">ไปที่การตั้งค่า</string>
+    <string name="title_help_to_identify">ช่วยให้ผู้อื่นระบุหมายเลขนี้</string>
+    <string name="title_home">บ้าน</string>
+    <string name="title_home_fax">แฟกซ์ที่บ้าน</string>
+    <string name="title_lang">ภาษา</string>
+    <string name="title_main">หลัก</string>
+    <string name="title_mobile">มือถือ</string>
+    <string name="title_mute">ปิดเสียง</string>
+    <string name="title_no_lable">ไม่มีฉลาก</string>
+    <string name="title_other">อื่น</string>
+    <string name="title_pager">เพจเจอร์</string>
+    <string name="title_private_number">หมายเลขส่วนตัว</string>
+    <string name="title_save">บันทึก</string>
+    <string name="title_sim_not_register">ไม่ได้ลงทะเบียนเครือข่าย</string>
+    <string name="title_summary">สรุป</string>
+    <string name="title_today">วันนี้</string>
+    <string name="title_work">งาน</string>
+    <string name="title_work_fax">แฟกซ์ที่ทำงาน</string>
+    <string name="turn_microphone_off">ปิดไมโครโฟน</string>
+    <string name="turn_microphone_on">เปิดไมโครโฟน</string>
+    <string name="turn_speaker_off">ปิดลำโพง</string>
+    <string name="turn_speaker_on">เปิดลำโพง</string>
+    <string name="unknown">ไม่ทราบ</string>
+    <string name="unknown_caller">ผู้โทรที่ไม่รู้จัก</string>
+    <string name="unknown_error_occurred">เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ</string>
+
+    <string name="web">เว็บ</string>
+    <string name="website">เว็บไซต์</string>
+    <string name="write_personal_message">เขียนข้อความส่วนตัว</string>
+
+    <string name="yes">ใช่</string>
+    <string name="no">เลขที่</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="ok">ตกลง</string>
+
+    <string name="no_ringtone_found">ไม่พบเสียงเรียกเข้า!</string>
+    <string name="ringtone_set_successfully">ตั้งค่าเสียงเรียกเข้าเรียบร้อยแล้ว</string>
+
+    <string name="toast_please_enter_firstname">กรุณากรอกชื่อ</string>
+    <string name="toast_please_enter_surname">กรุณากรอกนามสกุล</string>
+    <string name="toast_please_enter_valid_phone_no">กรุณากรอกหมายเลขโทรศัพท์ที่ถูกต้อง</string>
+    <string name="toast_please_enter_valid_email">กรุณากรอกอีเมล์ที่ถูกต้อง</string>
+
+    <string name="can_t_talk_right_now">ไม่สามารถพูดคุยได้ในขณะนี้…</string>
+    <string name="i_ll_call_you_later">ฉันจะโทรหาคุณในภายหลัง</string>
+    <string name="i_m_on_the_way">ฉันกำลังเดินทาง</string>
+    <string name="can_t_talk_now_call_me_later">ตอนนี้คุยไม่ได้ โทรมาทีหลัง.</string>
+    <string name="toast_number_already_blocked">หมายเลขถูกบล็อกแล้ว</string>
+    <string name="no_app_found_to_handle_this_action">ไม่พบแอปที่สามารถจัดการการกระทำนี้ได้</string>
+    <string name="choose_sim_for_make_call">เลือกซิมสำหรับโทรออก</string>
+    <string name="contacts_with_phone_numbers">การติดต่อด้วยหมายเลขโทรศัพท์</string>
+    <string name="welcome_to_contacts">ยินดีต้อนรับสู่ผู้ติดต่อ</string>
+
+    <string name="premium_purchase_successful">การซื้อสำเร็จ</string>
+
+</resources> 
+

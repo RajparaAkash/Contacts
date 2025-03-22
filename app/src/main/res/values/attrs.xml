@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<!--    <attr name="wheel_atmospheric" format="boolean" />-->
+<!--    <attr name="wheel_curved" format="boolean" />-->
+<!--    <attr name="wheel_cyclic" format="boolean" />-->
+<!--    <attr name="wheel_item_space" format="dimension" />-->
+<!--    <attr name="wheel_item_text_color" format="color" />-->
+<!--    <attr name="wheel_item_text_size" format="dimension" />-->
+<!--    <attr name="wheel_selected_item_text_color" format="color" />-->
+<!--    <attr name="wheel_visible_item_count" format="integer" />-->
+
+
+    <attr name="bubbleColor" format="color" />
+    <attr name="bubbleTextColor" format="color" />
+    <attr name="handleColor" format="color" />
+
+
+    <declare-styleable name="IndexFastScrollRecyclerView">
+        <attr name="setIndexTextSize" format="integer" />
+        <attr name="setIndexbarWidth" format="float" />
+        <attr name="setIndexbarMargin" format="float" />
+        <attr name="setPreviewPadding" format="integer" />
+        <attr name="setIndexBarCornerRadius" format="integer" />
+        <attr name="setIndexBarTransparentValue" format="float" />
+        <attr name="setIndexBarColor" format="color|string" />
+        <attr name="setIndexBarTextColor" format="color|string" />
+        <attr name="setIndexBarHighlightTextColor" format="color|string" />
+        <attr name="setIndexBarColorRes" format="color" />
+        <attr name="setIndexBarTextColorRes" format="color" />
+        <attr name="setIndexBarHighlightTextColorRes" format="color" />
+        <attr name="setPreviewTextSize" format="integer" />
+        <attr name="setPreviewTransparentValue" format="float" />
+        <attr name="setPreviewColor" format="color|string" />
+        <attr name="setPreviewTextColor" format="color|string" />
+        <attr name="setIndexBarStrokeWidth" format="integer" />
+        <attr name="setIndexBarStrokeColor" format="color|string" />
+        <!--        <attr name="setIndexBarShown" format="boolean" />-->
+        <!--        <attr name="setTransientIndexBar" format="boolean" />-->
+    </declare-styleable>
+
+
+    <declare-styleable name="WheelPicker">
+        <attr name="wheel_data" format="reference" />
+        <attr name="wheel_item_text_size" format="dimension" />
+        <attr name="wheel_visible_item_count" format="integer" />
+        <attr name="wheel_selected_item_position" format="integer" />
+        <attr name="wheel_same_width" format="boolean" />
+        <attr name="wheel_maximum_width_text_position" format="integer" />
+        <attr name="wheel_maximum_width_text" format="string" />
+        <attr name="wheel_selected_item_text_color" format="color" />
+        <attr name="wheel_item_text_color" format="color" />
+        <attr name="wheel_item_space" format="dimension" />
+        <attr name="wheel_cyclic" format="boolean" />
+        <attr name="wheel_indicator" format="boolean" />
+        <attr name="wheel_indicator_color" format="color" />
+        <attr name="wheel_indicator_size" format="dimension" />
+        <attr name="wheel_curtain" format="boolean" />
+        <attr name="wheel_curtain_color" format="color" />
+        <attr name="wheel_atmospheric" format="boolean" />
+        <attr name="wheel_curved" format="boolean" />
+        <attr name="wheel_item_align">
+            <enum name="center" value="0" />
+            <enum name="left" value="1" />
+            <enum name="right" value="2" />
+        </attr>
+        <attr name="wheel_font_path" format="string" />
+    </declare-styleable>
+
+
+    <declare-styleable name="SwipeRevealLayout">
+        <attr name="dragFromEdge">
+            <flag name="left" value="1" />
+            <flag name="right" value="2" />
+        </attr>
+    </declare-styleable>
+
+
+
+
+
+
+    <declare-styleable name="SwipeRevealLayoutTwo">
+        <attr name="dragEdge">
+            <flag name="left" value="1" />
+            <flag name="right" value="2" />
+            <flag name="top" value="4" />
+            <flag name="bottom" value="8" />
+        </attr>
+
+        <attr name="mode">
+            <enum name="normal" value="0" />
+            <enum name="same_level"   value="1" />
+        </attr>
+
+        <attr name="flingVelocity" format="integer" />
+
+        <attr name="minDistRequestDisallowParent" format="dimension" />
+    </declare-styleable>
+
+
+
+
+    <attr name="rfs_barColor" format="color|reference" />
+
+    <declare-styleable name="AbsRecyclerViewFastScroller">
+        <attr name="rfs_fast_scroller_layout" format="reference" />
+<!--        <attr name="rfs_barColor" format="color|reference" />-->
+        <attr name="rfs_barColor" />
+        <attr name="rfs_barBackground" format="reference" />
+        <attr name="rfs_handleColor" format="color|reference" />
+        <attr name="rfs_handleBackground" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="AbsSectionIndicator">
+        <attr name="rfs_section_indicator_layout" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SectionTitleIndicator">
+        <attr name="rfs_textColor" format="color|reference" />
+        <attr name="rfs_backgroundColor" format="color|reference" />
+    </declare-styleable>
+
+
+
+    <declare-styleable name="RecyclerFastScroller">
+        <attr name="rfs_barColor" />
+        <attr name="rfs_handleNormalColor" format="color" />
+        <attr name="rfs_handlePressedColor" format="color" />
+        <attr name="rfs_touchTargetWidth" format="dimension" />
+        <attr name="rfs_hideDelay" format="integer" />
+        <attr name="rfs_hidingEnabled" format="boolean" />
+    </declare-styleable>
+
+
+</resources>

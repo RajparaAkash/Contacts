@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">연락처</string>
+
+    <string name="incoming_call">수신 전화</string>
+    <string name="whatsapp">왓츠앱</string>
+    <string name="voice_call">음성 통화</string>
+    <string name="connected_apps">연결된 앱</string>
+    <string name="answer">답변</string>
+    <string name="more">더 보기</string>
+    <string name="today">오늘</string>
+    <string name="yesterday">어제</string>
+
+    <string name="whoops">앗!</string>
+    <string name="slow_or_no_internet_connection_please_check_your_internet_connection">인터넷 연결이 느리거나 연결되지 않았습니다. 인터넷 연결을 확인하세요.</string>
+    <string name="retry">다시 시도</string>
+    <string name="go_to_settings">설정으로 이동</string>
+    <string name="dismiss">해제</string>
+    <string name="sorry_service_is_not_available_due_to_maintenance_please_try_after_some_time_or_retry_thank_you">죄송합니다. 유지 관리로 인해 서비스를 이용할 수 없습니다. 잠시 후에 다시 시도하거나 다시 시도하세요. 감사합니다!</string>
+    <string name="app_under_maintenance">앱 유지 관리 중</string>
+    <string name="showing_ad_please_wait">광고 표시, 잠시만 기다려 주세요...</string>
+    <string name="showing_ad_please_wait_desc">이 경고는 실수로\n광고를 클릭하지 않도록 하기 위한 것입니다.</string>
+    <string name="ad">광고</string>
+    <string name="continue_to_app">앱 계속</string>
+    <string name="accept_and_continue"><![CDATA[동의 및 계속]]></string>
+    <string name="privacy_policy">개인정보처리방침</string>
+    <string name="are_you_sure_nyou_want_to_exit_app">정말이신가요!!!\n앱을 종료하시겠습니까?</string>
+    <string name="press_here_to_exit">여기를 눌러 종료</string>
+    <string name="an_update_has_just_been_downloaded">방금 업데이트가 다운로드되었습니다.</string>
+
+    <string name="you_leaving">종료합니다...</string>
+    <string name="loading_ad">광고 로드 중, 잠시만 기다려 주세요...</string>
+
+
+    <string name="toast_message_sent">메시지 전송</string>
+    <string name="toast_number_not_delete">번호가 삭제되지 않았습니다! 오류가 발생했습니다.</string>
+    <string name="toast_no_email_clients">이메일 클라이언트가 설치되지 않았습니다.</string>
+
+
+    <!--  Privacy Policy  -->
+    <string name="privacy_title"><![CDATA[전화 걸기 및 연락처]]></string>
+    <string name="privacy_get_started">시작하기</string>
+
+    <!--  Permission  -->
+    <string name="permission_welcome">\n연락처에 오신 것을 환영합니다.</string>
+    <string name="allow_permission_desription">전화 걸기 및 수정된 연락처에 대한 권한 허용</string>
+    <string name="allow_contact">연락처</string>
+    <string name="title_contact_description">이 앱이 발신자 화면에서 연락처를 읽고 쓸 수 있도록 허용합니다.</string>
+    <string name="title_phone">전화 상태</string>
+    <string name="title_phone_description">수신 및 발신 통화 상태를 식별하는 데 도움이 됩니다.</string>
+    <string name="title_call_log">통화 기록</string>
+    <string name="title_call_log_description">앱이 사용자의 통화 기록 데이터를 읽고 쓸 수 있도록 허용합니다.</string>
+    <string name="title_overlay_permissiom">오버레이 권한</string>
+    <string name="title_overlay_description">무료 애프터콜 기능을 사용하려면 오버레이 권한을 요청해야 합니다.</string>
+    <string name="allow_permission">권한 허용</string>
+
+    <string name="dialog_perm_title">권한 필요</string>
+    <string name="dialog_perm_desc">이 앱은 이 기능을 사용하려면 권한이 필요합니다. 앱 설정에서 권한을 부여할 수 있습니다.</string>
+    <string name="dialog_perm_go_to_setting">설정으로 이동</string>
+
+    <!--  Set as default  -->
+    <string name="set_as_default">기본으로 설정</string>
+    <string name="set_as_default_description"><![CDATA[아래 버튼을 클릭하여 연락처를 기본 발신자 ID 및 스팸 앱으로 설정]]></string>
+
+    <!--  Home  -->
+    <string name="home_favorite">즐겨찾기</string>
+    <string name="home_recent">최근</string>
+    <string name="home_contacts">연락처</string>
+    <string name="home_search_here">여기에서 검색</string>
+    <string name="home_other">기타</string>
+    <string name="home_block_contacts">연락처 차단</string>
+    <string name="home_settings">설정</string>
+    <string name="home_rate">평가</string>
+    <string name="home_share">공유</string>
+    <string name="home_feedback">피드백</string>
+    <string name="home_privacy_policy">개인정보 보호정책</string>
+
+    <!--  Settings  -->
+    <string name="setting_general">일반</string>
+    <string name="make_default"><![CDATA[연락처를 기본 발신자 ID 및 스팸 앱으로 설정]]></string>
+    <string name="show_caller_dialog">통화 후 발신자 ID 표시</string>
+    <string name="show_quick_decline_messages">빠른 거부 메시지</string>
+    <string name="show_dial_pad_sound">다이얼 패드 사운드</string>
+    <string name="show_led_flash">LED 플래시</string>
+    <string name="setting_dark_theme">어두운 테마</string>
+    <string name="toast_flash_not_supported">기기에서 LED 플래시가 지원되지 않음</string>
+
+    <string name="setting_edit_contact">연락처 편집</string>
+    <string name="default_account">새 연락처의 기본 계정</string>
+
+    <!--  Recent  -->
+    <string name="outgoing">발신 전화</string>
+    <string name="declined_call">거부된 전화</string>
+    <string name="block_call">차단된 전화</string>
+    <string name="missed_Call">놓친 전화</string>
+    <string name="incoming">수신 전화</string>
+    <string name="block">차단</string>
+    <string name="unblock">차단 해제</string>
+
+    <string name="recent_call">통화</string>
+    <string name="video_call">화상 통화</string>
+    <string name="recent_info">정보</string>
+
+    <!--  Dial  -->
+    <string name="dial_add_to_contacts">연락처에 추가</string>
+
+    <!--  Contact info  -->
+    <string name="call">통화</string>
+    <string name="message">메시지</string>
+    <string name="video">화상</string>
+    <string name="info_contact_info">연락처 정보</string>
+    <string name="info_contact_history">연락처 기록</string>
+    <string name="info_see_all">모두 보기</string>
+
+    <!--  Block Contact  -->
+    <string name="block_numbers">번호 차단</string>
+    <string name="block_call_from_unknown">알 수 없는 번호에서 온 전화 차단</string>
+    <string name="block_add_phone_hint">전화번호 추가</string>
+    <string name="block_enter_valid_number">유효한 번호를 입력하세요</string>
+
+    <!--  Call History  -->
+    <string name="history_call_history">통화 기록</string>
+    <string name="history_no_data">데이터 없음</string>
+
+    <!--  Call History  -->
+    <string name="popup_sync_contact">연락처 동기화</string>
+    <string name="popup_clear_history">지우기 기록</string>
+    <string name="popup_speed_dial_numbers">단축 다이얼 번호</string>
+
+    <!--  Quick Response  -->
+    <string name="quick_response_title">빠른 응답</string>
+    <string name="quick_response_add">추가</string>
+
+    <!--  Filter Dialog  -->
+    <string name="filter_dialog_title">통화 필터링</string>
+    <string name="filter_all_calls">모든 통화</string>
+    <string name="filter_missed_calls">놓친 통화</string>
+    <string name="filter_incoming_calls">수신 통화</string>
+    <string name="filter_outgoing_calls">발신 통화</string>
+    <string name="filter_reset">재설정</string>
+    <string name="filter_apply">적용</string>
+    <string name="filter_sim_all">모든 심</string>
+    <string name="filter_sim_one">심 1</string>
+    <string name="filter_sim_two">심 2</string>
+
+    <!--  Quick Response Dialog  -->
+    <string name="dialog_quick_response_add">빠른 응답 추가</string>
+    <string name="dialog_quick_response_edit">빠른 응답 편집</string>
+    <string name="dialog_quick_response_hint">메시지</string>
+
+    <!--  Speed Dial  -->
+    <string name="speed_dial_title">단축 다이얼</string>
+    <string name="speed_dial_desc">연락처를 단축 다이얼 번호에 할당합니다.</string>
+    <string name="speed_dial_not_assign">할당 안 함</string>
+
+    <!--  Conference  -->
+    <string name="conference_title">통화 관리</string>
+
+
+    <!--  Add Contact  -->
+    <string name="name_prefix_hint">이름 접두사</string>
+    <string name="first_name_hint">이름</string>
+    <string name="middle_name_hint">중간 이름</string>
+    <string name="surname_hint">성</string>
+    <string name="name_suffix_hint">이름 접미사</string>
+
+    <string name="company_name_hint">회사 이름</string>
+    <string name="department_hint">부서</string>
+    <string name="title_hint">직함</string>
+
+    <string name="phone_number_hint">전화번호</string>
+    <string name="email_hint">이메일</string>
+    <string name="significant_date_hint">중요 날짜</string>
+    <string name="website_hint">웹사이트</string>
+    <string name="notes_hint">메모</string>
+    <string name="label_hint">라벨</string>
+
+
+    <string name="Day" translatable="false">D</string>
+    <string name="Month" translatable="false">M</string>
+    <string name="Year" translatable="false">Y</string>
+    <string name="about">정보</string>
+    <string name="accept">수락</string>
+    <string name="accounts">계정</string>
+    <string name="add_contact">새 연락처 만들기</string>
+    <string name="add_email">이메일 추가</string>
+    <string name="add_phone_number">전화번호 추가</string>
+    <string name="add_picture">사진 추가</string>
+    <string name="addcall">통화 추가</string>
+    <string name="all_contacts_0">모든 연락처 0</string>
+    <string name="always_use_this_sim">항상 이 SIM 사용</string>
+
+
+    <string name="block_contact">연락처 차단</string>
+    <!--    <string name="block_contact_desc">이 연락처로부터 더 이상 전화나 메시지를 받지 않습니다.</string>-->
+    <string name="block_contact_desc">이 번호를 차단하시겠습니까?</string>
+    <string name="toast_block_contact">연락처가 성공적으로 차단되었습니다.</string>
+
+    <string name="default_app_desc">연락처에서 사용할 수 있는 모든 기능을 사용하려면 연락처 앱을 기본 전화 앱으로 설정해야 합니다.</string>
+    <string name="block_contect_default_app">연락처를 차단하려면 연락처를 기본 전화 앱으로 설정해야 합니다.</string>
+    <string name="block_error_message">이 연락처를 차단하지 않았습니다. 이 연락처에 첫 번째 전화번호를 추가하세요.</string>
+    <string name="block_not_supported">이 기기에서는 번호 차단 기능이 지원되지 않습니다.</string>
+    <string name="calendar">일정</string>
+    <string name="call_ended">통화 종료</string>
+    <string name="call_ending">통화 종료</string>
+    <string name="call_on_hold">통화 보류</string>
+    <string name="call_swap">통화 스와이프</string>
+    <string name="can_call_you_later">나중에 전화해도 될까요?</string>
+    <string name="can_not_talk_right_now">죄송하지만 지금은 통화할 수 없습니다.</string>
+    <string name="change_photo">사진 변경</string>
+
+
+    <string name="conference_manage">컨퍼런스 콜</string>
+    <string name="confirm_message_of_delete">이 연락처를 삭제하시겠습니까?</string>
+
+    <string name="contact_label">라벨</string>
+    <string name="contact_name">연락처 이름</string>
+    <string name="contacts">연락처</string>
+    <string name="create_contact">연락처 만들기</string>
+    <string name="decline">거부</string>
+
+
+    <string name="add">추가</string>
+    <string name="update">업데이트</string>
+    <string name="delete">삭제</string>
+    <string name="share">공유</string>
+    <string name="set_ringtone">벨소리 설정</string>
+
+
+    <string name="delete_contact_message">이 번호를 삭제하시겠습니까?</string>
+
+    <string name="edit_contact">연락처 편집</string>
+    <string name="fields_empty">최소 1개의 필드가 필요합니다!</string>
+
+
+    <string name="more_fields">추가 필드</string>
+    <string name="name_format">이름 형식</string>
+
+
+    <string name="duration">기간</string>
+    <string name="email">이메일</string>
+    <string name="email_validation">먼저 이메일을 추가하세요!</string>
+    <string name="event">중요한 날짜</string>
+
+
+    <string name="gmail_not_install">설치되지 않음 Gmail</string>
+    <string name="first_name_first">이름 먼저</string>
+    <string name="header_special_character">...</string>
+    <string name="header_starred">*</string>
+    <string name="history">기록</string>
+    <string name="i_am_on_my_way">가는 중</string>
+
+
+    <string name="hold">보류</string>
+    <string name="hold_call">통화 보류</string>
+    <string name="dialing">전화 걸기…</string>
+    <string name="is_calling">전화 걸기…</string>
+    <string name="keypad">키패드</string>
+    <string name="merge">병합</string>
+
+
+    <string name="lbl_find">연락처 찾기 및 권한 허용</string>
+
+
+    <string name="message_delete_history">모든 기록을 지우시겠습니까?</string>
+    <string name="messages">메시지</string>
+
+
+    <string name="no_app_found">전화 걸기 앱을 찾을 수 없음</string>
+    <string name="no_app_found_hendle_this_event">이 이벤트를 처리할 앱을 찾을 수 없음!</string>
+    <string name="no_block_contact">차단 연락처 없음</string>
+    <string name="no_contact">(0)</string>
+    <string name="no_favorite_contact">즐겨찾는 연락처가 없습니다!</string>
+    <string name="no_recent_found">최근 연락처가 없습니다!</string>
+    <string name="no_contacts_found">연락처가 없습니다!</string>
+
+    <string name="no_title">제목 없음</string>
+    <string name="notes">메모</string>
+    <string name="number_blocked_msg">번호 차단 성공</string>
+    <string name="number_unblocked_msg">번호 차단 해제 성공</string>
+    <string name="number_not">번호를 찾을 수 없음</string>
+    <string name="number_of_calls_with">통화</string>
+    <string name="older">이전</string>
+    <string name="ongoing_call">발신 통화</string>
+
+
+    <string name="permission_set_as_default">이 앱을 기본 전화 앱으로 설정하시겠습니까? 앱 설정에서 허용할 수 있습니다.</string>
+    <string name="phone">전화</string>
+    <string name="phone_validation">먼저 전화번호를 추가하세요!</string>
+
+    <string name="private_number">비공개 번호</string>
+
+    <string name="remind_me_about">알림</string>
+    <string name="remove_photo">사진 제거</string>
+    <string name="resume_call">통화 재개</string>
+    <string name="save">저장</string>
+    <string name="save_to">저장 대상</string>
+    <string name="search_contacts">연락처 검색</string>
+    <string name="search_menu_title">찾다</string>
+    <string name="select">선택하다</string>
+    <string name="select_sim">심 선택</string>
+    <string name="selected_account">선택한 계정</string>
+    <string name="selected_contact">0개 선택됨</string>
+    <string name="selected_photo">사진 선택</string>
+    <string name="send_a_message">메세지를 보내다</string>
+    <string name="send_mail">메일을 보내다</string>
+
+    <string name="settings">설정</string>
+
+    <string name="share_via">다음을 통해 공유</string>
+    <string name="share_your_expirence">경험을 공유하세요</string>
+
+    <string name="sim_not_available">심 네트워크를 사용할 수 없습니다...!</string>
+    <string name="sortby">정렬 기준</string>
+    <string name="speaker">스피커</string>
+    <string name="string_special_character">[^a-z0-9 ]</string>
+    <string name="string_today">오늘</string>
+    <string name="string_yesterday">어제</string>
+
+    <string name="surname">성</string>
+    <string name="surname_first">성 먼저</string>
+    <string name="take_new_photo">새 사진 찍기</string>
+    <string name="text">텍스트</string>
+    <string name="this_month">이번 달</string>
+    <string name="title">제목</string>
+    <string name="title_anniversary">기념일</string>
+    <string name="title_birthday">생일</string>
+    <string name="title_cancel">취소</string>
+    <string name="title_go_to_setting">설정으로 바로 가기</string>
+    <string name="title_help_to_identify">다른 사람들이 이 번호를 식별할 수 있도록 도와주세요.</string>
+    <string name="title_home">집</string>
+    <string name="title_home_fax">집 팩스</string>
+    <string name="title_lang">언어</string>
+    <string name="title_main">기본</string>
+    <string name="title_mobile">이동하는</string>
+    <string name="title_mute">무음</string>
+    <string name="title_no_lable">라벨 없음</string>
+    <string name="title_other">다른</string>
+    <string name="title_pager">휴대용 소형 무선 호출기</string>
+    <string name="title_private_number">개인 번호</string>
+    <string name="title_save">구하다</string>
+    <string name="title_sim_not_register">등록되지 않은 네트워크</string>
+    <string name="title_summary">요약</string>
+    <string name="title_today">오늘</string>
+    <string name="title_work">일하다</string>
+    <string name="title_work_fax">직장 팩스</string>
+    <string name="turn_microphone_off">마이크 끄기</string>
+    <string name="turn_microphone_on">마이크 켜기</string>
+    <string name="turn_speaker_off">스피커 끄기</string>
+    <string name="turn_speaker_on">스피커 켜기</string>
+    <string name="unknown">알려지지 않은</string>
+    <string name="unknown_caller">알 수 없는 발신자</string>
+    <string name="unknown_error_occurred">알 수 없는 오류가 발생했습니다.</string>
+
+    <string name="web">편물</string>
+    <string name="website">웹사이트</string>
+    <string name="write_personal_message">개인 메시지 작성</string>
+
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="cancel">취소</string>
+    <string name="ok">좋아요</string>
+
+    <string name="no_ringtone_found">벨소리를 찾을 수 없습니다!</string>
+    <string name="ringtone_set_successfully">벨소리가 설정되었습니다.</string>
+
+    <string name="toast_please_enter_firstname">이름을 입력하세요</string>
+    <string name="toast_please_enter_surname">성을 입력하세요</string>
+    <string name="toast_please_enter_valid_phone_no">유효한 전화번호를 입력하세요.</string>
+    <string name="toast_please_enter_valid_email">유효한 이메일을 입력해주세요</string>
+
+    <string name="can_t_talk_right_now">지금은 통화할 수 없습니다…</string>
+    <string name="i_ll_call_you_later">나중에 전화 할께.</string>
+    <string name="i_m_on_the_way">가고있어.</string>
+    <string name="can_t_talk_now_call_me_later">지금은 말할 수 없습니다. 나중에 전화하세요.</string>
+    <string name="toast_number_already_blocked">이미 차단된 번호</string>
+    <string name="no_app_found_to_handle_this_action">이 작업을 처리하는 앱을 찾을 수 없습니다.</string>
+    <string name="choose_sim_for_make_call">전화를 걸려면 SIM을 선택하세요.</string>
+    <string name="contacts_with_phone_numbers">전화번호가 있는 연락처</string>
+    <string name="welcome_to_contacts">연락처에 오신 것을 환영합니다.</string>
+
+    <string name="premium_purchase_successful">구매 성공</string>
+
+</resources> 
+

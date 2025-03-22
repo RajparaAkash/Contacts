@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:focusableInTouchMode="true"
+    android:paddingTop="@dimen/_5sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/dialpad_1_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dialpad_2_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="2" />
+
+                <TextView
+                    android:id="@+id/dialpad_2_letters"
+                    style="@style/DialpadLetterStyle"
+                    android:text="ABC" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dialpad_3_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="3" />
+
+                <TextView
+                    android:id="@+id/dialpad_3_letters"
+                    style="@style/DialpadLetterStyle"
+                    android:text="DEF" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="@dimen/_8sdp">
+
+            <LinearLayout
+                android:id="@+id/dialpad_4_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="4" />
+
+                <TextView
+                    android:id="@+id/dialpad_4_letters"
+                    style="@style/DialpadLetterStyle"
+                    android:text="GHI" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dialpad_5_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="5" />
+
+                <TextView
+                    android:id="@+id/dialpad_5_letters"
+                    style="@style/DialpadLetterStyle"
+                    android:text="JKL" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dialpad_6_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="6" />
+
+                <TextView
+                    android:id="@+id/dialpad_6_letters"
+                    style="@style/DialpadLetterStyle"
+                    android:text="MNO" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/dialpad_7_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="7" />
+
+                <TextView
+                    android:id="@+id/dialpad_7_letters"
+                    style="@style/DialpadLetterStyle"
+                    android:text="PQRS" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dialpad_8_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="8" />
+
+                <TextView
+                    android:id="@+id/dialpad_8_letters"
+                    style="@style/DialpadLetterStyle"
+                    android:text="TUV" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dialpad_9_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="9" />
+
+                <TextView
+                    android:id="@+id/dialpad_9_letters"
+                    style="@style/DialpadLetterStyle"
+                    android:text="WXYZ" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_8sdp">
+
+            <LinearLayout
+                android:id="@+id/dialpad_asterisk_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="*" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dialpad_0_holder"
+                style="@style/DialPadLayoutStyle"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="0" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="+"
+                    android:textColor="@color/text_gray"
+                    android:textSize="@dimen/_10ssp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dialpad_hashtag_holder"
+                style="@style/DialPadLayoutStyle">
+
+                <TextView
+                    style="@style/DialpadNumberStyle"
+                    android:text="#" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

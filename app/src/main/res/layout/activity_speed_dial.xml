@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_45sdp"
+        android:gravity="center">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ivBack"
+            style="@style/ToolbarIcon"
+            android:src="@drawable/back_arrow" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <TextView
+                style="@style/ToolbarText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/speed_dial_title" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/regular"
+                android:paddingHorizontal="@dimen/_15sdp"
+                android:text="@string/speed_dial_desc"
+                android:textColor="@color/text_gray"
+                android:textSize="@dimen/_10ssp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <LinearLayout
+                    style="@style/DialPadLayoutStyle"
+                    android:gravity="center"
+                    android:visibility="invisible">
+
+                    <TextView
+                        style="@style/DialpadNumberStyle"
+                        android:text="1" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llDial2"
+                    style="@style/DialPadLayoutStyle"
+                    android:gravity="center">
+
+                    <TextView
+                        style="@style/DialpadNumberStyle"
+                        android:text="2" />
+
+                    <TextView
+                        android:id="@+id/tvDial2"
+                        style="@style/DialpadLetterStyle"
+                        android:text="@string/speed_dial_not_assign"
+                        android:textAllCaps="false" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llDial3"
+                    style="@style/DialPadLayoutStyle"
+                    android:gravity="center">
+
+                    <TextView
+                        style="@style/DialpadNumberStyle"
+                        android:text="3" />
+
+                    <TextView
+                        android:id="@+id/tvDial3"
+                        style="@style/DialpadLetterStyle"
+                        android:text="@string/speed_dial_not_assign"
+                        android:textAllCaps="false" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <LinearLayout
+                    android:id="@+id/llDial4"
+                    style="@style/DialPadLayoutStyle"
+                    android:gravity="center">
+
+                    <TextView
+                        style="@style/DialpadNumberStyle"
+                        android:text="4" />
+
+                    <TextView
+                        android:id="@+id/tvDial4"
+                        style="@style/DialpadLetterStyle"
+                        android:text="@string/speed_dial_not_assign"
+                        android:textAllCaps="false" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llDial5"
+                    style="@style/DialPadLayoutStyle"
+                    android:gravity="center">
+
+                    <TextView
+                        style="@style/DialpadNumberStyle"
+                        android:text="5" />
+
+                    <TextView
+                        android:id="@+id/tvDial5"
+                        style="@style/DialpadLetterStyle"
+                        android:text="@string/speed_dial_not_assign"
+                        android:textAllCaps="false" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llDial6"
+                    style="@style/DialPadLayoutStyle"
+                    android:gravity="center">
+
+                    <TextView
+                        style="@style/DialpadNumberStyle"
+                        android:text="6" />
+
+                    <TextView
+                        android:id="@+id/tvDial6"
+                        style="@style/DialpadLetterStyle"
+                        android:text="@string/speed_dial_not_assign"
+                        android:textAllCaps="false" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <LinearLayout
+                    android:id="@+id/llDial7"
+                    style="@style/DialPadLayoutStyle"
+                    android:gravity="center">
+
+                    <TextView
+                        style="@style/DialpadNumberStyle"
+                        android:text="7" />
+
+                    <TextView
+                        android:id="@+id/tvDial7"
+                        style="@style/DialpadLetterStyle"
+                        android:text="@string/speed_dial_not_assign"
+                        android:textAllCaps="false" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llDial8"
+                    style="@style/DialPadLayoutStyle"
+                    android:gravity="center">
+
+                    <TextView
+                        style="@style/DialpadNumberStyle"
+                        android:text="8" />
+
+                    <TextView
+                        android:id="@+id/tvDial8"
+                        style="@style/DialpadLetterStyle"
+                        android:text="@string/speed_dial_not_assign"
+                        android:textAllCaps="false" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llDial9"
+                    style="@style/DialPadLayoutStyle"
+                    android:gravity="center">
+
+                    <TextView
+                        style="@style/DialpadNumberStyle"
+                        android:text="9" />
+
+                    <TextView
+                        android:id="@+id/tvDial9"
+                        style="@style/DialpadLetterStyle"
+                        android:text="@string/speed_dial_not_assign"
+                        android:textAllCaps="false" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <include layout="@layout/space_banner_holder" />
+
+</LinearLayout>
